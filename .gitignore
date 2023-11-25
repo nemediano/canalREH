@@ -269,6 +269,7 @@ TSWLatexianTemp*
 
 # Kile
 *.backup
+*.kilepr.gui
 
 # gummi
 .*.swp
