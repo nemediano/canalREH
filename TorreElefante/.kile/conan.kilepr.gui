@@ -27,7 +27,7 @@ open=false
 order=-1
 
 [item:contenido.tex]
-open=false
+open=true
 order=0
 
 [item:presentacion.tex]

@@ -28,19 +28,19 @@ order=-1
 
 [item:contenido.tex]
 open=true
-order=1
+order=0
 
 [item:presentacion.tex]
-open=true
+open=false
 order=0
 
 [view-settings,view=0,item:contenido.tex]
-CursorColumn=0
-CursorLine=249
+CursorColumn=14
+CursorLine=253
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
-ViMarks=.,206,25,[,206,25,],206,25
+ViMarks=.,141,0,[,141,0,],141,0
 
 [view-settings,view=0,item:presentacion.tex]
 CursorColumn=42
