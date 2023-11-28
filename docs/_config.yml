@@ -6,8 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Dedicados a la apreciación y el análisis de la vida y obra del escritor y poeta estadounidense Robert E Howard, creador de Conan el bárbaro.
-  Este sitio complementa el canal de youtube del mismo nombre.
+  Dedicados a la apreciación y el análisis, de la vida y obra del escritor y poeta Robert E Howard; creador de Conan.
 
 
 
@@ -59,7 +58,7 @@ minima:
     - { platform: facebook,       user_url: "https://www.facebook.com/nemediano" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
     - { platform: github,         user_url: "https://github.com/nemediano" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=p2dAy1MAAAAJ&hl=en" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=p2dAy1MAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jorgegarciagalicia/" }
@@ -67,8 +66,8 @@ minima:
   #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-    - { platform: x,              user_url: "https://x.com/nemediano" }
+    - { platform: twitter,        user_url: "https://twitter.com/nemediano" }
+  #  - { platform: x,              user_url: "https://x.com/nemediano" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 

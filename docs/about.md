@@ -4,15 +4,21 @@ title: Acerca de
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Robert E. Howard
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![Robert E. Howard picture](../static/images/RobertHoward.jpg "Robert E. Howard")
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+El baúl de Howard es un sitio dedicado a la apreciación y el análisis de la vida y obra de [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard) (REH).
 
+REH, fué un escritor y poeta estadounidense de principios del siglo XX, mejor conocido por su personaje más famoso: [Conan el bárbaro](https://en.wikipedia.org/wiki/Conan_the_Barbarian).
 
-[jekyll-organization]: https://github.com/jekyll
+Éste sitio complementa el canal de youtube del mismo nombre.
+
+## El que escribe
+
+![Nemediano avatar](../static/images/Avatar.jpg "Nemediano")
+
+Jorge García, a.k.a nemediano disfrutaba de la obra de REH, aún antes de que estiviera consiente de ello.
+
+Nemediano empezó leyendo los comics de "La espada salvaje de Conan el bárbaro", que era la version traducida al Español de el mítico título de Marvel comics: ["The savage sword of Conan"](https://en.wikipedia.org/wiki/Savage_Sword_of_Conan).
+
