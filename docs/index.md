@@ -14,6 +14,6 @@ Este sitio complementa el canal de youtube del mismo nombre.
 
 Los post están divididos en tres categorías:
 
-* [Literatura](): Donde se analizan las historias y poemas de REH. De distintos ciclos y de cualquier genero
-* [Conan](): Donde se analizan todo los referente al personaje de Conan. Ya sea las historias originales de REH o las historias de otros autores que han aparecido en diferentes medios
-* [Howard](): Donde analizamos biografías del autor, a sus personajes, ensayos críticos de su obra y cualquier otro trabajo que haya sido inspirado o esté relacionado con REH.
+* [Literatura](/literature): Donde se analizan las historias y poemas de REH. De distintos ciclos y de cualquier genero
+* [Conan](/conan): Donde sliteraturelizan todo los referente al personaje de Conan. Ya sea las historias originales de REH o las historias de otros autores que han aparecido en diferentes medios
+* [Howard](/howard): Donde analizamos biografías del autor, a sus personajes, ensayos críticos de su obra y cualquier otro trabajo que haya sido howradrado o esté relacionado con REH.
