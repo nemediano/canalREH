@@ -18,7 +18,7 @@ Su creación más conocida es sin lugar a dudas [Conan el Bárbaro](https://en.w
 
 La vida de REH fue trágica y corta, hecho que sin duda contribuye a su leyenda de poeta maldito. Murió por su propia mano a la edad de 30 años en el punto más alto de su carrera.
 
-## El que escribe
+## Nemediano
 
 ![Nemediano avatar](../static/images/nemediano.jpg "Nemediano")
 
