@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: category_page
 title: Howard
 permalink: /howard/
+value: howard
 ---
 
 Robert E. Howard (REH) es también reconocido como el inventor un subgénero de la literatura fantástica, la llamada: espada y hechicería. Aunque la anterior afirmación es debatible, es innegable la importancia que tuvo REH para este género.

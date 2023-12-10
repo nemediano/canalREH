@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: category_page
 title: Literatura
 permalink: /literature/
+value: literature
 ---
 
 En esta sección analizamos cualquier obra escrita por REH (excepto por el ciclo de Conan que tiene su [sección](/conan) aparte).

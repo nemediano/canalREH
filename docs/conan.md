@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: category_page
 title: Conan
 permalink: /conan/
+value: conan
 ---
 
 En esta sección analizamos todo lo relacionado con el personaje más famoso de REH: Conan. “Conan el bárbaro”, o “Conan el cimmerio” fue la aportación más trascendente de REH. Su importancia y popularidad es tal, que se puede decir que el personaje opaca al autor.
