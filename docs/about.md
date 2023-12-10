@@ -2,6 +2,9 @@
 layout: page
 title: Acerca de
 permalink: /about/
+excerpt: Acerca de Robert E. Howard y Nemediano. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+seo_title: Acerca de Robert E. Howard y Nemediano.
+seo_description: Acerca de Robert E. Howard y Nemediano. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 ---
 
 ## Robert E. Howard
