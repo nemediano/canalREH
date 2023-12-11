@@ -9,7 +9,7 @@ seo_description: Acerca de Robert E. Howard y Nemediano. El baúl de Howard trat
 
 ## Robert E. Howard
 
-![Robert E. Howard picture](../static/images/RobertHoward.jpg "Robert E. Howard")
+![Robert E. Howard picture]({{ site.baseurl }}/static/images/RobertHoward.jpg "Robert E. Howard")
 
 [Robert Ervin Howard](https://en.wikipedia.org/wiki/Robert_E._Howard)(REH) fue un escritor y poeta nacido en Texas, Estados Unidos
 a principios del siglo XX.
@@ -23,7 +23,7 @@ La vida de REH fue trágica y corta, hecho que sin duda contribuye a su leyenda 
 
 ## Nemediano
 
-![Nemediano avatar](../static/images/nemediano.jpg "Nemediano")
+![Nemediano avatar]({{ site.baseurl }}/static/images/nemediano.jpg "Nemediano")
 
 Todo fan de Robert E Howard empezó siendo un fan de Conan.
 
