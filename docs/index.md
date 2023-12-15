@@ -10,7 +10,7 @@ excerpt: El baúl de Howard trata de hacer análisis en español de la vida y ob
 seo_title: El baúl de Howard análisis en español de la vida y obra de Robert E. Howard.
 seo_description: El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard. Creador de Conan el bárbaro.
 ---
-Este blog está dedicado a la apreciación y el análisis de la vida y obra de Robert E Howard (a.k.a. REH).
+Este blog está dedicado a la apreciación y el análisis de la vida y obra de Robert E. Howard (a.k.a. REH).
 REH, fué un escritor y poeta estadounidense de principios del siglo XX, mejor conocido por su personaje más famoso: Conan el bárbaro.
 
 Este sitio complementa el canal de youtube del mismo nombre.
