@@ -35,9 +35,11 @@ Esta historia apareció por primera vez en Weird tales en el número de marzo de
 ![Weird Tales 1933 - #3 cover]({{ site.baseurl }}/static/images/conan/torreElefante/WeirdTales-1933-03.jpg "Weird Tales 1933 - #3")
 
 ### Orden de Publicacion
-La torre del elefante forma parte del ciclo de Conan, que consta de 20 a 25 historias de REH, dependiendo de cómo queramos contarlas.
-Si solo se cuentan historias publicadas en la vida de REH, son 20 (o 19 dependiendo de si se cuenta o no *La hija del gigante helado*).
-Si se añaden la historias que fueron rechazadas por los editores, y luego publicadas después de la muerte del autor así como fragmentos que el autor dejó inconclusos y fueron muchos años después terminados y publicados por otros autores ahí la cuenta da 25.
+
+La torre del elefante forma parte del ciclo de Conan, que consta de 18 a 25 historias de REH, dependiendo de cómo queramos contarlas.
+Si solo se cuentan historias publicadas en la vida de REH, son 18 (o 17 dependiendo de si se cuenta o no *La hija del gigante helado*).
+
+Si se añaden la historias que fueron rechazadas por los editores durante la vida de REH, y luego publicadas después de su muerte; así como fragmentos que el autor dejó inconclusos y que fueron --muchos años después-- terminados y publicados por otros autores, ahí la cuenta sube a 25.
 
 ![Orden de publicacion]({{ site.baseurl }}/static/images/conan/torreElefante/OrdenPublicacion.png "Orden de publicación")
 
@@ -46,10 +48,15 @@ Como puede verse ésta historia es la tercera historia de Conan en ser publicada
 ### Situación en la cronología
 
 Ha habido varios intentos de establecer una [cronología de la vida ficticia de Conan](https://en.wikipedia.org/wiki/Conan_chronologies). De estos intentos el más famoso es el de [Miller/Clark/de Camp](https://en.wikipedia.org/wiki/Conan_chronologies#Miller/Clark/de_Camp_chronologies), porque contó con la bendición de REH en su versión más temprana.
-Aunque hay por los menos otros tres intentos importantes, que ya incluyen los trabajos de los otros autores muchos años después de la muerte de REH.
-Casi todas las cronologías coinciden en que este debería ser el primer *relato* de Conan, (de los escritos por REH), en el orden de la vida del personaje.
-Es decir, donce nos encontramos con un Conan mas joven.
-Las otras obras originales de REH anteriores en la cronología no son cuentos (El ensayo *La era Hiboria* y el poema *Cimeria*).
+
+Aunque hay por los menos otros cuatro intentos importantes, que ya incluyen los trabajos de los otros autores escritos muchos años después de la muerte de REH.
+
+Casi todas las cronologías coinciden en que este debería ser el segundo *relato* de Conan, (de los escritos por REH), en el orden de la vida del personaje.
+Es decir, donce nos encontramos con un Conan muy joven. Aunque en el relato su edad no se menciona, de acuerdo a las cronologías Conan deberia haber tenido cerca de 17 años.
+
+De las otras obras originales de REH anteriores en la cronología dos no son cuentos.
+El ensayo *La era Hiboria* y el poema *Cimeria*.
+Finalmente a la única historia que la antecee: *La hija del gigante helado* a veces se le disputa su *status* de historia de Conan.
 
 ![Orden en la cronología]({{ site.baseurl }}/static/images/conan/torreElefante/Cronologias.png "Orden en la cronología")
 
