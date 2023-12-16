@@ -12,4 +12,4 @@ Robert E. Howard (a.k.a. REH) es también reconocido como el inventor un subgén
 
 Por lo mismo, el trabajo de REH tiene mucha influenzia en la fantasía moderna. Actualmente, es válido considerar a una obra como _“Howardiana”_ cuando presenta ciertas características.
 
-Aquí analizamos la trágica vida de REH y todo lo Howardiano.
+Aquí analizamos todo lo Howardiano y la trágica vida de REH.
