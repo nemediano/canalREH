@@ -35,12 +35,12 @@ open=false
 order=1
 
 [view-settings,view=0,item:contenido.tex]
-CursorColumn=27
-CursorLine=80
+CursorColumn=26
+CursorLine=76
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
-ViMarks=.,80,26,[,80,26,],80,26
+ViMarks=.,76,25,[,76,24,],76,25
 
 [view-settings,view=0,item:presentacion.tex]
 CursorColumn=0
