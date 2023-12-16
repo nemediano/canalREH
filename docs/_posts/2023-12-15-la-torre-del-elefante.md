@@ -69,32 +69,32 @@ La historia comienza en una taberna del barrio del Maul.
 La taberna está repleta de forajidos, ladrones, mercenarios, prostitutas y aventureros.
 
 Uno de ellos, está contando sus planes acerca de un crimen que planea cometer.
-Mientras está narrando menciona la joya conocida como “el corazón del elefante” que está en posesión del temido hechicero Yaga, en su torre.
-Otro de los asistentes es **Conan** un bárbaro del norte; que en ese momento es muy joven –apenas ha dejado de ser un adolecente–, quien decide interrumpir la narración para preguntar con curiosidad acerca de la joya.
+Mientras está narrando menciona la joya conocida como *“el corazón del elefante”* que está en posesión del temido hechicero Yara, en su torre.
+Otro de los asistentes es **Conan** un bárbaro del norte; que en ese momento es muy joven –apenas ha dejado de ser un adolecente–.
 
-Debido a la interrupción, empieza una discusión que termina en una pelea.
+El bárbaro decide interrumpir la narración para preguntar con curiosidad acerca de la joya. Debido a la interrupción, empieza una discusión que termina en una pelea.
 En medio de la confusión y después de matar a su oponente Conan escapa y decide encaminarse a *“la torre del elefante”* para tratar de robar la joya.
 
-Al llegar al edificio, se da cuenta de que los jardines inferiores de la torre están rodeados por una barda.
-A falta de cualquier tipo de plan previo, Conan decide trepar la barda y matar al guardia que alcanza a oír del otro lado.
+Al llegar al edificio, se da cuenta de que los jardines inferiores de la torre están rodeados por un muro.
+A falta de cualquier tipo de plan previo, Conan decide trepar el muro y matar al guardia que alcanza a oír del otro lado.
 Sin embargo, al librar la barda y explorar dentro de los jardines, encuentra el cadáver del guardia y se da cuenta de que hay otra persona.
 
 Sorprendentemente, en vez de atacarse mutuamente ambos hombres deciden hablar.
-Conan se entera que su interlocutor es el famoso **Tauros de Nemedia**, conocido como "el príncipe de los ladrones".
+Conan se entera que su interlocutor es el famoso **Tauros de Nemedia**, conocido como *"el príncipe de los ladrones"*.
 Y dado que ambos tienen el mismo objetivo y que Tauros se sorprende del arrojo de Conan proponen unir esfuerzos y compartir la aventura con el propósito de repartir el botín.
 
-Tauros advierte que en el jardín no hay guardias humanos, pero también muestra estar preparado y con un artificio logran matar a los guardianes.
+Tauros advierte que en el jardín no hay guardias humanos, si no una jauría de leones. Pero también muestra estar preparado y con un artificio (gas envenenado) logran matar a los guardianes.
+
 Al llegar al borde de la torre, deciden escalar por la pared exterior, dado que Tauros trae consigo una cuerda para tal propósito.
+Cuando alcanzan la azotea de la torre, se dan cuenta de que hay una puerta al interior que no está asegurada.
+Tauros es el primero en entrar e instantes después sale por la misma puerta mortalmente herido y segundos después esta muerto.
 
-Al llegar a la azotea de la torre, se dan cuenta de que hay una puerta al interior que no está asegurada.
-Tauros es el primero en entrar y segundos después sale por la misma puerta mortalmente herido y segundos después esta muerto.
-
-Conan decide terminar la aventura él solo, y al entrar por la puerta se ve obligado a confrontar al asesino de Tauros, una araña gigante.
-Después de un intenso combate, Conan logra aplastar a la araña y decide continuar su descenso por la torre.
+Conan decide terminar la aventura él solo, y al entrar por la puerta se ve obligado a confrontar al asesino de Tauros: una araña gigante.
+Después de un intenso combate, Conan logra aplastar a la araña lnazandole un cofre y decide continuar su descenso por la torre.
 
 Conan llega a una cámara, en la que encuentra lo que primero cree es un ídolo con cuerpo de hombre pero cabeza de elefante, pero después se da cuenta que es un ser viviente.
 
-Al examinar más de cerca, se da cuenta de que el ser es un prisionero, que ha sido torturado.
+Al examinar más de cerca, se da cuenta de que el ser es un prisionero que ha sido torturado.
 Cuando la presencia de Conan despierta al ser, éste le dice que su nombre es **Yag-Khosa**, y decide contarle su historia.
 
 Yag-Khosa, es un ser de otro planeta que llegó a la tierra hace eones, junto con otros miembros de su especie.
@@ -108,18 +108,22 @@ Yag-Khosa pasa años enseñando a Yara acerca de su magia.
 Pero Yara, lleno de ambición, y por medio de la traición logra capturar y esclavizar a Yag-Khosa.
 Yag-Khosa describe como en los siglos que ha pasado en esclavitud, Yara lo ha obligado, a comoter actos terribles por medio de tortura.
 
-Después de terminar su narración, Yag-Khosa le pide a Conan que lo mate, para librarse de su situación y que siga unas instrucciones precisas que provocarán su venganza en contra  de Yara.
+Después de terminar su narración, Yag-Khosa le pide a Conan que se apiade de él, lo mate y que siga unas instrucciones precisas que provocarán su venganza en contra  de Yara.
 Yag-Khosa, le promete a Conan que si sigue sus instrucciones, él le dará a Conan una forma de salir a salvo de la torre.
-Conan, accede, y tal como lo instruyó Yog, entierra su espada en el pecho de Yog, extrae su corazón y lo exprime vertiendo la sangre en en una joya (que entonces comprende es *“El corazón del elefante”*).
+Conan, accede, y tal como lo instruyó Yag-Khosa, entierra su espada en el pecho de la criatura, extrae su corazón y lo exprime vertiendo la sangre en en una joya (que entonces comprende es *“El corazón del elefante”*).
 Luego toma la joya y sale de la habitación.
 
-Se dirige a un recinto inferior donde Yaga, se encuentra meditando.
-Cuando Conan entra a la habitación, Yaga despierta y Conan le dice que este es un regalo de parte de Yog, y pone la joya enfrente de Yara.
+Se dirige a un recinto inferior donde Yara, se encuentra meditando.
+Cuando Conan entra a la habitación, Yara despierta y Conan --siguiendo las insturcciones--, le dice que este es un regalo de parte de Yag-Khosa y pone la joya enfrente de Yara.
 Una especie de hechizo entra en efecto y Yara, se ve atraído hacia la joya mientras poco a poco va encogiéndose hasta que es un ser de unos cuantos centímetros que es absorbido por la joya.
+Dentro de la joya el ser diminuto que ahora es Yara, es perseguido por una versión de Yag-Khosa que entendemos esta cumpliendo su venganza.
 
-Cuando la venganza ha sido ejecutada, la torre empieza a derrumbarse y Conan logra salir sin encontrar ninguna resistencia. Pues al parecer el resto de los guardianes han sido inhabilitados por la promesa de Yag-Khosa.
+Despues de que  la venganza ha sido ejecutada, la torre empieza a derrumbarse y Conan logra salir sin encontrar ninguna resistencia.
+Al parecer el resto de los guardianes han sido inhabilitados por la promesa de Yag-Khosa.
+
 Finalmente, Conan logra salir de la torre y al mirar hacia atrás observa como esta se derrumba.
-Conan, reflexiona acerca de todo lo que ha pasado esta noche y como al final está justo como empezó la aventura, sin ninguna posesión más que su taparrabo, sus sandalias y su espada.
+Conan, reflexiona acerca de todo lo que ha pasado esta noche y como al final está justo como empezó la aventura.
+Sin ninguna otra posesión más que su taparrabo, sus sandalias y su espada.
 
 ## Análisis
 
@@ -177,7 +181,7 @@ Conan, reflexiona acerca de todo lo que ha pasado esta noche y como al final est
 Había estado muchas horas en cuclillas en los patios de los filósofos, escuchando los razonamientos y discusiones de teólogos y maestros, y se había ido de allí confuso y perplejo y con una sola idea clara: que estaban todos locos.
 
 
-#### REH, hombres civilizados discutiendo
+#### Hombres civilizados discutiendo
 
 > “Civilized men are more discourteous than savages because they know they can be impolite without having their skulls split, as a general thing.”
 
@@ -201,12 +205,12 @@ Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasió
 * Busca su beneficio personal
 * Justicia por circunstancias
 * Imprudente y arrojado
-* Instintos superan la razón
+
+#### Instintos superan la razón
 * Al escapar del leon
 * Y luego de la araña
 
-#### Conan crítica los sabios y triunfa por sus instintos
-* Conan odia y teme la magia
+#### Conan odia y teme la magia
 * Al ver como mata a lo leones
 * Al sentir pena por Yog-Khosha
 
@@ -216,7 +220,7 @@ Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasió
 
 #### Araña gigante
 * Inteligencia malvada
-* Aun cuando es una bestia
+  * Aun cuando es una bestia
 * Conan la derrota por suerte
 
 #### Astronautas ancestrales
@@ -289,7 +293,7 @@ Creditos:
 ## Influencias
 
 La torre del elefante es un relato muy importante dentro del ciclo de Conan.
-Prácticamente cada medio en que se ha adaptado ha tenido influencia de este relato.
+Prácticamente en cada medio en que se ha adaptado a Conan ha tenido influencia de este relato.
 
 * El juego MMORPG, [wizard101](https://www.wizard101.com/) online tiene un calabozo llamado “Tower of the Helephant”
 * La serie de animación [Conan the adventurer](https://en.wikipedia.org/wiki/Conan_the_Adventurer_(1992_TV_series)), basá su [capítulo 3](https://en.wikipedia.org/wiki/List_of_Conan_the_Adventurer_episodes#Season_1_(1992)) “Star of Shadizar” en ésta historia. En ese capítulo, el personaje de *Jezmine* es presentado y toma el lugar de Tauros en la historia, después se vuelve uno de los personajes principales en la serie.
@@ -300,17 +304,16 @@ Más allá de los cómics ya mencionados, innumerables artistas, han dibujado es
 
 ## Opinion personal
 
-Este es uno de los mejores relatos del ciclo de Conan y de Robert E Howard en general.
-Podría entrar en la discusión del mejor relato de Conan por REH
-A mi me encanta, por el dinamismo y la originalidad
-Cumple marcando varios puntos de la listita, aunque no todos
+Este es uno de los mejores relatos del ciclo de Conan y de REH en general.
+Podría entrar en la discusión del mejor relato de Conan por REH.
+A mi me encanta, por el dinamismo y la originalidad.
+Cumple en ir marcando varios puntos de la listita, aunque no todos.
 
-Es un relato corto, mucha parte del relato se centra en la introducción, y el aumento de la acción llegamos tarde al clímax y al desenlace.
-Pese a esto, Howard nos regala varios párrafos de su mejor escritura
+Es un relato corto, gran parte del relato se centra en la introducción, y la acción va poco a poco en aumento. Llegamos tarde al clímax y al desenlace.
+Aún asi, REH nos regala varios párrafos de su mejor escritura.
 
 Es una historia clásica de Conan, en mi opinión pertenece a las cinco historias de Conan que todo fan de la fantasía debe de leer.
-De hecho, si estás interesado en Conan, nunca lo has leído y tampoco conoces a RHE.
-Esta es la historia por la que yo te recomendaria empezar
+De hecho, si estás interesado en Conan, nunca lo has leído y tampoco conoces a REH, esta es la historia por la que yo te recomendaria empezar.
 
 ## Referencias
 
