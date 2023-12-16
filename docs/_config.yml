@@ -36,6 +36,7 @@ header_pages:
   - literature.md
   - conan.md
   - howard.md
+  - referencias.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
