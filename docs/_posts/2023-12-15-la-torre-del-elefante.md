@@ -146,6 +146,8 @@ Sin ninguna otra posesión más que su taparrabo, sus sandalias y su espada.
 * Viejo, sabio y derrotado
 * Espera el momento de su venganza
 * Busca la redención
+* Referencia a el dios Hindu Ganesha
+* Se autodenomina: Yogah de Yag, o Yog
 
 #### Yara
 * Hechicero poderoso y malvado
@@ -196,27 +198,35 @@ Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasió
 ### Tropes literarios incluidos
 
 #### Espada y hechizeria
-* La espada, la justicia, la hechicería y el mal.
 * Temporalidad: una sola noche
 * Aventura circunstancial
 * No genero un cambio
+* La espada: la justicia; la hechicería: el mal
 
 #### Conan el ladrón, el antihéroe
 * Busca su beneficio personal
-* Justicia por circunstancias
-* Imprudente y arrojado
+* Es el instrumento de la justicia, solo por que lo arrojan las circunstancias
+* Se adhiere a su propio código de ética: simple y bárbaro
 
 #### Instintos superan la razón
 * Al escapar del leon
 * Y luego de la araña
+* No se vuelve loco al ver a Yag-kosha
+* Conan crítica los sabios y triunfa por sus instintos
 
-#### Conan odia y teme la magia
-* Al ver como mata a lo leones
-* Al sentir pena por Yog-Khosha
+#### Conan odia y teme lo sobrenatural
+Se asusta con:
+* La magia en genral
+* La historia que se cuenta de Yara
+* El polvo que mata a lo leones
+* La araña
+* Al ver a Yag-kosha
 
 #### Los cimerios escalando
-* Al subir por las paredes
-* Al escalar la torre
+Los cimerianos son magnificos alpinistas:
+* Conan puede:
+  * Escalar los muros exteriores del jardin
+  * Y luego escalar la torre
 
 #### Araña gigante
 * Inteligencia malvada
@@ -230,13 +240,15 @@ Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasió
 
 #### Mitos de Chtullu
 * Criaturas cósmicas llegan a la tierra e interfieren con los humanos
-* El nombre de Yog-Khosha
+* Contemplarlos puede volver loco a alguien
+* El nombre de Yog-Khosha, o Yogah de Yag
 * La magia y los sueños en vez de la tecnología
 
 #### Historias anidadas
 * La anécdota de Yara y el príncipe que convierte en araña
-* La historia de Yog-Khosa
-* Conan recuenta sus aventuras, la religión y el elefante
+* El origen de Yog-Khosa
+* Tauros cuenta como obtuvo la cuerda
+* Conan recuenta sus anecdotas: la religión y el elefante
 
 #### Hechicero malvado
 * Yara solo tiene poder debido a la magia

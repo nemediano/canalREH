@@ -17,7 +17,8 @@ seo_description: Referencias y bibliografía sobre Robert E. Howard el creador d
 **Autor:** [Glenn Lord](https://en.wikipedia.org/wiki/Glenn_Lord)
 
 Este es un [libro clásico](https://en.wikipedia.org/wiki/The_Last_Celt) acerca de REH.
-Lo escribió alguien que si bien no conoció personalmente a REH, si interactuó directamente con él, pues fue su agente literario.
+Lo escribió Glenn Lord quién si bien no conoció personalmente a REH, si interactuó directamente con sus herederos, pues fue el agente literario de su obra.
+
 Más que un libro ésta es una recopilación de ensayos, cartas, fotografías y documentos sobre REH; por lo que hay varios autores (Glen Lord fue el recopilador).
 En su descargo, hay que aclarar que el ensayo que le da el título al libro, si fue escrito por Glen Lord. Se puede adquirir en [amazon](https://www.amazon.com/Last-Celt-Bio-Bibliography-Robert-Howard/dp/0425036308).
 
@@ -44,7 +45,7 @@ Se puede adquirir en [amazon](https://www.amazon.com/Cuando-cantan-las-espadas-f
 
 Este es [otro clásico](https://en.wikipedia.org/wiki/Blood_%26_Thunder:_The_Life_%26_Art_of_Robert_E._Howard) de la vida y obra de REH.
 Aunque trata vida y obra, yo diría que es mucho más una biografía que tiene un poco del análisis de sus obras.
-En esté aspecto probablemente sea la mejor biografía de REH que existe.
+En esté aspecto probablemente sea *la mejor biografía de REH* que existe.
 El autor es también un escritor de fantasía y ciencia ficción publicado que admira a REH.
 
 El libro fué tan importante que la segunda edición fue patrocinada por la fundación para preservar la memoria de REH.
@@ -57,8 +58,8 @@ Sobra decir que recomiendo ésta segunda edición que se puede adquirir en [amaz
 
 **Autores:** [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard) y [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)
 
-Esta es una recopilación de las correspondencia entre REH y Lovecraft.
-Curiosamente, solo recomiendo adquirirla si estás muy interesado en el tema.
+Esta es una recopilación de la correspondencia entre REH y Lovecraft.
+Curiosamente solo recomiendo adquirirla si estás *muy interesado* en el tema.
 De otro modo es un poco tediosa.
 Los dos son grandes escritores, pero lo mejor de su correspondencia está citada en los libros anteriores, por lo que este deja la sensación de mucha paja y poco contenido.
 También se puede conseguir en [amazon](https://www.amazon.com/Means-Freedom-Letters-Lovecraft-Robert/dp/1614981868).
@@ -92,7 +93,7 @@ Lo puedes comprar en [amazon](https://www.amazon.com/Robert-Howard-Closer-Look/d
 
 ### Proyecto Gutenberg
 
-En el [proyecto gutenberg](http://gutenberg.net.au) de australia, se pueden leer varios relatos completos de REH en su idioma original.
+En el [proyecto gutenberg](http://gutenberg.net.au) de australia, se pueden leer [varios relatos](http://freeread.com.au/@RGLibrary/RobertEHoward/RobertEHoward.html) completos de REH en su idioma original.
 
 ### Lectulandia
 

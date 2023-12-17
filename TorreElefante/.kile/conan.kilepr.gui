@@ -31,21 +31,21 @@ open=true
 order=0
 
 [item:presentacion.tex]
-open=false
+open=true
 order=1
 
 [view-settings,view=0,item:contenido.tex]
-CursorColumn=26
-CursorLine=76
+CursorColumn=38
+CursorLine=152
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
-ViMarks=.,76,25,[,76,24,],76,25
+ViMarks=.,152,38,[,152,38,],152,38
 
 [view-settings,view=0,item:presentacion.tex]
-CursorColumn=0
-CursorLine=82
+CursorColumn=60
+CursorLine=53
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
-ViMarks=.,71,0,[,71,0,],71,0
+ViMarks=.,53,23,[,53,23,],53,59
