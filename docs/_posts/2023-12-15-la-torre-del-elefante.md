@@ -17,6 +17,8 @@ seo_description: La torre del elefante es una historia de Conan el bárbaro escr
 permalink: la-torre-del-elefante
 
 date: 2023-12-14
+
+last_modified_at: 2023-12-22
 ---
 
 ![The tower of the elephant art by Mark Schultz]({{ site.baseurl }}/static/images/conan/torreElefante/Intro.png "The tower of the elephant art by Mark Schultz")

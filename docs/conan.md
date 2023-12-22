@@ -1,11 +1,19 @@
 ---
 layout: category_page
+
 title: Conan
+
 permalink: /conan/
+
 value: conan
+
 excerpt: Conan - Análisis en español del personaje de Conan el bárbaro. También conocido como Conan el cimmerio. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
 seo_title: Conan - Análisis en español del personaje de Conan el bárbaro.
+
 seo_description: Conan - Análisis en español del personaje de Conan el bárbaro. También conocido como Conan el cimmerio. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
+last_modified_at: 2023-12-22
 ---
 
 En esta sección analizamos todo lo relacionado con [Conan](https://en.wikipedia.org/wiki/Conan_the_Barbarian){:target="_blank" rel="noreferrer noopener"}, el personaje más famoso de Robert E. Howard (a.k.a. REH).

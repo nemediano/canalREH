@@ -1,10 +1,17 @@
 ---
 layout: page
+
 title: Referencias
+
 permalink: /references/
+
 excerpt: Referencias y bibliografía sobre Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
 seo_title: Referencias y bibliografía sobre Robert E. Howard el creador de Conan
+
 seo_description: Referencias y bibliografía sobre Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
+last_modified_at: 2023-12-22
 ---
 
 ## Libros

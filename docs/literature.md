@@ -1,11 +1,19 @@
 ---
 layout: category_page
+
 title: Literatura
+
 permalink: /literature/
+
 value: literature
+
 excerpt: Análisis de la obra literaria de Robert E. Howard. Todas las historias escritas por Howard, de cualquier género o personaje como Salomon Kane,  el rey Kull, el Borak, James Alison. Sus historias de boxeo, del oeste (western), terror, aventura y ciencia ficción. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
 seo_title: Análisis de la obra literaria de Robert E. Howard
+
 seo_description: Análisis de la obra literaria de Robert E. Howard. Todas las historias escritas por Howard, de cualquier género o personaje como Salomon Kane,  el rey Kull, el Borak, James Alison. Sus historias de boxeo, del oeste (western), terror, aventura y ciencia ficción. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
+last_modified_at: 2023-12-22
 ---
 
 En esta sección analizamos cualquier obra escrita por Robert E. Howard (a.k.a. REH). Excepto por el ciclo de Conan que tiene su [sección aparte](/conan).
