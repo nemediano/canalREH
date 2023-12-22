@@ -49,7 +49,7 @@ Como puede verse ésta historia es la tercera historia de Conan en ser publicada
 
 ### Situación en la cronología
 
-Ha habido varios intentos de establecer una [cronología de la vida ficticia de Conan](https://en.wikipedia.org/wiki/Conan_chronologies). De estos intentos el más famoso es el de [Miller/Clark/de Camp](https://en.wikipedia.org/wiki/Conan_chronologies#Miller/Clark/de_Camp_chronologies), porque contó con la bendición de REH en su versión más temprana.
+Ha habido varios intentos de establecer una [cronología de la vida ficticia de Conan](https://en.wikipedia.org/wiki/Conan_chronologies){:target="_blank" rel="noreferrer noopener"}. De estos intentos el más famoso es el de [Miller/Clark/de Camp](https://en.wikipedia.org/wiki/Conan_chronologies#Miller/Clark/de_Camp_chronologies){:target="_blank" rel="noreferrer noopener"}, porque contó con la bendición de REH en su versión más temprana.
 
 Aunque hay por los menos otros cuatro intentos importantes, que ya incluyen los trabajos de los otros autores escritos muchos años después de la muerte de REH.
 
@@ -266,11 +266,11 @@ Los cimerianos son magnificos alpinistas:
 
 Creditos:
 
-* **Dibujante:** [Barry Windsor Smith](https://en.wikipedia.org/wiki/Barry_Windsor-Smith)
-* **Entintador:** [Silvio “Sal” Buscema](https://en.wikipedia.org/wiki/Sal_Buscema)
-* **Escritor:** [Roy Thomas](https://en.wikipedia.org/wiki/Roy_Thomas)
-* **Letrista:** [Sam Rosen](https://en.wikipedia.org/wiki/Sam_Rosen_(comics))
-* **Editor:** [Stand Lee](https://en.wikipedia.org/wiki/Stan_Lee)
+* **Dibujante:** [Barry Windsor Smith](https://en.wikipedia.org/wiki/Barry_Windsor-Smith){:target="_blank" rel="noreferrer noopener"}
+* **Entintador:** [Silvio “Sal” Buscema](https://en.wikipedia.org/wiki/Sal_Buscema){:target="_blank" rel="noreferrer noopener"}
+* **Escritor:** [Roy Thomas](https://en.wikipedia.org/wiki/Roy_Thomas){:target="_blank" rel="noreferrer noopener"}
+* **Letrista:** [Sam Rosen](https://en.wikipedia.org/wiki/Sam_Rosen_(comics)){:target="_blank" rel="noreferrer noopener"}
+* **Editor:** [Stand Lee](https://en.wikipedia.org/wiki/Stan_Lee){:target="_blank" rel="noreferrer noopener"}
 
 ### The savage sword of Conan #24
 
@@ -282,9 +282,9 @@ Creditos:
 
 Creditos:
 
-* **Artistas:** [Jhon Buscema](https://en.wikipedia.org/wiki/John_Buscema) y [Alfredo Alcalá](https://en.wikipedia.org/wiki/Alfredo_Alcala)
-* **Escritor:** [Roy Thomas](https://en.wikipedia.org/wiki/Roy_Thomas)
-* **Portada:** [Earl Norem](https://en.wikipedia.org/wiki/Earl_Norem)
+* **Artistas:** [Jhon Buscema](https://en.wikipedia.org/wiki/John_Buscema){:target="_blank" rel="noreferrer noopener"} y [Alfredo Alcalá](https://en.wikipedia.org/wiki/Alfredo_Alcala){:target="_blank" rel="noreferrer noopener"}
+* **Escritor:** [Roy Thomas](https://en.wikipedia.org/wiki/Roy_Thomas){:target="_blank" rel="noreferrer noopener"}
+* **Portada:** [Earl Norem](https://en.wikipedia.org/wiki/Earl_Norem){:target="_blank" rel="noreferrer noopener"}
 
 ### Dark horse: Conan #20 - #22
 
@@ -296,21 +296,21 @@ Creditos:
 
 Creditos:
 
-* **Artista:** [Cary Nord](https://en.wikipedia.org/wiki/Cary_Nord)
-* **Escritor:** [Kurt Busiek](https://en.wikipedia.org/wiki/Kurt_Busiek)
-* **Portada:** [José Ladrönn](https://en.wikipedia.org/wiki/Jos%C3%A9_Ladr%C3%B6nn)
-* **Colorista:** [Dave Steward](https://en.wikipedia.org/wiki/Dave_Stewart_(artist))
-* **Letrista:** [Richard Starkings](https://en.wikipedia.org/wiki/Richard_Starkings)
+* **Artista:** [Cary Nord](https://en.wikipedia.org/wiki/Cary_Nord){:target="_blank" rel="noreferrer noopener"}
+* **Escritor:** [Kurt Busiek](https://en.wikipedia.org/wiki/Kurt_Busiek){:target="_blank" rel="noreferrer noopener"}
+* **Portada:** [José Ladrönn](https://en.wikipedia.org/wiki/Jos%C3%A9_Ladr%C3%B6nn){:target="_blank" rel="noreferrer noopener"}
+* **Colorista:** [Dave Steward](https://en.wikipedia.org/wiki/Dave_Stewart_(artist)){:target="_blank" rel="noreferrer noopener"}
+* **Letrista:** [Richard Starkings](https://en.wikipedia.org/wiki/Richard_Starkings){:target="_blank" rel="noreferrer noopener"}
 
 ## Influencias
 
 La torre del elefante es un relato muy importante dentro del ciclo de Conan.
 Prácticamente en cada medio en que se ha adaptado a Conan ha tenido influencia de este relato.
 
-* El juego MMORPG, [wizard101](https://www.wizard101.com/) online tiene un calabozo llamado “Tower of the Helephant”
-* La serie de animación [Conan the adventurer](https://en.wikipedia.org/wiki/Conan_the_Adventurer_(1992_TV_series)), basá su [capítulo 3](https://en.wikipedia.org/wiki/List_of_Conan_the_Adventurer_episodes#Season_1_(1992)) “Star of Shadizar” en ésta historia. En ese capítulo, el personaje de *Jezmine* es presentado y toma el lugar de Tauros en la historia, después se vuelve uno de los personajes principales en la serie.
-* El juego de rol: [Conan RPG](https://en.wikipedia.org/wiki/Conan:_The_Roleplaying_Game) de Mongoose tiene un módulo titulado “La torre del elefante”
-* El videojuego [Conan Exiles](https://en.wikipedia.org/wiki/Conan_Exiles), tiene un logro llamado “La torre del elefante”
+* El juego MMORPG, [wizard101](https://www.wizard101.com/){:target="_blank" rel="noreferrer noopener"} online tiene un calabozo llamado “Tower of the Helephant”
+* La serie de animación [Conan the adventurer](https://en.wikipedia.org/wiki/Conan_the_Adventurer_(1992_TV_series)){:target="_blank" rel="noreferrer noopener"}, basá su [capítulo 3](https://en.wikipedia.org/wiki/List_of_Conan_the_Adventurer_episodes#Season_1_(1992)){:target="_blank" rel="noreferrer noopener"} “Star of Shadizar” en ésta historia. En ese capítulo, el personaje de *Jezmine* es presentado y toma el lugar de Tauros en la historia, después se vuelve uno de los personajes principales en la serie.
+* El juego de rol: [Conan RPG](https://en.wikipedia.org/wiki/Conan:_The_Roleplaying_Game){:target="_blank" rel="noreferrer noopener"} de Mongoose tiene un módulo titulado “La torre del elefante”
+* El videojuego [Conan Exiles](https://en.wikipedia.org/wiki/Conan_Exiles){:target="_blank" rel="noreferrer noopener"}, tiene un logro llamado “La torre del elefante”
 
 Más allá de los cómics ya mencionados, innumerables artistas, han dibujado escenas de esta historia para sus portafolios o para ilustrar diferentes ediciones del relato.
 
@@ -331,18 +331,18 @@ De hecho, si estás interesado en Conan, nunca lo has leído y tampoco conoces a
 
 ### Appendices
 
-* Desde el artículo de [La torre del elefante](https://en.wikipedia.org/wiki/The_Tower_of_the_Elephant) en Wikipedia, puedes emepzar a buscar más información.
-* El audiolibro tanto en [ingles](https://www.youtube.com/watch?v=fmd1kGz5gLg) como en [español](https://www.youtube.com/watch?v=fco7Q2Ra398) se puede escuchar desde youtube. Sin embargo, recomiendo mas leerlo.
-* En el [proyecto gutenberg](http://gutenberg.net.au), se puede leer completo el relato original de [La torre del elefante](http://gutenberg.net.au/ebooks06/0600831h.html) en su idioma original.
-* En [lectulandia](https://ww3.lectulandia.com) se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/). El relato de "La torre del elefante" viene en muchos libros (es un clásico) [este](https://ww3.lectulandia.com/book/conan/) es tan solo uno ellos.
-* El comic "Conan the barbarian #4" se puede descargar [aqui](https://archive.org/details/conan-the-barbarian-1-24/Conan%20The%20Barbarian%20004/) o leer en linea [aqui](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970/Issue-4?id=17149).
-* El comic "The savage sword of Conan #24", se puede leer en linea [aqui](https://readcomiconline.li/Comic/The-Savage-Sword-Of-Conan/Issue-24?id=65350&s=&quality=hq) y descargar [aqui](https://getcomics.org/marvel/savage-sword-conan-1-235-annual/).
-* Los comics de Dark Horse se pueden leer en linea aqui: [20](https://readcomiconline.li/Comic/Conan-2003/Issue-20?id=17318&s=&readType=1), [21](https://readcomiconline.li/Comic/Conan-2003/Issue-21?id=17320&s=&readType=1) y [22](https://readcomiconline.li/Comic/Conan-2003/Issue-22?id=17322&s=&readType=1) o descargar [aqui](https://getcomics.org/other-comics/conan-vol-1-10-2005-2011/).
+* Desde el artículo de [La torre del elefante](https://en.wikipedia.org/wiki/The_Tower_of_the_Elephant){:target="_blank" rel="noreferrer noopener"} en Wikipedia, puedes emepzar a buscar más información.
+* El audiolibro tanto en [ingles](https://www.youtube.com/watch?v=fmd1kGz5gLg){:target="_blank" rel="noreferrer noopener"} como en [español](https://www.youtube.com/watch?v=fco7Q2Ra398){:target="_blank" rel="noreferrer noopener"} se puede escuchar desde youtube. Sin embargo, recomiendo mas leerlo.
+* En el [proyecto gutenberg](http://gutenberg.net.au){:target="_blank" rel="noreferrer noopener"}, se puede leer completo el relato original de [La torre del elefante](http://gutenberg.net.au/ebooks06/0600831h.html){:target="_blank" rel="noreferrer noopener"} en su idioma original.
+* En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}. El relato de "La torre del elefante" viene en muchos libros (es un clásico) [este](https://ww3.lectulandia.com/book/conan/){:target="_blank" rel="noreferrer noopener"} es tan solo uno ellos.
+* El comic "Conan the barbarian #4" se puede descargar [aqui](https://archive.org/details/conan-the-barbarian-1-24/Conan%20The%20Barbarian%20004/){:target="_blank" rel="noreferrer noopener"} o leer en linea [aqui](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970/Issue-4?id=17149){:target="_blank" rel="noreferrer noopener"}.
+* El comic "The savage sword of Conan #24", se puede leer en linea [aqui](https://readcomiconline.li/Comic/The-Savage-Sword-Of-Conan/Issue-24?id=65350&s=&quality=hq){:target="_blank" rel="noreferrer noopener"} y descargar [aqui](https://getcomics.org/marvel/savage-sword-conan-1-235-annual/){:target="_blank" rel="noreferrer noopener"}.
+* Los comics de Dark Horse se pueden leer en linea aqui: [20](https://readcomiconline.li/Comic/Conan-2003/Issue-20?id=17318&s=&readType=1){:target="_blank" rel="noreferrer noopener"}, [21](https://readcomiconline.li/Comic/Conan-2003/Issue-21?id=17320&s=&readType=1){:target="_blank" rel="noreferrer noopener"} y [22](https://readcomiconline.li/Comic/Conan-2003/Issue-22?id=17322&s=&readType=1){:target="_blank" rel="noreferrer noopener"} o descargar [aqui](https://getcomics.org/other-comics/conan-vol-1-10-2005-2011/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Otros análisis
 
-* [Otro análisis](https://earl-livings.com/story-process-1/) por Earl Livings.
-* [Entendiendo la torre del elefante](https://www.blackgate.com/2013/09/25/understanding-the-tower-of-the-elephant/) por M Harold Page.
-* [Análisis crítico de la torre del elefante](https://prezi.com/p/igtvcfh1lwzz/critical-analysis-the-tower-of-the-elephant/) por Rebeca White.
-* [Reseña de la historia la torre del elefante](https://frankormond.wordpress.com/2019/08/16/story-review-the-tower-of-the-elephant-by-robert-e-howard/) por Frak Ormond.
-* [La torre del elefante: Roy Thomas vs Kurt Busiek](https://www.zonanegativa.com/la-torre-del-elefante-roy-thomas-vs-kurt-busiek/) por Alejandro Ugartondo.
+* [Otro análisis](https://earl-livings.com/story-process-1/){:target="_blank" rel="noreferrer noopener"} por Earl Livings.
+* [Entendiendo la torre del elefante](https://www.blackgate.com/2013/09/25/understanding-the-tower-of-the-elephant/){:target="_blank" rel="noreferrer noopener"} por M Harold Page.
+* [Análisis crítico de la torre del elefante](https://prezi.com/p/igtvcfh1lwzz/critical-analysis-the-tower-of-the-elephant/){:target="_blank" rel="noreferrer noopener"} por Rebeca White.
+* [Reseña de la historia la torre del elefante](https://frankormond.wordpress.com/2019/08/16/story-review-the-tower-of-the-elephant-by-robert-e-howard/){:target="_blank" rel="noreferrer noopener"} por Frak Ormond.
+* [La torre del elefante: Roy Thomas vs Kurt Busiek](https://www.zonanegativa.com/la-torre-del-elefante-roy-thomas-vs-kurt-busiek/){:target="_blank" rel="noreferrer noopener"} por Alejandro Ugartondo.
