@@ -19,6 +19,8 @@ last_modified_at: 2023-12-22
 
 ### El último celta
 
+![The last Celt - portada libro]({{ site.baseurl }}/static/images/references/TheLastCelt.jpg "The last Celt - portada libro")
+
 **Titulo:** The Last Celt: A Bio-Bibliography of Robert E. Howard
 
 **Autor:** [Glenn Lord](https://en.wikipedia.org/wiki/Glenn_Lord){:target="_blank" rel="noreferrer noopener"}
@@ -31,6 +33,8 @@ En su descargo, hay que aclarar que el ensayo que le da el título al libro, si 
 
 
 ### Cuando cantan las espadas
+
+![Cuando cantan las espadas - portada libro]({{ site.baseurl }}/static/images/references/CuandoCantanLasEspadas.jpg "Cuando cantan las espadas - portada libro")
 
 **Titulo:** Cuando cantan las espadas : la fantasía heróica de Robert E. Howard
 
@@ -45,6 +49,8 @@ También fué el encargado de traducir al castellano algunas de las obras de REH
 Se puede adquirir en [amazon](https://www.amazon.com/Cuando-cantan-las-espadas-fantas%C3%ADa/dp/8492492325){:target="_blank" rel="noreferrer noopener"}.
 
 ### Sangre y trueno
+
+![Blood and Thunder - portada libro]({{ site.baseurl }}/static/images/references/BloodAndThunder.jpg "Blood and Thunder - portada libro")
 
 **Titulo:** Blood and Thunder: The Life and Art of Robert E. Howard
 
@@ -61,9 +67,13 @@ Sobra decir que recomiendo ésta segunda edición que se puede adquirir en [amaz
 
 ### Medios a la libertad
 
+![A Means to Freedom - portada libro]({{ site.baseurl }}/static/images/references/MeansToFreedom.jpg "A Means to Freedom - portada libro")
+
 **Titulo:** A Means to Freedom: The Letters of H. P. Lovecraft and Robert E. Howard (Vol 1 y Vol 2)
 
 **Autores:** [Robert E. Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} y [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft){:target="_blank" rel="noreferrer noopener"}
+
+**Editores:** [S. T. Joshi](https://en.wikipedia.org/wiki/S._T._Joshi){:target="_blank" rel="noreferrer noopener"}, David E. Schultz, y Rusty Burke
 
 Esta es una recopilación de la correspondencia entre REH y Lovecraft.
 Curiosamente solo recomiendo adquirirla si estás *muy interesado* en el tema.
@@ -72,6 +82,8 @@ Los dos son grandes escritores, pero lo mejor de su correspondencia está citada
 También se puede conseguir en [amazon](https://www.amazon.com/Means-Freedom-Letters-Lovecraft-Robert/dp/1614981868){:target="_blank" rel="noreferrer noopener"}.
 
 ### Aquel que caminaba solo
+
+![One Who Walked Alone - portada libro]({{ site.baseurl }}/static/images/references/OneWhoWalkedAlone.jpg "One Who Walked Alone - portada libro")
 
 **Titulo:** One Who Walked Alone: Robert E. Howard the Final Years
 
@@ -84,7 +96,9 @@ Esté libro consta de los pasajes del diario de Novalyne que hablan sobre REH.
 Este libro fué en el que se baso la película [The Whole Wide World](https://en.wikipedia.org/wiki/The_Whole_Wide_World){:target="_blank" rel="noreferrer noopener"}, (que en español le pusieron “Mi vida”) en la que [Vincent D’Onofrio](https://en.wikipedia.org/wiki/Vincent_D%27Onofrio){:target="_blank" rel="noreferrer noopener"} encarna a REH y [Renée Zellweger](https://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger){:target="_blank" rel="noreferrer noopener"} a Novalyne.
 También se puede conseguir en [amazon](https://www.amazon.com/One-Who-Walked-Alone-Robert/dp/093798678X){:target="_blank" rel="noreferrer noopener"}.
 
-###  Una mirada detallada a Robert E Howard.
+###  Una mirada detallada a Robert E Howard
+
+![Robert E. Howard: A Closer Look - portada libro]({{ site.baseurl }}/static/images/references/REHCloserLook.jpg "Robert E. Howard: A Closer Look - portada libro")
 
 **Titulo:** Robert E. Howard: A Closer Look
 
