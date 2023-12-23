@@ -14,11 +14,18 @@ seo_title: La torre del elefante - Conan - Robert E. Howard - Análisis literari
 
 seo_description: La torre del elefante es una historia de Conan el bárbaro escrita por Robert E. Howard (REH). Este es un analisis literario en español de ésta obra. Cabe mencionar que La torre del elefante es considerada un relato clásico de Conan y una de los mejores cuentos tanto de este ciclo como de la obra de REH en general.
 
-permalink: la-torre-del-elefante
+#permalink: la-torre-del-elefante
 
 date: 2023-12-14
 
 last_modified_at: 2023-12-22
+
+image:
+  path: /static/images/conan/torreElefante/Intro.png
+  height: 151
+  width: 100
+  alt: The tower of the elephant art by Mark Schultz
+
 ---
 
 ![The tower of the elephant art by Mark Schultz]({{ site.baseurl }}/static/images/conan/torreElefante/Intro.png "The tower of the elephant art by Mark Schultz")

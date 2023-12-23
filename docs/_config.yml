@@ -31,7 +31,14 @@ locale: es_MX
 
 timezone: America/Los_Angeles
 
-permalink: /:title
+permalink: /:categories/:title
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/default-card.png
+
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
