@@ -73,7 +73,17 @@ Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologí
 
 ## Resumen
 
-Todo el relato ocurre en una noche en la ciudad de Arenjunn, en la provincia de Zamora.
+Éste es un relato único en el espacio y la temporalidad. El relato consta de cinco capítulos, el primero de ellos ocurre en unas semanas. Luego el segundo capítulo nos dicen que han pasado algunos años desde el capitulo anterior y el resto de la historia ocurre en dos días. Asimismo, el primer capítulo ocurre durante una travesia de varias semanas, donde se nos detallan varios lugares. El resto de la historia ocurre en una rivera que desemboca en las ruinas de una ciudad perdida.
+
+### Conan se une a los piratas
+
+### El loto negro
+
+### Horror en la selva
+
+### Ataque desde el aire
+
+### La pira funeraria
 
 ## Análisis
 
@@ -81,18 +91,86 @@ Todo el relato ocurre en una noche en la ciudad de Arenjunn, en la provincia de 
 
 #### Conan
 * Un joven bárbaro del norte
-* Intrepido, impulsivo, desconfiado.
 * Poco acostumbrado a la civilización
-* Primitivo, fuerte, rebelde
+
+#### Belit
+
+#### Tito
+
+#### El guardian de las ruinas
+
+#### N'Gora
+
+#### N'Yaga
 
 
 ### Citas interesantes
 
-#### Conan reflexiona sobre religión
+#### Las leyes de los hombres civilizados
 
-> “He had squatted for hours in the courtyard of the philosophers, listening to the arguments of theologians and teachers, and come away in a haze of bewilderment, sure of only one thing, and that, that they were all touched in the head.”
+#### Promesa mas allá de la muerte
 
-Había estado muchas horas en cuclillas en los patios de los filósofos, escuchando los razonamientos y discusiones de teólogos y maestros, y se había ido de allí confuso y perplejo y con una sola idea clara: que estaban todos locos.
+#### La vida es una ilusión
+
+#### Los dioses del norte
+
+#### La canción de Belit
+
+> Believe green buds awaken in the spring.<br>
+> That autumn paints the leaves with somber fire;<br>
+> Believe I held my heart inviolate<br>
+> To lavish on one man my hot desire.
+>
+> In that dead citadel of crumbling stone.<br>
+> Her eyes were snared by that unholy sheen,<br>
+> And curious madness took me by the throat,<br>
+> As of a rival lover thrust between.
+>
+> Was it a dream the nighted lotus brought?<br>
+> Then curst the dream that bought my sluggish life;<br>
+> And curst each laggard hour that does not see<br>
+> Hot blood drip blackly from the crimsoned knife.
+>
+> The shadows were black around him,<br>
+> The dripping jaws gaped wide,<br>
+> Thicker than rain the red drops fell;<br>
+> But my love was fiercer than Death's black spell,<br>
+> Nor all the iron walls of hell<br>
+> Could keep me from his side.
+>
+> Now we are done with roaming, evermore;<br>
+> No more the oars, the windy harp's refrain;<br>
+> Nor crimson pennon frights the dusky shore;<br>
+> Blue girdle of the world, receive again<br>
+> Her whom thou gavest me.
+
+Creedme, los verdes brotes despiertan en primavera<br>
+y el otoño pinta las hojas con un fuego sombrío;<br>
+creedme, yo aún conservo virgen mi corazón<br>
+para prodigar mis ardientes deseos a un solo hombre.
+
+En aquella ciudadela de la muerte de piedras destrozadas,<br>
+sus ojos cayeron en la trampa de aquel fulgor profano y terrible.<br>
+Una extraña locura me oprimió con fuerza la garganta,<br>
+como un rival que se interpone entre dos amantes.
+
+¿Fue un sueño lo que trajo el loto negro?<br>
+Entonces, maldito sea el sueño que angustió mi vida,<br>
+y maldita la rezagada hora que no ve<br>
+la cálida sangre goteando del cuchillo de color carmesí.
+
+Estaba rodeado de negras sombras;<br>
+las fauces chorreantes se abrieron desmesuradamente<br>
+y cayeron gotas rojas más gruesas que la lluvia;<br>
+pero mi amor era más fuerte que el negro hechizo de la muerte,<br>
+y ni siquiera las puertas de hierro del infierno<br>
+podrían alejarme de su lado.
+
+Terminaron para siempre las aventuras;<br>
+no se alzarán más los remos, ni ondearán las velas;<br>
+el pendón escarlata ya no será el terror de las costas oscuras;<br>
+mares azules del mundo, recibid nuevamente en vuestro seno<br>
+a la mujer que me habéis entregado.
 
 
 ### Tropes literarios incluidos
@@ -130,7 +208,7 @@ Del Número 100:
 * **Letrista:** [Joe Rosen](https://en.wikipedia.org/wiki/Joe_Rosen){:target="_blank" rel="noreferrer noopener"}
 * **Colorista:** [George Roussos](https://en.wikipedia.org/wiki/George_Roussos){:target="_blank" rel="noreferrer noopener"}
 
-### Dark horse: Conan The Barbarian #1 - #3 y #22 - #24
+### Dark horse: Conan The Barbarian 1# - 3# y #22 - #24
 
 ![Dark horse: Conan The Barbarian #1 portada]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/DH-CTB-01.jpg "Dark horse: Conan The Barbarian #1 portada")
 ![Dark horse: Conan The Barbarian #2 portada]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/DH-CTB-02.jpg "Dark horse: Conan The Barbarian #2 portada")
@@ -167,28 +245,15 @@ Creditos:
 
 ## Influencias
 
-La torre del elefante es un relato muy importante dentro del ciclo de Conan.
-Prácticamente en cada medio en que se ha adaptado a Conan ha tenido influencia de este relato.
+La reina de la costa negra es un relato muy importante dentro del ciclo de Conan.
 
 * El juego MMORPG, [wizard101](https://www.wizard101.com/){:target="_blank" rel="noreferrer noopener"} online tiene un calabozo llamado “Tower of the Helephant”
-* La serie de animación [Conan the adventurer](https://en.wikipedia.org/wiki/Conan_the_Adventurer_(1992_TV_series)){:target="_blank" rel="noreferrer noopener"}, basá su [capítulo 3](https://en.wikipedia.org/wiki/List_of_Conan_the_Adventurer_episodes#Season_1_(1992)){:target="_blank" rel="noreferrer noopener"} “Star of Shadizar” en ésta historia. En ese capítulo, el personaje de *Jezmine* es presentado y toma el lugar de Tauros en la historia, después se vuelve uno de los personajes principales en la serie.
-* El juego de rol: [Conan RPG](https://en.wikipedia.org/wiki/Conan:_The_Roleplaying_Game){:target="_blank" rel="noreferrer noopener"} de Mongoose tiene un módulo titulado “La torre del elefante”
-* El videojuego [Conan Exiles](https://en.wikipedia.org/wiki/Conan_Exiles){:target="_blank" rel="noreferrer noopener"}, tiene un logro llamado “La torre del elefante”
 
-Más allá de los cómics ya mencionados, innumerables artistas, han dibujado escenas de esta historia para sus portafolios o para ilustrar diferentes ediciones del relato.
 
 ## Opinion personal
 
 Este es uno de los mejores relatos del ciclo de Conan y de REH en general.
-Podría entrar en la discusión del mejor relato de Conan por REH.
-A mi me encanta, por el dinamismo y la originalidad.
-Cumple en ir marcando varios puntos de la listita, aunque no todos.
 
-Es un relato corto, gran parte del relato se centra en la introducción, y la acción va poco a poco en aumento. Llegamos tarde al clímax y al desenlace.
-Aún asi, REH nos regala varios párrafos de su mejor escritura.
-
-Es una historia clásica de Conan, en mi opinión pertenece a las cinco historias de Conan que todo fan de la fantasía debe de leer.
-De hecho, si estás interesado en Conan, nunca lo has leído y tampoco conoces a REH, esta es la historia por la que yo te recomendaria empezar.
 
 ## Referencias
 
@@ -197,15 +262,17 @@ De hecho, si estás interesado en Conan, nunca lo has leído y tampoco conoces a
 * Desde el artículo de [La reina de la costa negra](https://en.wikipedia.org/wiki/Queen_of_the_Black_Coast){:target="_blank" rel="noreferrer noopener"} en Wikipedia, puedes emepzar a buscar más información.
 * El audiolibro tanto en [ingles](https://www.youtube.com/watch?v=Q7mUzrHAf8k){:target="_blank" rel="noreferrer noopener"} como en [español](https://www.youtube.com/watch?v=ut8O04M8eIo){:target="_blank" rel="noreferrer noopener"} se puede escuchar desde youtube. Sin embargo, recomiendo mas leerlo.
 * En el [proyecto gutenberg](http://gutenberg.net.au){:target="_blank" rel="noreferrer noopener"}, se puede leer completo el relato original de [La reina de la costa negra](https://gutenberg.net.au/ebooks06/0600961h.html){:target="_blank" rel="noreferrer noopener"} en su idioma original.
-* En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}. El relato de "La reina de la costa negra" viene en muchos libros (es un clásico) [este](https://ww3.lectulandia.com/book/conan/){:target="_blank" rel="noreferrer noopener"} es tan solo uno ellos.
-* Los comics de la serie "Conan the barbarian" se puede descargar [aqui](https://archive.org/details/conan-the-barbarian-1-24/Conan%20The%20Barbarian%20004/){:target="_blank" rel="noreferrer noopener"} o leer en linea [#58](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970/Issue-58?id=17185&s=&quality=hq){:target="_blank" rel="noreferrer noopener"} y [#100](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970/Issue-100?id=16797){:target="_blank" rel="noreferrer noopener"}.
-* El comic "The savage sword of Conan #24", se puede leer en linea [aqui](https://readcomiconline.li/Comic/The-Savage-Sword-Of-Conan/Issue-24?id=65350&s=&quality=hq){:target="_blank" rel="noreferrer noopener"} y descargar [aqui](https://getcomics.org/marvel/savage-sword-conan-1-235-annual/){:target="_blank" rel="noreferrer noopener"}.
-* Los comics de Dark Horse se pueden leer en linea aqui: [20](https://readcomiconline.li/Comic/Conan-2003/Issue-20?id=17318&s=&readType=1){:target="_blank" rel="noreferrer noopener"}, [21](https://readcomiconline.li/Comic/Conan-2003/Issue-21?id=17320&s=&readType=1){:target="_blank" rel="noreferrer noopener"} y [22](https://readcomiconline.li/Comic/Conan-2003/Issue-22?id=17322&s=&readType=1){:target="_blank" rel="noreferrer noopener"} o descargar [aqui](https://getcomics.org/other-comics/conan-vol-1-10-2005-2011/){:target="_blank" rel="noreferrer noopener"}.
+* En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}. El relato de "La reina de la costa negra" viene en muchos libros (es un clásico) [este](https://ww3.lectulandia.com/book/conan-el-cimmerio/){:target="_blank" rel="noreferrer noopener"} es tan solo uno ellos.
+* Los comics de la serie "Conan the barbarian" se puede descargar [aqui](https://getcomics.org/marvel/conan-the-barbarian-vol-1-1-13-1970-1972/){:target="_blank" rel="noreferrer noopener"} o leer en linea [#58](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970/Issue-58?id=17185&s=&quality=hq){:target="_blank" rel="noreferrer noopener"} y [#100](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970/Issue-100?id=16797){:target="_blank" rel="noreferrer noopener"}.
+* El comic "The Cimmerian" de Ablaze, se puede leer en linea [aqui](hhttps://readcomiconline.li/Comic/The-Cimmerian-Queen-of-the-Black-Coast){:target="_blank" rel="noreferrer noopener"} y descargar [aqui](https://getcomics.org/other-comics/the-cimmerian-vol-1-tpb-2020/){:target="_blank" rel="noreferrer noopener"}.
+* Los comics de Dark Horse se pueden leer en linea aqui: [1](https://readcomiconline.li/Comic/Conan-the-Barbarian-2012/Issue-1?id=109257&s=&readType=1){:target="_blank" rel="noreferrer noopener"}, [2](https://readcomiconline.li/Comic/Conan-the-Barbarian-2012/Issue-2?id=109268){:target="_blank" rel="noreferrer noopener"}, [3](https://readcomiconline.li/Comic/Conan-the-Barbarian-2012/Issue-3?id=109275){:target="_blank" rel="noreferrer noopener"}, [22](https://readcomiconline.li/Comic/Conan-the-Barbarian-2012/Issue-22?id=109271){:target="_blank" rel="noreferrer noopener"}, [23](https://readcomiconline.li/Comic/Conan-the-Barbarian-2012/Issue-23?id=109272){:target="_blank" rel="noreferrer noopener"} y [24](https://readcomiconline.li/Comic/Conan-the-Barbarian-2012/Issue-24?id=109273){:target="_blank" rel="noreferrer noopener"} o descargar [aqui](https://getcomics.org/other-comics/conan-vol-1-10-2005-2011/){:target="_blank" rel="noreferrer noopener"}.
 
 ### Otros análisis
 
-* [Otro análisis](https://earl-livings.com/story-process-1/){:target="_blank" rel="noreferrer noopener"} por Earl Livings.
-* [Entendiendo la torre del elefante](https://www.blackgate.com/2013/09/25/understanding-the-tower-of-the-elephant/){:target="_blank" rel="noreferrer noopener"} por M Harold Page.
-* [Análisis crítico de la torre del elefante](https://prezi.com/p/igtvcfh1lwzz/critical-analysis-the-tower-of-the-elephant/){:target="_blank" rel="noreferrer noopener"} por Rebeca White.
-* [Reseña de la historia la torre del elefante](https://frankormond.wordpress.com/2019/08/16/story-review-the-tower-of-the-elephant-by-robert-e-howard/){:target="_blank" rel="noreferrer noopener"} por Frak Ormond.
-* [La torre del elefante: Roy Thomas vs Kurt Busiek](https://www.zonanegativa.com/la-torre-del-elefante-roy-thomas-vs-kurt-busiek/){:target="_blank" rel="noreferrer noopener"} por Alejandro Ugartondo.
+* [Patrice Louinet on “Queen of the Black Coast"](https://www.blackgate.com/2019/07/08/hither-came-conan-patrice-louinet-on-queen-of-the-black-coast/){:target="_blank" rel="noreferrer noopener"} por Earl Livings.
+
+* ["Queen of the Black Coast" (Robert E Howard's Conan) Reviewed](https://www.reddit.com/r/printSF/comments/2u94wi/queen_of_the_black_coast_robert_e_howards_conan/){:target="_blank" rel="noreferrer noopener"}
+
+* [Review: Queen of the Black Coast by Robert E. Howard](http://imwithgeekarchive.weebly.com/books/review-queen-of-the-black-coast-by-robert-e-howard){:target="_blank" rel="noreferrer noopener"} por Emlyn Roberts-Harry.
+
+* [Conan: Queen of the Black Coast](https://www.scifiwright.com/2019/03/conan-queen-of-the-black-coast/){:target="_blank" rel="noreferrer noopener"} por John C. Wright.
