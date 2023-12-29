@@ -96,7 +96,7 @@ Esté libro consta de los pasajes del diario de Novalyne que hablan sobre REH.
 Este libro fué en el que se baso la película [The Whole Wide World](https://en.wikipedia.org/wiki/The_Whole_Wide_World){:target="_blank" rel="noreferrer noopener"}, (que en español le pusieron “Mi vida”) en la que [Vincent D’Onofrio](https://en.wikipedia.org/wiki/Vincent_D%27Onofrio){:target="_blank" rel="noreferrer noopener"} encarna a REH y [Renée Zellweger](https://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger){:target="_blank" rel="noreferrer noopener"} a Novalyne.
 También se puede conseguir en [amazon](https://www.amazon.com/One-Who-Walked-Alone-Robert/dp/093798678X){:target="_blank" rel="noreferrer noopener"}.
 
-###  Una mirada detallada a Robert E Howard
+###  Una mirada detallada a Robert E. Howard
 
 ![Robert E. Howard: A Closer Look - portada libro]({{ site.baseurl }}/static/images/references/REHCloserLook.jpg "Robert E. Howard: A Closer Look - portada libro")
 
