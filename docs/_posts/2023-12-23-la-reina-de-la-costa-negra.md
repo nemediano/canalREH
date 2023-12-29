@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2023-12-23
+last_modified_at: 2023-12-29
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -108,11 +108,52 @@ Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologí
 
 #### Las leyes de los hombres civilizados
 
+> ... the judge squalled that I had shown contempt for the court, and that I should be hurled into a dungeon to rot until I betrayed my friend.
+> So then, seeing they were all mad, I drew my sword and cleft the judge's skull;
+
+El juez dijo gritando que yo había manifestado un profundo desprecio hacia el tribunal y que debía ser encerrado en una mazmorra para que me pudriera allí, hasta que traicionara a mi amigo.
+Por consiguiente, y viendo que estaban todos locos, desenvainé mi espada y le partí la
+cabeza al juez;
+
 #### Promesa mas allá de la muerte
+
+> "my love is stronger than any death!
+> I have lain in your arms, panting with the violence of our love; you have held and crushed and conquered me, drawing my soul to your lips with the fierceness of your bruising kisses.
+> My heart is welded to your heart, my soul is part of your soul!
+> Were I still in death and you fighting for life, I would come back from the abyss to aid you--aye, whether my spirit floated with the purple sails on the crystal sea of paradise, or writhed in the molten flames of hell!
+> I am yours, and all the gods and all their eternities shall not sever us!"
+
+
+¡Sé que mi amor es más fuerte que la muerte!
+Me has estrechado en tus brazos, jadeando con la violencia de nuestro amor; me has cogido y estrujado y me has conquistado, atrayéndome el alma a tus labios con la violencia de tus hirientes besos.
+¡Mi corazón está soldado al tuyo; mi alma es parte de tu alma!
+¡Si yo muero y tú tuvieras que luchar por tu vida, yo volvería del abismo para ayudarte; sí, lo haría tanto si mi espíritu flotara bajo las velas purpúreas del mar cristalino del paraíso, como si se retorciese entre las llamas del infierno!
+¡Soy tuya, y ni los dioses ni la eternidad podrán separarnos!
 
 #### La vida es una ilusión
 
+> I know this: if life is illusion, then I am no less an illusion, and being thus, the illusion is real to me.
+> I live, I burn with life, I love, I slay, and am content.
+
+Yo sólo sé esto: que si la vida es ilusión, yo no soy más que eso, una ilusión, y ella, por consiguiente, es una realidad para mí.
+Estoy vivo, me consume la pasión, amo y mato; con eso me doy por contento.
+
 #### Los dioses del norte
+
+> "Their chief is Crom.
+> He dwells on a great mountain.
+> What use to call on him?
+> Little he cares if men live or die.
+> Better to be silent than to call his attention to you; he will send you dooms, not fortune!
+> He is grim and loveless, but at birth he breathes power to strive and slay into a man's soul.
+> What else shall men ask of the gods?"
+
+El dios principal es Crom, que vive en una gran montaña.
+Pero de nada vale invocarlo.
+Le importa muy poco si los hombres viven o mueren.
+¡Es mejor callar que reclamar su atención, ya que suele enviar desdichas y no fortuna!
+Es implacable y sin compasión, pero infunde poder para luchar y matar en el momento de nacer.
+¿Qué más puede pedir un ser humano?
 
 #### La canción de Belit
 
@@ -269,10 +310,7 @@ Este es uno de los mejores relatos del ciclo de Conan y de REH en general.
 
 ### Otros análisis
 
-* [Patrice Louinet on “Queen of the Black Coast"](https://www.blackgate.com/2019/07/08/hither-came-conan-patrice-louinet-on-queen-of-the-black-coast/){:target="_blank" rel="noreferrer noopener"} por Earl Livings.
-
+* [Patrice Louinet on “Queen of the Black Coast"](https://www.blackgate.com/2019/07/08/hither-came-conan-patrice-louinet-on-queen-of-the-black-coast/){:target="_blank" rel="noreferrer noopener"}.
 * ["Queen of the Black Coast" (Robert E Howard's Conan) Reviewed](https://www.reddit.com/r/printSF/comments/2u94wi/queen_of_the_black_coast_robert_e_howards_conan/){:target="_blank" rel="noreferrer noopener"}
-
 * [Review: Queen of the Black Coast by Robert E. Howard](http://imwithgeekarchive.weebly.com/books/review-queen-of-the-black-coast-by-robert-e-howard){:target="_blank" rel="noreferrer noopener"} por Emlyn Roberts-Harry.
-
 * [Conan: Queen of the Black Coast](https://www.scifiwright.com/2019/03/conan-queen-of-the-black-coast/){:target="_blank" rel="noreferrer noopener"} por John C. Wright.
