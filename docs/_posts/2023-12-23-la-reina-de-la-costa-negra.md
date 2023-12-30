@@ -42,6 +42,8 @@ El tiempo estimado de lectura es de entre treinta y cinco y cincuenta minutos de
 
 Esta historia apareció por primera vez en Weird tales en el número de mayo de 1934.
 
+Le pagaron $115.00 USD a REH  por ella
+
 ![Weird Tales may 1934 cover]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/Weird_Tales_1934-05.jpg "Weird Tales may 1934 cover")
 
 Y como puede verse fué la historia de portada.
@@ -90,18 +92,75 @@ Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologí
 ### Personajes
 
 #### Conan
-* Un joven bárbaro del norte
-* Poco acostumbrado a la civilización
+
+* Un bárbaro del norte,
+  * hombre de acción,
+  * guerrrero por excelencia
+* Inocente para su entorno: La civilización le parece extraña y sin sentido
+  * Con los ideales de su pueblo arraigados
+* Tiene tendencia a la reflexión e introspección
+  * Pero acepta la vida con una filosofia clara y practica
 
 #### Belit
 
+* Lider de los piratas
+  * que la veneran como diosa
+  * y nunca cuestionan sus ordenes
+* De mentalidad prática
+* La autodenominada ***"Reina de la costa negra"***
+* De sentimientos profundos y salvajes
+  * Estratega y guerrera
+
 #### Tito
+
+* Capitán del Argos
+* Conocedor de su oficio y práctico
+  * y de la civilización y su entorno
+* Un comerciante pacífico
 
 #### El guardian de las ruinas
 
+* Miembro de una raza primordial y antigua
+  * que se ha sumido en la decadencia por siglos
+* Posedor de fuerza sobrehumana y salvaje
+  * pero malvado y astuto
+  * con conocimientos de magia
+
+#### El rio Zarkheba
+
+* Su nombre significa *muerte*
+* Rio maldito
+  * de aguas putrefactas y venenosas
+* Habitado por serpientes gigantes que devoran hombres
+* Probablemente la causa del declive de la civilización primigenia
+
+#### El loto negro
+
+* Planta cuyo aroma induce
+  * la paralisis y el sueño
+  * halucinaciones y pesadillas
+* Parecen moverse sin que sople el viento
+
+#### Las hienas
+
+* Sirvientes del guardian de las ruinas
+* Con tamaño y fuerza sobrenatural
+* Antes fueron hombres
+  * transformadon en bestias por la hechizeria
+
 #### N'Gora
 
+* Miembro de la tripulacion de *"La Tigresa"*
+* Segundo al comando (tercero cuando se une Conan)
+* Guerrero fiel y amigo de Conan
+  * que pierde la razón y muere
+
 #### N'Yaga
+
+* Miembro de la tripulación de *"La Tigresa"*
+* Chaman y curandero
+* Consejero de Belit
+* Es el primero que advierte el peligro mortal
 
 
 ### Citas interesantes
@@ -217,11 +276,23 @@ a la mujer que me habéis entregado.
 ### Tropes literarios incluidos
 
 #### Espada y hechizeria
-* Temporalidad: una sola noche
-* Aventura circunstancial
-* No genero un cambio
+* Aventura que no genero un cambio
 * La espada: la justicia; la hechicería: el mal
+* La hechizeria esclavizo a los guerreros: mito de Circe
 
+#### Sueños reveladores
+
+#### Civilizaciones en declive
+
+#### Plantas vivientes
+
+#### Ciudadela prohibida
+
+#### Conan es un guerrero perfecto
+
+#### Promesa después de la muerte
+
+#### La filosofía de Conan
 
 ## Adaptaciones
 
