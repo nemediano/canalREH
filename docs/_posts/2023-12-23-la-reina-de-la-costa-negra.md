@@ -276,23 +276,64 @@ a la mujer que me habéis entregado.
 ### Tropes literarios incluidos
 
 #### Espada y hechizeria
+
 * Aventura que no genero un cambio
 * La espada: la justicia; la hechicería: el mal
-* La hechizeria esclavizo a los guerreros: mito de Circe
+* Mito de Circe: hechizero convirtió a guerreros en animales/esclavos
 
 #### Sueños reveladores
 
+* Una parte importante de la trama es revelada en un sueño
+  * El origien de la ciudadela y del monstruo alado
+* El sueño el pasado y el presente
+  * No queda claro si el futuro inmediato
+
 #### Civilizaciones en declive
+
+* Una civilización avanzada y evolucionada
+  * fué victima de un evento/desastre natural
+* Como resultado
+  * involucionó y decayó
+  * en un estado primitivo y salvaje
 
 #### Plantas vivientes
 
+* Ademas del efecto de sus esporas
+* La planta del loto negro:
+  * parece tener conciencia
+  * se mueve aun cuando no sopla el viento
+  * parece "cazar" a los humanos
+
 #### Ciudadela prohibida
+
+* Ciudad en ruinas perdida en la selva
+  * mas antigua que la humanidad
+  * llena de trampas y peligros para los intrusos
+  * esconde un tesoro
 
 #### Conan es un guerrero perfecto
 
+* Con la espada mantiene a los piratas a raya
+  * parte en dos al guardián de la ciudadela
+* Con el arco mata a piratas y hienas
+  * aun cuando el mismo dice que no es un arma de su preferencia
+* Mata la últimas hienas con sus manos
+* Se cuentan leyendas de su habilidad guerrera en sus años con Belit
+
 #### Promesa después de la muerte
 
+* Belit promete regresar de la muerte para ayudar a Conan
+* Cumple su promesa, en el momento preciso
+* Conan es consiente de que fué el fantasma de Belit
+
+
 #### La filosofía de Conan
+
+* Conan teme y respeta a los dioses
+  * pero no se fia de ellos
+* Trata de no meditar y disfrutar la vida
+* No espera nada despues de la muerte
+  * prefiere vivir en el momento
 
 ## Adaptaciones
 
