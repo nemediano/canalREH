@@ -18,7 +18,7 @@ last_modified_at: 2023-12-22
 
 ![Robert E. Howard picture]({{ site.baseurl }}/static/images/RobertHoward.jpg "Robert E. Howard")
 
-[Robert Ervin Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} (a.k.a. REH) fue un escritor y poeta nacido en Texas, Estados Unidos a principios del siglo XX.
+[Robert Ervin Howard](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} (REH) fue un escritor y poeta nacido en Texas, Estados Unidos a principios del siglo XX.
 La mayor parte de su obra fue publicada en revistas pulp. Es particularmente recordado por sus publicaciones en la legendaria revista [Weird Tales](https://en.wikipedia.org/wiki/Weird_Tales){:target="_blank" rel="noreferrer noopener"}, de donde se le considera uno de sus autores más importantes.
 
 Sus trabajos más conocidos son en el género de la fantasía. De hecho, se le atribuye la invención de un subgénero conocido como [espada y hechicería](https://en.wikipedia.org/wiki/Sword_and_sorcery){:target="_blank" rel="noreferrer noopener"}. Pero REH, fue un escritor sumamente prolífico y escribió historias de varios géneros: western, terror, ciencia ficción, ficción histórica, humor e historias eróticas; por mencionar algunos. Y esto dejando de lado su faceta como poeta.

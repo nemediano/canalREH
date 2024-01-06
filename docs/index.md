@@ -15,7 +15,7 @@ seo_description: El baúl de Howard trata de hacer análisis en español de la v
 
 last_modified_at: 2023-12-22
 ---
-Este blog está dedicado a la apreciación y el análisis de la vida y obra de Robert E. Howard (a.k.a. REH).
+Este blog está dedicado a la apreciación y el análisis de la vida y obra de Robert E. Howard (REH).
 REH, fué un escritor y poeta estadounidense de principios del siglo XX, mejor conocido por su personaje más famoso: Conan el bárbaro.
 
 Este sitio complementa el canal de youtube del mismo nombre.

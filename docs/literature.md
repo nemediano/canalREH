@@ -16,7 +16,7 @@ seo_description: Análisis de la obra literaria de Robert E. Howard. Todas las h
 last_modified_at: 2023-12-22
 ---
 
-En esta sección analizamos cualquier obra escrita por Robert E. Howard (a.k.a. REH). Excepto por el ciclo de Conan que tiene su [sección aparte](/conan).
+En esta sección analizamos cualquier obra escrita por Robert E. Howard (REH). Excepto por el ciclo de Conan que tiene su [sección aparte](/conan).
 
 REH fue un escritor muy prolífico, creó cerca de 400 historias en prosa. La gran mayoría son relatos o cuentos cortos que tenían la intención de ser publicados en revistas pulp. Además, ecribió más de una decena de ensayos y cientos de poemas.
 
