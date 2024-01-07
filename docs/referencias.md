@@ -14,6 +14,38 @@ seo_description: Referencias y bibliografía sobre Robert E. Howard el creador d
 last_modified_at: 2023-12-22
 ---
 
+## Sitios en internet
+
+### Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kqdjA88cibk?si=1t_vnPTM3Gbb8XUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+
+Mi esposa tiene su propio [canal de youtube](https://www.youtube.com/@eleutherialekona), en donde hay una sección de entrevistas a invitados. En una ocasión me invito a hablar de REH.
+
+También hay varios youtubers que les gusta hablar de REH, a mi me gusta el canal de [Michael K. Vaughan](https://www.youtube.com/@michaelk.vaughan8617){:target="_blank" rel="noreferrer noopener"}, pero hay muchas opciones.
+También puedes buscar un relato de REH, por su nombre y hay muchos versiones con audiolibros tanto en ingles como español.
+
+### Proyecto Gutenberg
+
+En el [proyecto gutenberg](http://gutenberg.net.au){:target="_blank" rel="noreferrer noopener"} de australia, se pueden leer [varios relatos](http://freeread.com.au/@RGLibrary/RobertEHoward/RobertEHoward.html){:target="_blank" rel="noreferrer noopener"} completos de REH en su idioma original.
+
+### Lectulandia
+
+En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}, tanto en formato EPUB como en pdf.
+
+### Wikipedia
+
+La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} y la de su bibliografia en [prosa](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography){:target="_blank" rel="noreferrer noopener"} y [verso](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography_(poems_A%E2%80%93H)){:target="_blank" rel="noreferrer noopener"}, son usualmente las primeras fuentes a consultar cuando estoy por empezar a leer una historia de REH o escribir un análisis.
+
+### Readcomiconline
+
+Este [sitio](https://readcomiconline.li/){:target="_blank" rel="noreferrer noopener"} contiene un archivo de muchisimos comics que se pueden leer en linea. Si tecleas en su buscador Conan, la lista de resultados es muy grande. En particular tiene toda la serie de ["Savage Sword of Conan"](https://readcomiconline.li/Comic/The-Savage-Sword-Of-Conan){:target="_blank" rel="noreferrer noopener"}, la de ["Conan the barbarian"](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970){:target="_blank" rel="noreferrer noopener"} y las distintas series de Dark Horse sobre [Conan](https://readcomiconline.li/Comic/Conan-2003){:target="_blank" rel="noreferrer noopener"}.
+
+### Getcomics
+
+Este [sitio](https://getcomics.org){:target="_blank" rel="noreferrer noopener"} tambien contiene un archivo de muchisimos comics que se pueden descargar en [formato cbr](https://docs.fileformat.com/ebook/cbr/){:target="_blank" rel="noreferrer noopener"}. Si tecleas en su buscador Conan, la lista de resultados también es muy grande. Desde luego tambien tienen las series de ["Savage Sword of Conan"](https://getcomics.org/marvel/savage-sword-of-conan-1974-1995-saga-collection-1987-1995-talos-digital-remaster-2021/){:target="_blank" rel="noreferrer noopener"}, ["Conan the barbarian"](https://getcomics.org/marvel/conan-the-barbarian-vol-1-1-13-1970-1972/){:target="_blank" rel="noreferrer noopener"} y las distintas series de Dark Horse sobre [Conan](https://getcomics.org/other-comics/conan-dark-horse-collection-2003-2018/){:target="_blank" rel="noreferrer noopener"}.
+
+
 ## Libros
 
 
@@ -110,29 +142,3 @@ Es uno de los últimos libros en escribirse (primera edición en Octubre del 202
 Si apenas te estás adentrando en REH, éste es un muy buen lugar para empezar.
 Lo puedes comprar en [amazon](https://www.amazon.com/Robert-Howard-Closer-Look/dp/1614983119){:target="_blank" rel="noreferrer noopener"}.
 
-## Sitios en internet
-
-### Proyecto Gutenberg
-
-En el [proyecto gutenberg](http://gutenberg.net.au){:target="_blank" rel="noreferrer noopener"} de australia, se pueden leer [varios relatos](http://freeread.com.au/@RGLibrary/RobertEHoward/RobertEHoward.html){:target="_blank" rel="noreferrer noopener"} completos de REH en su idioma original.
-
-### Lectulandia
-
-En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}, tanto en formato EPUB como en pdf.
-
-### Wikipedia
-
-La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} y la de su bibliografia en [prosa](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography){:target="_blank" rel="noreferrer noopener"} y [verso](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography_(poems_A%E2%80%93H)){:target="_blank" rel="noreferrer noopener"}, son usualmente las primeras fuentes a consultar cuando estoy por empezar a leer una historia de REH o escribir un análisis.
-
-### Readcomiconline
-
-Este [sitio](https://readcomiconline.li/){:target="_blank" rel="noreferrer noopener"} contiene un archivo de muchisimos comics que se pueden leer en linea. Si tecleas en su buscador Conan, la lista de resultados es muy grande. En particular tiene toda la serie de ["Savage Sword of Conan"](https://readcomiconline.li/Comic/The-Savage-Sword-Of-Conan){:target="_blank" rel="noreferrer noopener"}, la de ["Conan the barbarian"](https://readcomiconline.li/Comic/Conan-the-Barbarian-1970){:target="_blank" rel="noreferrer noopener"} y las distintas series de Dark Horse sobre [Conan](https://readcomiconline.li/Comic/Conan-2003){:target="_blank" rel="noreferrer noopener"}.
-
-### Getcomics
-
-Este [sitio](https://getcomics.org){:target="_blank" rel="noreferrer noopener"} tambien contiene un archivo de muchisimos comics que se pueden descargar en [formato cbr](https://docs.fileformat.com/ebook/cbr/){:target="_blank" rel="noreferrer noopener"}. Si tecleas en su buscador Conan, la lista de resultados también es muy grande. Desde luego tambien tienen las series de ["Savage Sword of Conan"](https://getcomics.org/marvel/savage-sword-of-conan-1974-1995-saga-collection-1987-1995-talos-digital-remaster-2021/){:target="_blank" rel="noreferrer noopener"}, ["Conan the barbarian"](https://getcomics.org/marvel/conan-the-barbarian-vol-1-1-13-1970-1972/){:target="_blank" rel="noreferrer noopener"} y las distintas series de Dark Horse sobre [Conan](https://getcomics.org/other-comics/conan-dark-horse-collection-2003-2018/){:target="_blank" rel="noreferrer noopener"}.
-
-### Youtube
-
-Hay varios youtubers que les gusta hablar de REH, a mi me gusta el canal de [Michael K. Vaughan](https://www.youtube.com/@michaelk.vaughan8617){:target="_blank" rel="noreferrer noopener"}, pero hay muchas opciones.
-También puedes buscar un relato de REH, por su nombre y hay muchos versiones con audiolibros tanto en ingles como español.
