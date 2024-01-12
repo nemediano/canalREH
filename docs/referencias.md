@@ -18,7 +18,7 @@ last_modified_at: 2023-12-22
 
 ### Youtube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kqdjA88cibk?si=1t_vnPTM3Gbb8XUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+{% include youtube.html id='kqdjA88cibk' %}
 
 Mi esposa tiene su propio [canal de youtube](https://www.youtube.com/@eleutherialekona), en donde hay una sección de entrevistas a invitados. En una ocasión me invito a hablar de REH.
 
