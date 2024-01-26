@@ -32,6 +32,12 @@ La reina de la costa negra es una historia de Conan el bárbaro escrita por Robe
 Dentro de la cronología ficticia de Conan, éste relato forma parte de sus primeras aventuras. *La reina de la costa negra* es considerada una historia clásica de Conan.
 Destaca por ser la primera y única aparción (en las historias escritas por REH) del personaje de Belit y por que es de los pocos relatos de REH que tienen un tema de romance y que casi podría considerase como una historia de amor.
 
+<h3>Contenido</h3>
+
+* TOC
+{:toc}
+
+
 ## Editorial
 
 ### Publicación original

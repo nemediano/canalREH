@@ -33,6 +33,12 @@ image:
 La torre del elefante es una historia de Conan el bárbaro escrita por Robert E. Howard (REH).
 Dentro de la cronología ficticia de Conan, éste relato forma parte de sus primeras aventuras. Además, cabe mencionar que *La torre del elefante* es considerada una historia clásica de Conan y una de las mejores historias tanto de este ciclo como de la obra de REH en general.
 
+<h3>Contenido</h3>
+
+* TOC
+{:toc}
+
+
 ## Editorial
 
 ### Publicación original
