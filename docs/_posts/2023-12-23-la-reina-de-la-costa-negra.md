@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2023-12-29
+last_modified_at: 2024-07-04
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -406,8 +406,18 @@ Creditos:
 
 La reina de la costa negra es un relato muy importante dentro del ciclo de Conan.
 
-* El juego MMORPG, [wizard101](https://www.wizard101.com/){:target="_blank" rel="noreferrer noopener"} online tiene un calabozo llamado “Tower of the Helephant”
-
+* Cuentos de abuelito
+* [Everett F. Bleiler](https://en.wikipedia.org/wiki/E._F._Bleiler){:target="_blank" rel="noreferrer noopener"}, opina que es la mejor historia de conan, por que tiene un motor diferente a la lujuria, ala varicia o el odio.
+* Es la historia de Conan por excelencia para que los cómics llenen lo espacios
+  * Durante (los años que pasan juntos como piratas)
+  * Despues (¿Cómo se recupero Conan de la perdida de Belit?)
+* Belit se convertiría en un personaje importante en el lore de Conan. Es por antonomasia el personaje ideal para flashlack e ilustraciones.
+En particular
+  * La danza
+  * Su aparicion
+  * Colgando del mástil
+  * En la pira funeraria
+Son escenas icónicas
 
 ## Opinion personal
 
@@ -432,3 +442,5 @@ Este es uno de los mejores relatos del ciclo de Conan y de REH en general.
 * ["Queen of the Black Coast" (Robert E Howard's Conan) Reviewed](https://www.reddit.com/r/printSF/comments/2u94wi/queen_of_the_black_coast_robert_e_howards_conan/){:target="_blank" rel="noreferrer noopener"}
 * [Review: Queen of the Black Coast by Robert E. Howard](http://imwithgeekarchive.weebly.com/books/review-queen-of-the-black-coast-by-robert-e-howard){:target="_blank" rel="noreferrer noopener"} por Emlyn Roberts-Harry.
 * [Conan: Queen of the Black Coast](https://www.scifiwright.com/2019/03/conan-queen-of-the-black-coast/){:target="_blank" rel="noreferrer noopener"} por John C. Wright.
+* [The Legendary Queen of the Black Coast: Belit](https://conan.com/the-legendary-queen-of-the-black-coast-belit/){:target="_blank" rel="noreferrer noopener"} por Lo Terry.
+* [Art of Belit](https://swordsofreh.proboards.com/thread/199/art-belit): Thread en el foro oficial del Conan donde hay posteadas muchas ilustraciones de Belit.

@@ -27,11 +27,11 @@ open=false
 order=-1
 
 [item:contenido.tex]
-open=true
+open=false
 order=0
 
 [item:presentacion.tex]
-open=true
+open=false
 order=1
 
 [view-settings,view=0,item:contenido.tex]

@@ -11,7 +11,7 @@ seo_title: Referencias y bibliografía sobre Robert E. Howard el creador de Cona
 
 seo_description: Referencias y bibliografía sobre Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-last_modified_at: 2023-12-22
+last_modified_at: 2024-07-04
 ---
 
 <h3>Contenido</h3>
@@ -147,3 +147,33 @@ Es uno de los últimos libros en escribirse (primera edición en Octubre del 202
 Si apenas te estás adentrando en REH, éste es un muy buen lugar para empezar.
 Lo puedes comprar en [amazon](https://www.amazon.com/Robert-Howard-Closer-Look/dp/1614983119){:target="_blank" rel="noreferrer noopener"}.
 
+###  Robert E. Howard cambió mi vida: Ensayos personales sobre un legado extraordinario
+
+![Robert E. Howard Changed My Life - portada libro]({{ site.baseurl }}/static/images/references/REHChanged.jpg "Robert E. Howard Changed My Life - portada libro")
+
+**Titulo:** Robert E. Howard Changed My Life: Personal Essays about an Extraordinary Legacy
+
+**Editor:** Jason M Waltz
+
+Una colección de [ensayos](https://www.blackgate.com/2022/08/02/book-review-of-robert-e-howard-changed-my-life-personal-essays-about-an-extraordinary-legacy/){:target="_blank" rel="noreferrer noopener"} de varios autores, donde cada uno detalla cómo REH cambió su vida.
+Es un libro excelente para los fans de REH, porque te deja saber que siempre ha existido gente como tú.
+Dentro de los autores que presentan ensayos hay verdaderas luminarias del medio (varios de los autores de los otros libros de esta sección tienen ensayos aquí).
+Por poner sólo unos nombres: Mark Finn, Roy Thomas y Michael Moorcock.
+
+Este libro se disfruta mucho cuando ya conoces la obra de REH y quieres saber qué piensan los expertos de ella.
+Lo puedes comprar en [amazon](https://www.amazon.com/Robert-Howard-Changed-Life-Extraordinary/dp/0578661756/){:target="_blank" rel="noreferrer noopener"}.
+
+### Cuentistas extraños: Ensayos sobre Robert E. Howard y otros
+
+![Weird Talers - portada libro]({{ site.baseurl }}/static/images/references/WeirdTalers.jpg "Weird Talers - portada libro")
+
+**Titulo:** Weird Talers: Essays on Robert E. Howard and Others
+
+**Autor:** Robert Derie
+
+El autor realiza una colección de [ensayos](https://www.hippocampuspress.com/robert-e.-howard/essays-on-robert-e.-howard-and-others-by-bobby-derie){:target="_blank" rel="noreferrer noopener"} acerca de varios temas que giraban sobre REH y se compartieron epistolarmente en el círculo de Lovecraft.
+Es decir es un análisis de las cartas intercambiadas entre REH y alguno de ellos sobre algún tema en particular.
+Casi diría que si lees este libro, ya no necesitas leer las cartas en sí.
+
+Este libro es el indicado para conocer detalles sobre las opiniones personales de la gente que escribía en Weird tales acerca de la vida y obra de REH.
+Lo puedes comprar en [amazon](https://www.amazon.com/Weird-Talers-Essays-Robert-Howard/dp/1614982589/){:target="_blank" rel="noreferrer noopener"}.
