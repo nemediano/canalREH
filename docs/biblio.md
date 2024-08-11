@@ -1,0 +1,134 @@
+---
+layout: page
+
+title: Bibliografía
+
+permalink: /biblio/
+
+excerpt: Bibliografía en español de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en Español de la vida y obra de Robert E. Howard.
+
+seo_title: Lista de libros en Español de Robert E. Howard, el creador de Conan.
+
+seo_description: Bibliografía en Español de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+
+last_modified_at: 2024-08-11
+---
+
+<h3>Contenido</h3>
+
+* TOC
+{:toc}
+
+## Español
+
+### Nacerá una bruja
+
+![Nacerá una bruja - portada libro]({{ site.baseurl }}/static/images/biblio/naceraUnaBruja.jpg "Nacerá una bruja - portada libro")
+
+**Contenido:**
+
+1. Introducción (Bienvenido a la era hiboria)
+1. Las Crónicas Nemedias
+1. Cimeria (poema)
+1. La hija del gigante de hielo (The Frost Giant's Daughter, Gods of the North or The Frost King's Daughter)
+1. El dios del cuenco (The God in the Bowl)
+1. Hatajo de rufianes (Rogues in the House)
+1. La Reina de la Costa Negra (Queen of the Black Coast)
+1. El valle de las mujeres perdidas (The Vale of Lost Women)
+1. La torre del elefante (The Tower of the Elephant)
+1. Natohk el velado (Black Colossus)
+1. Sombras a la luz de la luna (Iron Shadows in the Moon or Shadows in the Moonlight)
+1. Nacerá una bruja (A Witch Shall be Born)
+1. Sombras sobre Zamboula (Shadows in Zamboula or The Man-Eaters of Zamboula)
+1. Xuthal del crepúsculo (Xuthal of the Dusk or The Slithering Shadow)
+1. El diablo de hierro (The Devil in Iron)
+1. El pueblo del círculo negro (The People of the Black Circle)
+1. El extranjero negro (The Black Stranger, also Swords of the Red Brotherhood also The Treasure of Tranicos)
+1. El estanque del negro (The Pool of the Black One)
+1. Clavos rojos (Red Nails)
+1. Las joyas de Gwahlur (Jewels of Gwahlur or The Snout in the Dark)
+1. Más allá del Río Negro (Beyond the Black River)
+1. El fénix en la espada (The Phoenix on the Sword)
+1. La ciudadela escarlata (The Scarlet Citadel)
+1. La hora del dragón (The Hour of the Dragon or Conan the Conqueror)
+
+### El Señor de Samarcanda y otros relatos históricos
+
+![El Señor de Samarcanda - portada libro]({{ site.baseurl }}/static/images/biblio/senorDeSarmancanda.jpg "El Señor de Samarcanda - portada libro")
+
+**Contenido:**
+1. Delenda Est
+1. El rastro de Bohemzundo (The Track of Bohemund)
+1. El señor de Samarcanda (Lord of Samarcande)
+1. El camino de las espadas (The Way of Swords)
+1. Halcones sobre Egipto (Hawks over Egypt)
+1. La ruta de Azrael (The Road of Azrael)
+1. Rojas espadas de la negra Catay (Red Blades of Black Cathay)
+
+### Los gusanos de la tierra y otros relatos de horror sobrenatural
+
+![Los gusanos de la tierra - portada libro]({{ site.baseurl }}/static/images/biblio/gusanosDeLaTierra.jpg "Los gusanos de la tierra - portada libro")
+
+**Contenido:**
+
+1. In memoriam: Robert Ervin Howard (In Memoriam: Robert Ervin Howard)
+1. Arkham (Poema)
+1. En el bosque de Villefére (In The Forest of Villefére)
+1. La serpiente del sueño (The Dream Snake)
+1. La voz de El-Lil(The Voice of El-Lil)
+1. Los hijos de la noche (The Children of the Night)
+1. Los dioses de Bal-Sagoth (The Gods of Bal-Sagoth)
+1. La piedra negra(The Black Stone)
+1. El hombre oscuro (The Dark Man)
+1. La cosa del tejado (The Thing on the Roof)
+1. El pueblo de la oscuridad (People of the Dark)
+1. Los gusanos de la tierra (Worms of the Earth)
+1. El hombre del suelo (The Man of the Ground)
+1. El corazón del viejo Garfield (Old Garfield’s Heart)
+1. El valle del gusano (The Valley of the Worm)
+1. El jardín del miedo (The Garden of Fear)
+1. Los muertos recuerdan (The Dead Remember)
+1. El fuego de Asurbanipal (The Fire of Asshurbanipal)
+1. No me cavéis una tumba (Dig Me No Grave)
+1. Las palomas del infierno (Pigeons from Hell)
+1. La sombra de la bestia (The Shadow of the Beast)
+1. Una ventana abierta (An Open Window)
+
+
+### El Reino de las Sombras
+
+![El Reino de las Sombras - portada libro]({{ site.baseurl }}/static/images/biblio/reinodDeLasSombras.jpg "El Reino de las Sombras - portada libro")
+
+**Contenido:**
+
+1. El reino de las sombras (The Shadow Kingdom)
+1. Los Espejos de Tuzun Thune (The Mirrors of Tuzun Thune)
+1. El Jardín Del Miedo (The Garden of Fear)
+1. Sonya la Roja (The Shadow of the Vulture)
+1. En el Bosque de Villefére (In the Forest of Villefère)
+
+
+### La torre del elefante
+
+![La torre del elefante - portada libro]({{ site.baseurl }}/static/images/biblio/torreDelElefante.jpg "La torre del elefante - portada libro")
+
+**Contenido:**
+
+1. Presentación
+1. Las crónicas nemedias
+1. La Torre del Elefante (The Tower of the Elephant)
+1. La era Hibórea (The Hyborian Age)
+1. Posible biografía de Conan
+
+
+### Tigres del mar
+
+![Tigres del mar - portada libro]({{ site.baseurl }}/static/images/biblio/tigresDelMar.jpg "Tigres del mar - portada libro")
+
+**Contenido:**
+
+1. Introducción a la figura de Cormac Mac Art
+1. Tigres del Mar (Tigers of the Sea)
+1. Espadas del Mar del Norte (Swords of the Northern Sea)
+1. La noche de lobo (The Night of the Wolf)
+1. El templo de la Abominación (The Temple of Abomination)
