@@ -175,3 +175,115 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. El Pueblo de la Oscuridad (People of the Dark)
 1. El giro de la rueda (Untitled: The Wheel Turns)
 1. Robert E. Howard y los pictos: Ensayo sin título (fecha posible entre 1920-1923)
+
+
+### La Piedra Negra y otras aventuras sobrenaturales de Kirowan, Conrad y O’Donnel
+
+![La Piedra Negra - portada libro]({{ site.baseurl }}/static/images/biblio/piedraNegra.jpg "La Piedra Negra - portada libro")
+
+**Contenido:**
+
+1. La saga oculta de Robert E. Howard
+1. El espectro en el umbral (The GhosThe Black Stonet at the Doorway)
+1. La perdición de Dermod (Dermod’s Bane)
+1. La dentellada del oso negro (Black Bear Bites)
+1. La cosa en el Tejado (The Thing on the Roof)
+1. Los que moran bajo las tumbas (Dweller under the Tombs)
+1. El morador del anillo (The Haunter of the Ring)
+1. No me des sepultura (Dig me no Grave)
+1. El dios de jade (The Jade God)
+1. LOS HIJOS DE LA NOCHE (Children of the Night)
+1. LA PIEDRA NEGRA (The Black Stone)
+1. LA CASA EN EL ROBLEDAL (The House in the Oaks)
+1. DAGON MANOR (Dagon Manor)
+1. LA ABADÍA (The Abbey)
+1. Una cronología de Justin Geoffrey, el Libro Negro, Kirowan y Conrad
+1. La sombra de la perdición (The Shadow of Doom)
+1. La víspera de Todos los Santos (All Hallows’ Eve)
+1. Fragmento sin título
+1. Los cirios (Candles)
+1. Arkham (Arkham)
+1. El conjuro de Damballah (The Spell of Damballah)
+1. Espectros en la oscuridad (Spectres in the Darkness)
+
+
+### El pozo de las serpientes y otras historietas del ring
+
+![El pozo de las serpientes - portada libro]({{ site.baseurl }}/static/images/biblio/pozoSerpientes.jpg "El pozo de las serpientes - portada libro")
+
+**Contenido:**
+
+1. El pozo de las serpientes  (The Pit of the Serpent)
+1. La estirpe del buldog  (The Bull Dog Breed)
+1. El rencor del marino (Sailor’s Grudge)
+1. Puño y colmillo (Fist and Fang)
+1. Todo para el ganador (Winner Take All)
+1. Puños de la zona costera (Waterfront Fists)
+1. Campeón de los Siete Mares(Champ of the Forecastle)
+1. El puñetazo TNT (The TNT Punch)
+1. Callejones peligrosos (Alleys of Peril)
+1. Puños de Texas (Texas Fists)
+1. El signo de la serpiente (The Sign of the Snake)
+1. Rompecabezas chino (Blow the Chinks Down!)
+1. Estirpe de luchadores (Breed of Battle)
+1. Puñetazos en el circo (Circus Fists)
+1. Negra Shanghái (Dark Shanghai)
+1. Vikingos del ring (Vikings of the Gloves)
+1. Noche de combate (Night of Battle)
+1. Combate contra reloj (The Slugger’s Game)
+1. El general Puño de Hierro (General Ironfist)
+1. Pelea en la playa (Slugger’s on the Beach)
+1. Costigan el Marino y el Swami (Sailor Costigan and the Swami)
+1. La ley de Tiburón (By the Law of the Shark)
+1. Nudillos voladores (Flying Knuckles)
+1. ¡Vaya puños! (Hard-Fisted Sentiment)
+1. Por el honor del navío (The Honor of the Ship
+
+### El valle perdido de Iskander y otras historias del desierto
+
+![El valle perdido de Iskander - portada libro]({{ site.baseurl }}/static/images/biblio/vallePerdido.jpg "El valle perdido de Iskander - portada libro")
+
+**Contenido:**
+
+1. El valle perdido de Iskander (The Lost Valley of Iskander)
+1. La hija de Erlik Khan (The Daughter of Erlik Khan)
+1. El Halcón de las colinas (Hawk of the Hills)
+
+### El hijo del Lobo Blanco y nuevas historias del desierto
+
+![El hijo del Lobo Blanco - portada libro]({{ site.baseurl }}/static/images/biblio/hijoLoboBlanco.jpg "El hijo del Lobo Blanco - portada libro")
+
+**Contenido:**
+
+1. La Sangre de los Dioses (Blood of the Gods)
+1. El País del Cuchillo (The Country of the Knife)
+1. El hijo del Lobo Blanco (Son of the White Wolf)
+1. La Maldición de la Triple Hoja (Three-Bladed Doom)
+
+### La llegada de El Borak y otras aventuras de Francis Xavier Gordon
+
+![La llegada de El Borak - portada libro]({{ site.baseurl }}/static/images/biblio/llegadaBorak.jpg "La llegada de El Borak - portada libro")
+
+**Contenido:**
+
+1. Introducción: A modo de explicación
+1. La llegda del Borak
+1. La narración de Khoda Khan
+1. El Borak
+1. El castillo misterioso
+1. Al norte de Kyber
+1. En las cumbres del Tibet
+1. El anillo de Jade Blanco
+1. Intriga en Kurdistan
+1. La tierra del misterio
+1. El terror de hierro
+1. Un poder entre las islas
+1. La canción de Yar Ali Khan (The song of Yar Ali Khan)
+1. La espada de Lal Singh (The sword of Lai Singh)
+1. La marea carmesí
+1. La puerta de los leones
+1. Lanzas de oriente
+1. Bajo el gran tigre
+1. Fragmentos sin título
+1. Poema sin título
+
