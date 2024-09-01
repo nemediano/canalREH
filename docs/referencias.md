@@ -3,16 +3,20 @@ layout: page
 
 title: Referencias
 
-permalink: /references/
+permalink: /referencias/
 
-excerpt: Referencias y bibliografía sobre Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+excerpt: Referencias acerca de la vida y obra de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-seo_title: Referencias y bibliografía sobre Robert E. Howard el creador de Conan
+seo_title: Referencias sobre vida y obra de Robert E. Howard el creador de Conan
 
-seo_description: Referencias y bibliografía sobre Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
+seo_description: Referencias sobre la vida obra y analisis de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-last_modified_at: 2024-07-04
+last_modified_at: 2024-09-01
 ---
+
+Aquí hay una recopilación de fuentes que analizan la vida y obra de REH.
+La mayoria de estas referencias estan en Ingles.
+Si lo que buscas son las ediciones en Español de la obra de REH, busca en la [sección de bibliografía](biblio/).
 
 <h3>Contenido</h3>
 
@@ -29,18 +33,6 @@ Mi esposa tiene su propio [canal de youtube](https://www.youtube.com/@eleutheria
 
 También hay varios youtubers que les gusta hablar de REH, a mi me gusta el canal de [Michael K. Vaughan](https://www.youtube.com/@michaelk.vaughan8617){:target="_blank" rel="noreferrer noopener"}, pero hay muchas opciones.
 También puedes buscar un relato de REH, por su nombre y hay muchos versiones con audiolibros tanto en ingles como español.
-
-### Proyecto Gutenberg
-
-En el [proyecto gutenberg](http://gutenberg.net.au){:target="_blank" rel="noreferrer noopener"} de australia, se pueden leer [varios relatos](http://freeread.com.au/@RGLibrary/RobertEHoward/RobertEHoward.html){:target="_blank" rel="noreferrer noopener"} completos de REH en su idioma original.
-
-### Lectulandia
-
-En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}, tanto en formato EPUB como en pdf.
-
-### Wikipedia
-
-La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} y la de su bibliografia en [prosa](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography){:target="_blank" rel="noreferrer noopener"} y [verso](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography_(poems_A%E2%80%93H)){:target="_blank" rel="noreferrer noopener"}, son usualmente las primeras fuentes a consultar cuando estoy por empezar a leer una historia de REH o escribir un análisis.
 
 ### Readcomiconline
 

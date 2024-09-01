@@ -11,15 +11,33 @@ seo_title: Lista de libros en Español de Robert E. Howard, el creador de Conan.
 
 seo_description: Bibliografía en Español de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-last_modified_at: 2024-08-11
+last_modified_at: 2024-09-01
 ---
+
+Aquí hay información de la obras de REH.
+Especialmente sobre las ediciones publicadas en Español.
+Si quieres un listado de referencias acerca de la vida y obra de REH, busca en la [sección de referencias](/referencias).
 
 <h3>Contenido</h3>
 
 * TOC
 {:toc}
 
-## Español
+## Sitios en Internet
+
+### Proyecto Gutenberg
+
+En el [proyecto gutenberg](http://gutenberg.net.au){:target="_blank" rel="noreferrer noopener"} de australia, se pueden leer [varios relatos](http://freeread.com.au/@RGLibrary/RobertEHoward/RobertEHoward.html){:target="_blank" rel="noreferrer noopener"} completos de REH en su idioma original.
+
+### Lectulandia
+
+En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer noopener"} se pueden descargar casi todos las [obras de REH en español](https://ww3.lectulandia.com/autor/robert-e-howard/){:target="_blank" rel="noreferrer noopener"}, tanto en formato EPUB como en pdf.
+
+### Wikipedia
+
+La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} y la de su bibliografia en [prosa](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography){:target="_blank" rel="noreferrer noopener"} y [verso](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography_(poems_A%E2%80%93H)){:target="_blank" rel="noreferrer noopener"}, son usualmente las primeras fuentes a consultar cuando estoy por empezar a leer una historia de REH o escribir un análisis.
+
+## Ediciones en Español de la obra de REH
 
 ### Nacerá una bruja
 
@@ -57,7 +75,7 @@ last_modified_at: 2024-08-11
 ![El Señor de Samarcanda - portada libro]({{ site.baseurl }}/static/images/biblio/senorDeSarmancanda.jpg "El Señor de Samarcanda - portada libro")
 
 **Contenido:**
-1. Delenda Est
+1. Delenda Est (Delenda Est)
 1. El rastro de Bohemzundo (The Track of Bohemund)
 1. El señor de Samarcanda (Lord of Samarcande)
 1. El camino de las espadas (The Way of Swords)
@@ -132,3 +150,28 @@ last_modified_at: 2024-08-11
 1. Espadas del Mar del Norte (Swords of the Northern Sea)
 1. La noche de lobo (The Night of the Wolf)
 1. El templo de la Abominación (The Temple of Abomination)
+
+
+### El último rey de los pictos
+
+![El último rey de los pictos - portada libro]({{ site.baseurl }}/static/images/biblio/ultimoReyPictos.jpg "El último rey de los pictos - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+1. La raza perdida (The Lost Race)
+1. Bran Mak Morn: Una Sinopsis (Bran Mak Morn Synopsis)
+1. Hombres de las Sombras (Men of the Shadows)
+1. Una Canción de la Raza (A Song of the Race)
+1. Reyes de la Noche (Kings of the Night)
+1. Bran Mak Morn: una obra de teatro (Bran Mak Morn: a play)
+1. Gusanos de la Tierra (Worms of the Earth)
+1. Fragmento (Fragment)
+1. El Hombre Oscuro (The Dark Man)
+1. Poema
+1. Los Tambores de la Nación Picta (The Drums of Pictdom)
+1. Los Hijos de la Noche (The Children of the Night)
+1. La Gente Pequeña (The Little People)
+1. El Pueblo de la Oscuridad (People of the Dark)
+1. El giro de la rueda (Untitled: The Wheel Turns)
+1. Robert E. Howard y los pictos: Ensayo sin título (fecha posible entre 1920-1923)
