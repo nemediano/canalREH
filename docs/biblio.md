@@ -192,10 +192,10 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. El morador del anillo (The Haunter of the Ring)
 1. No me des sepultura (Dig me no Grave)
 1. El dios de jade (The Jade God)
-1. LOS HIJOS DE LA NOCHE (Children of the Night)
-1. LA PIEDRA NEGRA (The Black Stone)
-1. LA CASA EN EL ROBLEDAL (The House in the Oaks)
-1. DAGON MANOR (Dagon Manor)
+1. Los hijos de la noche (Children of the Night)
+1. La piedra negra (The Black Stone)
+1. La casa en el robledal (The House in the Oaks)
+1. Dagon Manor (Dagon Manor)
 1. LA ABADÍA (The Abbey)
 1. Una cronología de Justin Geoffrey, el Libro Negro, Kirowan y Conrad
 1. La sombra de la perdición (The Shadow of Doom)
@@ -286,4 +286,64 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Bajo el gran tigre
 1. Fragmentos sin título
 1. Poema sin título
+
+### El valle del gusano
+
+![El valle del gusano - portada libro]({{ site.baseurl }}/static/images/biblio/valleGusano.jpg "El valle del gusano - portada libro")
+
+**Contenido:**
+
+1. Los caminantes del Valhalla
+1. El jardín del miedo
+1. El valle del gusano
+1. El túmulo en el promontorio
+1. El pueblo de la oscuridad
+1. Los hijos de la noche
+
+### Las extrañas aventuras de Solomon Kane
+
+![Las extrañas aventuras de Solomon Kane - portada libro]({{ site.baseurl }}/static/images/biblio/extranasAvanturasSK.jpg "Las extrañas aventuras de Solomon Kane - portada libro")
+
+**Contenido:**
+
+1. Cráneos en las estrellas
+1. La mano derecha de la maldición
+1. Sombras rojas
+1. Resonar de huesos
+1. Luna de calaveras
+1. Las colinas de los muertos
+1. Alas en la noche
+1. Los pasos en el interior
+1. La sombra del buitre
+
+
+### Los dioses de Bal-Sagoth
+
+![Los dioses de Bal-Sagoth - portada libro]({{ site.baseurl }}/static/images/biblio/diosesBalSagot.jpg "Los dioses de Bal-Sagoth - portada libro")
+
+**Contenido:**
+
+1. Introducción
+1. La marcha del dios gris
+1. Lanzas de Clontarf
+1. Fragmento sin título
+1. El hombre oscuro
+1. Los dioses de Bal-Sagoth
+1. La sombra del huno
+1. El túmulo en el promontorio
+
+
+### Las espadas de Shahrazar
+
+![Las espadas de Shahrazar - portada libro]({{ site.baseurl }}/static/images/biblio/espadasShardizar.jpg "Las espadas de Shahrazar - portada libro")
+
+**Contenido:**
+
+1. Introducción
+1. La maldición del dios carmesí
+1. Los tesoros de Tartaria
+1. Espadas de Shahrazar
+1. Cuentos de Lal Singh
+1. Los adoradores del diablo
+1. La dentellada del oso negro
 

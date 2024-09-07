@@ -169,3 +169,20 @@ Casi diría que si lees este libro, ya no necesitas leer las cartas en sí.
 
 Este libro es el indicado para conocer detalles sobre las opiniones personales de la gente que escribía en Weird tales acerca de la vida y obra de REH.
 Lo puedes comprar en [amazon](https://www.amazon.com/Weird-Talers-Essays-Robert-Howard/dp/1614982589/){:target="_blank" rel="noreferrer noopener"}.
+
+
+### La vida y obra de Robert E. Howard
+
+![La vida y obra de Robert E. Howard - portada libro]({{ site.baseurl }}/static/images/references/vidaYObra.jpg "La vida y obra de Robert E. Howard - portada libro")
+
+**Titulo:** The Work and Life of Robert E. Howard
+
+**Autor:** Joseph Marek
+
+En este libro Joe Marek, analiza la obra (y un poco de la vida de) de REH.
+Es un libro más que nada acerca de la opinión del autor como verdadero fan de REH.
+Dentro de otras cosas analiza el por que de su cronología (Joe Marek es el autor de una de las cronologías reconocidas) y nos cuenta acerca de el guion de una película de Conan que intento escribir.
+También analiza a los demás personajes de REH y hace un caso de posibles cronologías.
+
+Este es un libro para gente familiarizada con el trabajo de REH que quieran escuchar la opinión muy interesante e informada de otro gran fan.
+Lo puedes comprar en [amazon](https://www.amazon.com/Work-Life-Robert-Howard-ebook/dp/B076YHXNF9){:target="_blank" rel="noreferrer noopener"}.
