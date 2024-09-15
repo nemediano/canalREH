@@ -48,27 +48,28 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Introducción (Bienvenido a la era hiboria)
 1. Las Crónicas Nemedias
 1. Cimeria (poema)
-1. La hija del gigante de hielo (The Frost Giant's Daughter, Gods of the North or The Frost King's Daughter)
+1. La hija del gigante de hielo (The Frost Giant’s Daughter a.k.a. Gods of the North)
 1. El dios del cuenco (The God in the Bowl)
 1. Hatajo de rufianes (Rogues in the House)
 1. La Reina de la Costa Negra (Queen of the Black Coast)
 1. El valle de las mujeres perdidas (The Vale of Lost Women)
 1. La torre del elefante (The Tower of the Elephant)
 1. Natohk el velado (Black Colossus)
-1. Sombras a la luz de la luna (Iron Shadows in the Moon or Shadows in the Moonlight)
+1. Sombras a la luz de la luna (Iron Shadows in the Moon a.k.a. Shadows in the Moonlight)
 1. Nacerá una bruja (A Witch Shall be Born)
-1. Sombras sobre Zamboula (Shadows in Zamboula or The Man-Eaters of Zamboula)
-1. Xuthal del crepúsculo (Xuthal of the Dusk or The Slithering Shadow)
+1. Sombras sobre Zamboula (Shadows in Zamboula a.k.a The Man-Eaters of Zamboula)
+1. Xuthal del crepúsculo (Xuthal of the Dusk a.k.a The Slithering Shadow)
 1. El diablo de hierro (The Devil in Iron)
 1. El pueblo del círculo negro (The People of the Black Circle)
-1. El extranjero negro (The Black Stranger, also Swords of the Red Brotherhood also The Treasure of Tranicos)
+1. El extranjero negro (The Black Stranger, a.k.a Swords of the Red Brotherhood a.k.a The Treasure of Tranicos)
 1. El estanque del negro (The Pool of the Black One)
 1. Clavos rojos (Red Nails)
-1. Las joyas de Gwahlur (Jewels of Gwahlur or The Snout in the Dark)
+1. Las joyas de Gwahlur (Jewels of Gwahlur a.k.a The Servants of Bit-Yakin)
 1. Más allá del Río Negro (Beyond the Black River)
 1. El fénix en la espada (The Phoenix on the Sword)
 1. La ciudadela escarlata (The Scarlet Citadel)
-1. La hora del dragón (The Hour of the Dragon or Conan the Conqueror)
+1. La hora del dragón (The Hour of the Dragon a.k.a Conan the Conqueror)
+
 
 ### El Señor de Samarcanda y otros relatos históricos
 
@@ -267,17 +268,17 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: A modo de explicación
-1. La llegda del Borak
-1. La narración de Khoda Khan
-1. El Borak
-1. El castillo misterioso
-1. Al norte de Kyber
+1. La llegada del Borak (The Coming of El Borak)
+1. La narración de Khoda Khan (Khoda Khan's Tale)
+1. El Borak (El Borak)
+1. El castillo misterioso (The Shunned Castle)
+1. Al norte de Kyber (North of Khyber)
 1. En las cumbres del Tibet
-1. El anillo de Jade Blanco
-1. Intriga en Kurdistan
-1. La tierra del misterio
-1. El terror de hierro
-1. Un poder entre las islas
+1. El anillo de Jade Blanco (The White Jade Ring)
+1. Intriga en Kurdistan (Intrigue in Kurdistan)
+1. La tierra del misterio (The Land of Mystery)
+1. El terror de hierro (The Iron Terror)
+1. Un poder entre las islas (A Power Among the Islands)
 1. La canción de Yar Ali Khan (The song of Yar Ali Khan)
 1. La espada de Lal Singh (The sword of Lai Singh)
 1. La marea carmesí
@@ -287,18 +288,19 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Fragmentos sin título
 1. Poema sin título
 
+
 ### El valle del gusano
 
 ![El valle del gusano - portada libro]({{ site.baseurl }}/static/images/biblio/valleGusano.jpg "El valle del gusano - portada libro")
 
 **Contenido:**
 
-1. Los caminantes del Valhalla
-1. El jardín del miedo
-1. El valle del gusano
-1. El túmulo en el promontorio
-1. El pueblo de la oscuridad
-1. Los hijos de la noche
+1. Los caminantes del Valhalla (Marchers of Valhalla)
+1. El jardín del miedo (The Garden of Fear)
+1. El valle del gusano (The Valley of the Worm)
+1. El túmulo en el promontorio (The Cairn on the Headland)
+1. El pueblo de la oscuridad (People of the Dark)
+1. Los hijos de la noche (The Children of the Night)
 
 ### Las extrañas aventuras de Solomon Kane
 
@@ -306,15 +308,15 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Cráneos en las estrellas
-1. La mano derecha de la maldición
-1. Sombras rojas
-1. Resonar de huesos
-1. Luna de calaveras
-1. Las colinas de los muertos
-1. Alas en la noche
-1. Los pasos en el interior
-1. La sombra del buitre
+1. Cráneos en las estrellas (Skulls in the Stars)
+1. La mano derecha de la maldición (The Right Hand of Doom)
+1. Sombras rojas (Red Shadows)
+1. Resonar de huesos (Rattle of Bones)
+1. Luna de calaveras (The Moon of Skulls)
+1. Las colinas de los muertos (The Hills of the Dead)
+1. Alas en la noche (Wings in the Night)
+1. Los pasos en el interior (The Footfalls Within)
+1. La sombra del buitre (The Shadow of the Vulture)
 
 
 ### Los dioses de Bal-Sagoth
@@ -324,14 +326,13 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción
-1. La marcha del dios gris
-1. Lanzas de Clontarf
+1. La marcha del dios gris (The Grey God Passes a.k.a The Twilight of the Grey Gods)
+1. Lanzas de Clontarf (Spears of Clontarf)
 1. Fragmento sin título
-1. El hombre oscuro
-1. Los dioses de Bal-Sagoth
-1. La sombra del huno
-1. El túmulo en el promontorio
-
+1. El hombre oscuro (The Dark Man)
+1. Los dioses de Bal-Sagoth (The Gods of Bal-Sagoth)
+1. La sombra del huno (Shadow of the Hun)
+1. El túmulo en el promontorio (The Cairn on the Headland)
 
 ### Las espadas de Shahrazar
 
@@ -340,10 +341,136 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción
-1. La maldición del dios carmesí
-1. Los tesoros de Tartaria
-1. Espadas de Shahrazar
-1. Cuentos de Lal Singh
+1. La maldición del dios carmesí (The Curse of the Crimson God)
+1. Los tesoros de Tartaria (The Treasure of Tartary)
+1. Espadas de Shahrazar (Swords of Shahrazar)
+1. Cuentos de Lal Singh (The Further Adventures of Lal Singh)
 1. Los adoradores del diablo
-1. La dentellada del oso negro
+1. La dentellada del oso negro (The Black Bear Bites)
+
+
+### La isla de los eones
+
+![La isla de los eones - portada libro]({{ site.baseurl }}/static/images/biblio/islaEones.jpg "La isla de los eones - portada libro")
+
+**Contenido:**
+
+1. Introducción: Un cajón de sastre donde hay islas perdidas, comanches y… todo lo demás
+
+1. La isla de los eones (The Isle of the Eons)
+1. Las lanzas de Clontarf
+1. Dioses del norte
+1. Temple
+1. Un hombre sofisticado (The Sophisticate)
+1. El banco de carnicero
+1. Una historia de locos
+1. Día de paga (Pay Day)
+1. Un toque de color (A Tourch of Color)
+1. El perdedor (Loser)
+1. Purasangres (Thoroughbreds)
+1. La señorita Impertinente (Miss High-Hat)
+1. El sexo débil (The Weaker Sex)
+1. El hijo pródigo de Knife-River (Knife-River Prodigal)
+1. Las piedras del Destino (The Stones of Destiny)
+1. La maldición de la codicia (The Curse of Greed)
+1. Cuestión de edad (A Matter of Age)
+1. La voz de la multitud (The Voice of the Mob)
+1. Con el diablo en la cabeza (The Devil in his Brain)
+1. El Jinete-Trueno (The Thunder Rider)
+1. Posfacio
+
+### La tumba del dragón
+
+![La tumba del dragón - portada libro]({{ site.baseurl }}/static/images/biblio/tumbDragon.jpg "La tumba del dragón - portada libro")
+
+**Contenido:**
+
+1. Introducción: Nuevas historias sacadas del fondo del barril, pero con clase
+1. Un sueño  (A Dream)
+1. La tumba del dragón (The Tomb of the Dragon)
+1. Bajo el baobab (Under the Baobab Tree)
+1. La cabaña encantada (The Haunted Hut)
+1. Imágenes en el fuego (The Pictures in the Fire)
+1. La voz del más allá (The Voice of Doom)
+1. El espíritu de Brian Boru (The Spirit of Brian Boru)
+1. El demonio leñador (The Devil Woodchopper)
+1. Horror en la noche (A Horror in the Night)
+1. El señor del miedo (The Fear-Master)
+1. Por el amor de Barbara Allen (For the Love of Barbara Allen)
+1. El fantasma del sombrero de seda (The Ghost with the Silk Hat)
+1. Un pacífico ermitaño (The Peaceful Pilgrim)
+1. Con las manos atadas (Shackled Mitts)
+1. Amor sin fin (Age Lasting Love)
+1. El desafío del más allá (The Challenge from Beyond)
+1. Sonetos escapados de un manicomio (Sonnets out of Bedlam)
+1. El devorador de almas (The Soul-Eater)
+1. El sueño y la sombra (The Dream and the Shadow)
+1. La hora final (The Last Hour)
+1. Obsesionantes columnas (Haunting Columns)
+1. El cantante en la bruma (The Singer in the Mist)
+1. Voces de la noche (Voices of the Night)
+1. Las voces evocadoras de recuerdos (The Voices Waken Memoty a.k.a. A Drum Begins to Throb)
+1. Luna obscena (Moon Shame» a.k.a. The Moon Woman)
+1. Babel (Babel)
+1. La risa en los abismos (Laughter in the Gulfs a.k.a. An Echo of Laughter in the Gulfs)
+1. Una corona para un rey (A Crown for a King)
+1. Carta a Harold Preece
+1. Carta a August Derleth
+1. Carta aClark Ashton Smith
+
+### Brachan el celta y otros recuerdos raciales
+
+![Brachan el celta y otros recuerdos raciales - portada libro]({{ site.baseurl }}/static/images/biblio/brachanCelta.jpg "Brachan el celta y otros recuerdos raciales - portada libro")
+
+**Contenido:**
+
+1. Introducción: Historias de recuerdos raciales
+1. Los que marchan hacia el Valhalla
+1. Brachan el celta
+1. La torre del tiempo
+1. El guardián del ídolo
+1. El valle del gusano
+1. El jardín del miedo
+1. Negros eones
+1. El túmulo en el promontorio
+1. El pueblo de la oscuridad
+1. Los hijos de la noche
+1. Ghor el parricida
+
+
+### Sangre en el desierto y otras aventuras por mar y tierra
+
+![Sangre en el desierto y otras aventuras por mar y tierra - portada libro]({{ site.baseurl }}/static/images/biblio/sangreDesierto.jpg "Sangre en el desierto y otras aventuras por mar y tierra - portada libro")
+
+**Contenido:**
+
+1. Introducción: Sables y pistolas por tierra y mar
+1. La diablesa (She Devil a.k.a. The Girl On The Hell Ship)
+1. Sangre en el desierto (Desert Blood a.k.a Revenge by Proxy)
+1. El dragón de kao tsu (The Dragon of Kao Tsu)
+1. El corazón púrpura de Erlik (The Purple Heart of Erlik a.k.a Nothing to Lose)
+1. El grog del asesino (Murderer’s Grog a.k.a Outlaw Working)
+1. Motín a bordo
+1. Los cañones de Kartum
+1. Espadas de la hermandad roja
+1. La venganza de Vulmea el negro (Black Vulmea’s Vengeance)
+
+### La Casa de Arabu y otros relatos
+
+![La Casa de Arabu y otros relatos - portada libro]({{ site.baseurl }}/static/images/biblio/casaArabu.jpg "La Casa de Arabu y otros relatos - portada libro")
+
+**Contenido:**
+
+1. Robert Ervin Howard: forjador de espadas e invocador de magia heroica
+1. Robert E. Howard, quimérico fabulador de mundos fantásticos
+1. Lanza y colmillo (Spear and Fang)
+1. La maldición del mar (Sea Curse)
+1. El morador del anillo (The Haunter of the Ring)
+1. Un jeopardo devorador de hombres (A Man-Eating jeopard)
+1. El negro sabueso de la muerte (Black Hound of Death)
+1. No me deis sepultura (Dig me no grave)
+1. La casa de Arabu (The House of Arabu)
+1. Kelly el hechicero (Kelly The Conjure-Man)
+1. Delenda est (Delenda Est)
+1. El último canto de Casonetto (Casonetto’s Last Song)
 
