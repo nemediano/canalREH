@@ -474,3 +474,86 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Delenda est (Delenda Est)
 1. El último canto de Casonetto (Casonetto’s Last Song)
 
+### Halcones de Ultramar y otros relatos de las Cruzadas
+
+![Halcones de Ultramar y otros relatos de las Cruzadas - portada libro]({{ site.baseurl }}/static/images/biblio/halconesUltramar.jpg "Halcones de Ultramar y otros relatos de las Cruzadas - portada libro")
+
+**Contenido:**
+
+1. Introducción: Un bárbaro de Cross Plains en las Cruzadas
+1. Las puertas del imperio (The Gates of Empire)
+1. Halcones de ultramar (Hawks of Outremer)
+1. La sangre de Belshazzar (The Blood of Bel-Shazzar)
+1. La princesa esclava (The Slave-Princess)
+1. Los que siembran el trueno (The Sowers of Thunder)
+1. El señor de Samarcanda (The Lord of Samarkand)
+1. El león de Tiberias (The Lion of Tiberias)
+1. Espadas rojas de la negra Cathay (he Red Blades of Black Cathay)
+1. Miscelanea
+    1. Fragmento sin título (He knows De Bracy)
+    1. Fragmento sin título (All the persians had fled)
+    1. Fragmento sin título (The wind of Mediterranean)
+    1. Sinopsis sin título (La princesa esclava)
+1. Poesia
+    1. Timur-Lang (Timur-Lang)
+    1. El signo de la guadaña (The Sign of the Sickle)
+    1. La partida de Sigurd a Jerusalén (he Outgoing of Sigurd the Jerusalem-Farer)
+
+
+### Los hijos del odio y otras historias de detectives
+
+![Los hijos del odio y otras historias de detectives - portada libro]({{ site.baseurl }}/static/images/biblio/hijosOdio.jpg "Los hijos del odio y otras historias de detectives - portada libro")
+
+**Contenido:**
+
+1. Introducción: Tongs, toguis, hombres leopardo y otros peligros exóticos
+1. La mano de la diosa negra
+1. Los hijos del odio
+1. Los huéspedes de la habitación maldita
+1. El ídolo de bronce
+1. Zarpas negras
+1. Huracán negro
+1. Los demonios del lago oscuro
+1. Lágrimas escarlata
+
+
+### El Cráneo Viviente y otras aventuras de Costigan y Gordon
+
+![El Cráneo Viviente y otras aventuras de Costigan y Gordon - portada libro]({{ site.baseurl }}/static/images/biblio/craneoViviente.jpg "El Cráneo Viviente y otras aventuras de Costigan y Gordon - portada libro")
+
+**Contenido:**
+
+1. Introducción: Las aventuras de Stephen Costigan y John Gordon
+1. El cráneo viviente
+1. El horror sin nariz
+1. La última canción de Casonetto
+1. El regreso del cráneo viviente
+
+### Rostro de calavera
+
+![Rostro de calavera - portada libro]({{ site.baseurl }}/static/images/biblio/rostroCalavera.jpg "Rostro de calavera - portada libro")
+
+**Contenido:**
+
+1. Prólogo (por August Derleth)
+1. Robert Ervin Howard: Un recuerdo (por H. P. Lovecraft)
+1. Rostro de calavera
+1. Cabeza de Lobo
+1. La Piedra Negra
+1. El horror del montículo
+1. Canaan negro
+
+### El señor de la muerte y otros casos de Steve Harrison
+
+![El señor de la muerte y otros casos de Steve Harrison - portada libro]({{ site.baseurl }}/static/images/biblio/senorMuerte.jpg "El señor de la muerte y otros casos de Steve Harrison - portada libro")
+
+**Contenido:**
+
+1. Introducción: Sombras sobre River Street
+1. El tacón de plata
+1. El señor de la muerte
+1. El misterio del caserón Tannernoe
+1. La luna negra
+1. Los nombres del libro negro
+
+
