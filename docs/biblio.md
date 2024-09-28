@@ -425,17 +425,17 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: Historias de recuerdos raciales
-1. Los que marchan hacia el Valhalla
-1. Brachan el celta
-1. La torre del tiempo
-1. El guardián del ídolo
-1. El valle del gusano
-1. El jardín del miedo
-1. Negros eones
-1. El túmulo en el promontorio
-1. El pueblo de la oscuridad
-1. Los hijos de la noche
-1. Ghor el parricida
+1. Los que marchan hacia el Valhalla (Marchers of Valhalla)
+1. Brachan el celta (Brachan the Kelt)
+1. La torre del tiempo (The Tower of Time)
+1. El guardián del ídolo (The Guardian of the Idol)
+1. El valle del gusano (The Valley of the Worm)
+1. El jardín del miedo (The Garden of Fear)
+1. Negros eones (Black Eons)
+1. El túmulo en el promontorio (The Cairn on the Headland)
+1. El pueblo de la oscuridad (People of the Dark)
+1. Los hijos de la noche (The Children of the Night)
+1. Ghor el parricida (Genseric's Fifth-Born Son a.k.a Ghor, Kin-Slayer)
 
 
 ### Sangre en el desierto y otras aventuras por mar y tierra
@@ -507,14 +507,15 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: Tongs, toguis, hombres leopardo y otros peligros exóticos
-1. La mano de la diosa negra
-1. Los hijos del odio
-1. Los huéspedes de la habitación maldita
-1. El ídolo de bronce
-1. Zarpas negras
-1. Huracán negro
-1. Los demonios del lago oscuro
-1. Lágrimas escarlata
+1. La mano de la diosa negra (Hand of the Black Goddess)
+1. Los hijos del odio (Sons of Hate)
+1. Los huéspedes de la habitación maldita (Guests of the Hoodoo Room)
+1. El ídolo de bronce (The Brazen Peacock)
+1. Zarpas negras (Black Talons)
+1. Huracán negro (Black Wind Blowing)
+1. Los demonios del lago oscuro (Devils of Dark Lake)
+1. Lágrimas escarlata (Scarlet Tears a.k.a Hand of the Black Goddess)
+
 
 
 ### El Cráneo Viviente y otras aventuras de Costigan y Gordon
@@ -524,10 +525,11 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: Las aventuras de Stephen Costigan y John Gordon
-1. El cráneo viviente
-1. El horror sin nariz
-1. La última canción de Casonetto
-1. El regreso del cráneo viviente
+1. El cráneo viviente (Skull-Face)
+1. El horror sin nariz (The Noseless Horror)
+1. La última canción de Casonetto (Casonetto's Last Song)
+1. El regreso del cráneo viviente (The Return of Skull-Face a.k.a Taveral Manor)
+
 
 ### Rostro de calavera
 
@@ -537,11 +539,12 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 1. Prólogo (por August Derleth)
 1. Robert Ervin Howard: Un recuerdo (por H. P. Lovecraft)
-1. Rostro de calavera
-1. Cabeza de Lobo
-1. La Piedra Negra
-1. El horror del montículo
-1. Canaan negro
+1. Rostro de calavera (Skull-Face)
+1. Cabeza de Lobo (Wolfshead)
+1. La Piedra Negra (The Black Stone)
+1. El horror del montículo (The Horror from the Mound)
+1. Canaan negro (Black Canaan)
+
 
 ### El señor de la muerte y otros casos de Steve Harrison
 
@@ -550,10 +553,98 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: Sombras sobre River Street
-1. El tacón de plata
-1. El señor de la muerte
-1. El misterio del caserón Tannernoe
-1. La luna negra
-1. Los nombres del libro negro
+1. El tacón de plata (The Silver Heel)
+1. El señor de la muerte (Lord of the Dead a.k.a Dead Man's Doom)
+1. El misterio del caserón Tannernoe (The Mystery of Tannernoe Lodge)
+1. La luna negra (The Black Moon)
+1. Los nombres del libro negro (Names in the Black Book)
+
+### El secreto de la tumba y otros casos de Steve Harrison
+
+![El secreto de la tumba y otros casos de Steve Harrison - portada libro]({{ site.baseurl }}/static/images/biblio/tumbaSecreto.jpg "El secreto de la tumba y otros casos de Steve Harrison - portada libro")
+
+**Contenido:**
+
+1. Introducción: Los macabros casos de Steve Harrison
+1. El secreto de la tumba
+1. La voz de la muerte
+1. Fauces doradas
+1. Las ratas del cementerio
+1. La morada de la sospecha
+1. Sinopsis sin título
+1. La guerra del opio del Tong negro (por Robert M. Price)
 
 
+### Cormac Mac Art, rey de los mares
+
+![Cormac Mac Art, rey de los mares - portada libro]({{ site.baseurl }}/static/images/biblio/reyMares.jpg "Cormac Mac Art, rey de los mares - portada libro")
+
+**Contenido:**
+
+1. Acercamiento a la figura de Cormac Mac Art
+1. Los tigres del mar
+1. Espadas del mar del norte
+1. La noche del lobo
+1. El templo de la abominación
+
+### Un caballerete de Bear Creek
+
+![Un caballerete de Bear Creek - portada libro]({{ site.baseurl }}/static/images/biblio/caballereteBeer.jpg "Un caballerete de Bear Creek - portada libro")
+
+**Contenido:**
+
+1. Breckinridge Elkins, el "oso humano" de las Humbolts
+1. Camisas a rayas y corazones rotos (Striped Shirts and Busted Hearts)
+1. Un hombre de las montañas (Mountain Man).
+1. Aparece Capitán Kidd (Meet Cap’n Kidd)
+1. Plomo en las montañas (Guns of the Mountains)
+1. Un caballerete de Bear Creek (A gent from Bear Creek)
+1. Un gallito peleón (The Feud Buster)
+1. Por el camino que lleva a Bear Creek (The Road to Bear Creek)
+1. El cazador de cabelleras (The Scalp Hunter).
+1. El Cupido de Bear Creek (Cupid from Bear Creek)
+1. La montaña embrujada (The Haunted Mountain)
+1. Educado o palurdo (Educate or Bust)
+1. Guerra en Bear Creek (War on Bear Creek)
+1. Cuando Bear Creek desembarcó en Chawed Ear (When Bear Creek Came to Chawed Ear)
+
+### Santuario de buitres y otras historias del viejo Oeste
+
+![Santuario de buitres y otras historias del viejo Oeste - portada libro]({{ site.baseurl }}/static/images/biblio/santuarioBuitres.jpg "Santuario de buitres y otras historias del viejo Oeste - portada libro")
+
+**Contenido:**
+
+1. Póquer de buitres, caballeros! Robert E. Howard y el pulp-western fiction
+1. Navidad, dorada esperanza (Golden Hope’ Christmas)
+1. Ajuste de cuentas en Boot Hill (Boot-Hill Payoff)
+1. Santuario de buitres (Vultures’ Sanctuary)
+1. Los buitres de Wahpeton (Vultures of Whapeton)
+1. Los buitres de Wahpeton (Final alternativo)
+
+### Las aventuras de Solomon Kane
+
+![Las aventuras de Solomon Kane - portada libro]({{ site.baseurl }}/static/images/biblio/aventurasSK.jpg "Las aventuras de Solomon Kane - portada libro")
+
+**Contenido:**
+
+1. Introducción Robert E. Howard y la fantasía heroica
+1. Calaveras en las estrellas
+1. La mano derecha de la condenación
+1. Sombras rojas
+1. Los negros jinetes de la muerte
+1. Un bailoteo de huesos
+1. El castillo del diablo
+1. Luna de calaveras
+1. El negro baldón
+1. Las espadas de la hermandad
+1. Las colinas de los muertos
+1. Los hijos de Asshur
+1. La aparición de sir Richard Grenville
+1. Alas en la noche
+1. Pasos en el interior
+1. Hawk de Basti
+1. El regreso al hogar de Solomon Kane
+1. Apendices
+    1. Variante de El regreso al hogar de Solomon Kane
+    1. Los poemas de Solomon Kane en su lengua original
+    1. Epílogo de Fernando Savater: Batallas, monstruos, maravillas
