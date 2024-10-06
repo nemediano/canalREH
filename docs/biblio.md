@@ -282,9 +282,9 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. La canción de Yar Ali Khan (The song of Yar Ali Khan)
 1. La espada de Lal Singh (The sword of Lai Singh)
 1. La marea carmesí
-1. La puerta de los leones
-1. Lanzas de oriente
-1. Bajo el gran tigre
+1. La puerta de los leones (The Lion Gate)
+1. Lanzas de oriente (Spears of the East)
+1. Bajo el gran tigre (Under the Great Tiger)
 1. Fragmentos sin título
 1. Poema sin título
 
@@ -345,7 +345,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Los tesoros de Tartaria (The Treasure of Tartary)
 1. Espadas de Shahrazar (Swords of Shahrazar)
 1. Cuentos de Lal Singh (The Further Adventures of Lal Singh)
-1. Los adoradores del diablo
+1. Los adoradores del diablo (The Devil's Woodchopper)
 1. La dentellada del oso negro (The Black Bear Bites)
 
 
@@ -356,14 +356,13 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: Un cajón de sastre donde hay islas perdidas, comanches y… todo lo demás
-
 1. La isla de los eones (The Isle of the Eons)
-1. Las lanzas de Clontarf
-1. Dioses del norte
-1. Temple
+1. Las lanzas de Clontarf (Spears of Clontarf)
+1. Dioses del norte (Gods of the North)
+1. Temple (Nervio)
 1. Un hombre sofisticado (The Sophisticate)
-1. El banco de carnicero
-1. Una historia de locos
+1. El banco de carnicero (The Block)
+1. Una historia de locos (The Nut’s Shell)
 1. Día de paga (Pay Day)
 1. Un toque de color (A Tourch of Color)
 1. El perdedor (Loser)
@@ -452,7 +451,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. El grog del asesino (Murderer’s Grog a.k.a Outlaw Working)
 1. Motín a bordo
 1. Los cañones de Kartum
-1. Espadas de la hermandad roja
+1. Espadas de la hermandad roja (Swords of the Red Brotherhood)
 1. La venganza de Vulmea el negro (Black Vulmea’s Vengeance)
 
 ### La Casa de Arabu y otros relatos
@@ -566,11 +565,11 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción: Los macabros casos de Steve Harrison
-1. El secreto de la tumba
-1. La voz de la muerte
-1. Fauces doradas
-1. Las ratas del cementerio
-1. La morada de la sospecha
+1. El secreto de la tumba (The Tomb's Secret)
+1. La voz de la muerte (The Voice of Death)
+1. Fauces doradas (Fangs of Gold)
+1. Las ratas del cementerio (Graveyard Rats)
+1. La morada de la sospecha (The House of Suspicion)
 1. Sinopsis sin título
 1. La guerra del opio del Tong negro (por Robert M. Price)
 
@@ -582,10 +581,10 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Acercamiento a la figura de Cormac Mac Art
-1. Los tigres del mar
-1. Espadas del mar del norte
-1. La noche del lobo
-1. El templo de la abominación
+1. Los tigres del mar (Tigers of the Sea)
+1. Espadas del mar del norte (Swords of the Northern Sea)
+1. La noche del lobo (The Night of the Wolf)
+1. El templo de la abominación (The Temple of Abomination)
 
 ### Un caballerete de Bear Creek
 
@@ -628,23 +627,24 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Introducción Robert E. Howard y la fantasía heroica
-1. Calaveras en las estrellas
-1. La mano derecha de la condenación
-1. Sombras rojas
-1. Los negros jinetes de la muerte
-1. Un bailoteo de huesos
-1. El castillo del diablo
-1. Luna de calaveras
-1. El negro baldón
-1. Las espadas de la hermandad
-1. Las colinas de los muertos
-1. Los hijos de Asshur
-1. La aparición de sir Richard Grenville
-1. Alas en la noche
-1. Pasos en el interior
-1. Hawk de Basti
-1. El regreso al hogar de Solomon Kane
-1. Apendices
+1. Calaveras en las estrellas (Skulls in the Stars)
+1. La mano derecha de la condenación (The Right Hand of Doom)
+1. Sombras rojas (Red Shadows a.k.a Solomon Kane)
+1. Los negros jinetes de la muerte (Death's Black Riders)
+1. Un bailoteo de huesos (Rattle of Bones)
+1. El castillo del diablo (The Castle of the Devil)
+1. Luna de calaveras (The Moon of Skulls)
+1. El negro baldón (The One Black Stain)
+1. Las espadas de la hermandad (Blades of the Brotherhood a.k.a The Blue Flame of Vengeance  a.k.a The Blue Flame of 1. Death)
+1. Las colinas de los muertos (The Hills of the Dead)
+1. Los hijos de Asshur (The Children of Asshur)
+1. La aparición de sir Richard Grenville (The Return of Sir Richard Grenville)
+1. Alas en la noche (Wings in the Night)
+1. Pasos en el interior (The Footfalls Within)
+1. Hawk de Basti (Hawk of Basti)
+1. El regreso al hogar de Solomon Kane (Solomon Kane's Homecoming)
+1. Appendices
     1. Variante de El regreso al hogar de Solomon Kane
     1. Los poemas de Solomon Kane en su lengua original
     1. Epílogo de Fernando Savater: Batallas, monstruos, maravillas
+
