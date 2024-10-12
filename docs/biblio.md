@@ -648,3 +648,97 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
     1. Los poemas de Solomon Kane en su lengua original
     1. Epílogo de Fernando Savater: Batallas, monstruos, maravillas
 
+### Hombres de hierro y otros relatos del cuadrilátero
+
+![Hombres de hierro y otros relatos del cuadrilátero - portada libro]({{ site.baseurl }}/static/images/biblio/hombresHierro.jpg "Hombres de hierro y otros relatos del cuadrilátero - portada libro")
+
+**Contenido:**
+
+1. Introducción: Hombres de hierro: bárbaros y boxeadores
+1. Hombres de Hierro (Iron Men)
+1. Cupido contra Pólux (Cupid vs. Pollux)
+1. El Hombre de Hierro (The Iron Man)
+1. Puños del desierto (Fists of the Desert)
+1. Miedo a la multitud (Crowd-Horror)
+1. El Sauce Llorón (The Weeping Willow)
+1. El gancho de derecha (The Right Hook)
+1. Poemas
+    1. Kid Lavigne está muerto (Kid Lavigne is Dead)
+    1. Y Dempsey subió al cuadrilátero...
+    1. Toda la multitud
+    1. En el cuadrilátero (In the Ring)
+    1. El deseo del pegador (Slugger's Vow)
+1. Fragmentos
+    1. Había puesto a Batallador O'Toole, ... (I had just hang my sparrig partner, Battling O'Toole)
+    1. La noche en que Steve Costigan... (The Night Sailor Steve Costigan...)
+    1. Fue al acabar el cuarto asalto... (It was the end of the Fourth Round...)
+1. El marino boxeador (The Battling Sailor)
+1. Blue River Blues (Blue River Blues)
+1. La aparición sobre el cuadrilátero (The Apparition in the Prize Ring)
+1. Traición (Double-Cross)
+1. Siempre vuelven (They Always Come Back)
+
+
+### La isla de los eones y otras historias de mundos perdidos
+
+![La isla de los eones y otras historias de mundos perdidos - portada libro]({{ site.baseurl }}/static/images/biblio/islaEones2.jpg "La isla de los eones y otras historias de mundos perdidos - portada libro")
+
+**Contenido:**
+
+1. Las islas misteriosas de Robert E. Howard
+1. La isla de los eones
+1. La isla de los eones (Version 2)
+1. La isla de los eones (Esbozo narrativo)
+1. Otras historias de sueños y mundos perdidos
+1. ¡Leven anclas!
+1. Fragmento sin título
+1. La sombra en el pozo (sinopsis)
+1. La tentadora de la torre de la tortura y el pecado
+1. El Hombre de Gondaria
+1. La Historia de Am-Ra
+1. La tierra del hachís
+1. Un sueño
+1. La puerta al mundo
+1. Un fragor de trompetas
+1. El arpa de Alfred (The Harp of Alfred) (Poema)
+1. El Jinete del Trueno
+1. Oro español en Devil Horse
+1. El odio del muerto (Dead Man's Hate) (Poema)
+1. Apéndice: Una guía a los mundos perdidos de Robert E. Howard
+
+
+### Espadachinas
+
+![Espadachinas - portada libro]({{ site.baseurl }}/static/images/biblio/espadachinas.jpg "Espadachinas - portada libro")
+
+**Contenido:**
+
+1. Presentación: En el centenario del nacimiento de Robert E. Howard
+1. La espadachina (Sword Woman)
+1. Espadas por Francia (Blades for France)
+1. La amante de la muerte (Mistress of Death)
+1. La sombra del Buitre (The shadow of the Vulture)
+1. La isla de la condenación de los piratas (The Isle of Pirate’s Doom)
+
+### Almuric y otros textos de ciencia ficción
+
+![Almuric y otros textos de ciencia ficción - portada libro]({{ site.baseurl }}/static/images/biblio/almuric.jpg "Almuric y otros textos de ciencia ficción - portada libro")
+
+**Contenido:**
+
+1. Introducción
+1. Almuric (Almuric)
+1. El negro sabueso de la muerte (Black Hound of Death)
+1. El rey del pueblo olvidado (King of the Forgotten People)
+1. El pueblo de la costa negra (People of the Black Coast)
+1. Las enredaderas serpiente (Serpent Vines)
+1. El momento supremo (The Supreme Moment)
+
+### El rebelde: Post Oaks y Sand Roughs
+
+![El rebelde: Post Oaks y Sand Roughs - portada libro]({{ site.baseurl }}/static/images/biblio/rebelde.jpg "El rebelde: Post Oaks y Sand Roughs - portada libro")
+
+**Contenido:**
+
+1. Introducción: Una vida por otra
+1. El rebelde: Post Oaks y Sand Roughs (Post Oaks & Sand Roughs a.k.a The Rebeld)
