@@ -185,7 +185,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. La saga oculta de Robert E. Howard
-1. El espectro en el umbral (The GhosThe Black Stonet at the Doorway)
+1. El espectro en el umbral (The Ghost at the Doorway)
 1. La perdición de Dermod (Dermod’s Bane)
 1. La dentellada del oso negro (Black Bear Bites)
 1. La cosa en el Tejado (The Thing on the Roof)
@@ -742,3 +742,109 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 1. Introducción: Una vida por otra
 1. El rebelde: Post Oaks y Sand Roughs (Post Oaks & Sand Roughs a.k.a The Rebeld)
+
+
+### Rey Kull
+
+![Rey Kull - portada libro]({{ site.baseurl }}/static/images/biblio/reyKull.jpg "Rey Kull - portada libro")
+
+**Contenido:**
+
+1. Prólogo
+1. Exilio de Atlantis
+1. El Reino de las Sombras
+1. El altar y el escorpión
+1. Abismo negro
+1. La gata de Delcardes
+1. El Espectro del Silencio
+1. Jinetes del sol naciente
+1. ¡Con esta hacha gobierno!
+1. El estruendo del gong
+1. Espadas del reino púrpura
+1. Hechicero y guerrero
+1. Los espejos de Tuzun Thune
+1. El Rey y el roble
+1. Epílogo
+
+
+### Callejones en tinieblas y otras historias a puñetazos
+
+![Callejones en tinieblas y otras historias a puñetazos - portada libro]({{ site.baseurl }}/static/images/biblio/callejones.jpg "Callejones en tinieblas y otras historias a puñetazos - portada libro")
+
+**Contenido:**
+
+1. Prólogo: Un héroe del cuadrilátero
+1. Las callejas de Singapur (The Alleys of Singapoore a.k.a Alleys of Darkness)
+1. El mono de jade (The Jade Monkey)
+1. El rubí Mandarín (El rubí Mandarín a.k.a Alleys of Treachery)
+1. Los Cobras Amarillas (The Yellow Cobra a.k.a Sailor Dorgan and the Yellow Cobra)
+1. En alta sociedad (In High Society a.k.a Cultured Cauli-flowers)
+1. Jugando a ser periodista (Playing Journalist a.k.a. A New Game for Dorgan)
+1. El gorila del Destino (The Destiny Gorilla a.k.a. Sailor Dorgan and the Destiny Gorilla)
+1. Un caballero de la Tabla Redonda (A Knight of the Round Table a.k.a. Iron-Clad Fists)
+1. Haciendo de Santa Claus (Playing Santa Claus a.k.a. A Two-Fisted Santa Claus)
+1. La amenaza turca (The Turkish Menace)
+
+### Sonia la Roja (Ilustrado)
+
+![Sonia la Roja (Ilustrado) - portada libro]({{ site.baseurl }}/static/images/biblio/sonia.jpg "Sonia la Roja (Ilustrado) - portada libro")
+
+**Contenido:**
+
+1. La Sonia de Robert E. Howard
+1. Sonia la Roja en el cómic
+1. La Sombra del Buitre (The Shadow of the Vulture)
+
+### Los gusanos de la tierra y otros relatos de horror sobrenatural
+
+![Los gusanos de la tierra y otros relatos de horror sobrenatural - portada libro]({{ site.baseurl }}/static/images/biblio/gusanos.jpg "Los gusanos de la tierra y otros relatos de horror sobrenatural - portada libro")
+
+**Contenido:**
+
+1. In memoriam: Robert Ervin Howard
+1. Arkham
+1. En el bosque de Villefére (In The Forest of Villefére)
+1. La serpiente del sueño (The Dream Snake)
+1. La voz de El-Lil (The Voice of El-Lil)
+1. Los hijos de la noche (The Children of the Night)
+1. Los dioses de Bal-Sagoth (The Gods of Bal-Sagoth)
+1. La piedra negra (The Black Stone)
+1. El hombre oscuro (The Dark Man)
+1. La cosa del tejado (The Thing on the Roof)
+1. El pueblo de la oscuridad (People of the dark)
+1. Los gusanos de la tierra (Worms of the earth)
+1. El hombre del suelo (The Man of the Ground)
+1. El corazón del viejo Garfield (Old Garfield’s Heart)
+1. El valle del gusano (The Valley of the Worm)
+1. El jardín del miedo (The Garden of Fear)
+1. Los muertos recuerdan (The Dead Remember)
+1. El fuego de Asurbanipal (The Fire of Asshurbanipal)
+1. No me cavéis una tumba (Dig Me No Grave)
+1. Las palomas del infierno (Pigeons from hell)
+1. La sombra de la bestia (The Shadow of the Beast)
+1. Una ventana abierta (An Open Window)
+
+### Canaan negro y otros relatos de horror sobrenatural
+
+![Canaan negro y otros relatos de horror sobrenatural - portada libro]({{ site.baseurl }}/static/images/biblio/cannan.jpg "Canaan negro y otros relatos de horror sobrenatural - portada libro")
+
+**Contenido:**
+
+1. Cabeza de lobo (Wolfshead)
+1. Aparición en el cuadrilátero (Apparition in the Prize Ring)
+1. El terrible tacto de la muerte (The Fearsome Touch of Death)
+1. El horror del túmulo (The Horror from the Mound)
+1. El hombre en tierra (The Man on the Ground)
+1. La marca del cabo (The Cairn of the Headland)
+1. El fantasma del anillo (The Haunter o the Ring)
+1. La luna del zambebwei (Moon of Zambebwei)
+1. Canaan negro (Black Canaan)
+1. Los muertos no olvidan (The Dead Remember)
+1. La casa de arabu (The House of Arabu)
+1. La perdición de dermod (Dermod’s Bane)
+1. Delenda est (Delenda Est)
+1. Aguas inquietas (Restless Waters)
+1. El horror sin nariz (The Noseless Horror)
+1. La cosa con pezuñas (The Hoofed Thing)
+1. La última canción de Casonetto (Casonetto’s Last Song)
+1. Los moradores bajo la tumba (The Dwellers Under the Tomb)
