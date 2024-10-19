@@ -39,37 +39,6 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 ## Ediciones en Español de la obra de REH
 
-### Nacerá una bruja
-
-![Nacerá una bruja - portada libro]({{ site.baseurl }}/static/images/biblio/naceraUnaBruja.jpg "Nacerá una bruja - portada libro")
-
-**Contenido:**
-
-1. Introducción (Bienvenido a la era hiboria)
-1. Las Crónicas Nemedias
-1. Cimeria (poema)
-1. La hija del gigante de hielo (The Frost Giant’s Daughter a.k.a. Gods of the North)
-1. El dios del cuenco (The God in the Bowl)
-1. Hatajo de rufianes (Rogues in the House)
-1. La Reina de la Costa Negra (Queen of the Black Coast)
-1. El valle de las mujeres perdidas (The Vale of Lost Women)
-1. La torre del elefante (The Tower of the Elephant)
-1. Natohk el velado (Black Colossus)
-1. Sombras a la luz de la luna (Iron Shadows in the Moon a.k.a. Shadows in the Moonlight)
-1. Nacerá una bruja (A Witch Shall be Born)
-1. Sombras sobre Zamboula (Shadows in Zamboula a.k.a The Man-Eaters of Zamboula)
-1. Xuthal del crepúsculo (Xuthal of the Dusk a.k.a The Slithering Shadow)
-1. El diablo de hierro (The Devil in Iron)
-1. El pueblo del círculo negro (The People of the Black Circle)
-1. El extranjero negro (The Black Stranger, a.k.a Swords of the Red Brotherhood a.k.a The Treasure of Tranicos)
-1. El estanque del negro (The Pool of the Black One)
-1. Clavos rojos (Red Nails)
-1. Las joyas de Gwahlur (Jewels of Gwahlur a.k.a The Servants of Bit-Yakin)
-1. Más allá del Río Negro (Beyond the Black River)
-1. El fénix en la espada (The Phoenix on the Sword)
-1. La ciudadela escarlata (The Scarlet Citadel)
-1. La hora del dragón (The Hour of the Dragon a.k.a Conan the Conqueror)
-
 
 ### El Señor de Samarcanda y otros relatos históricos
 
@@ -125,19 +94,6 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. El Jardín Del Miedo (The Garden of Fear)
 1. Sonya la Roja (The Shadow of the Vulture)
 1. En el Bosque de Villefére (In the Forest of Villefère)
-
-
-### La torre del elefante
-
-![La torre del elefante - portada libro]({{ site.baseurl }}/static/images/biblio/torreDelElefante.jpg "La torre del elefante - portada libro")
-
-**Contenido:**
-
-1. Presentación
-1. Las crónicas nemedias
-1. La Torre del Elefante (The Tower of the Elephant)
-1. La era Hibórea (The Hyborian Age)
-1. Posible biografía de Conan
 
 
 ### Tigres del mar
@@ -197,7 +153,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. La piedra negra (The Black Stone)
 1. La casa en el robledal (The House in the Oaks)
 1. Dagon Manor (Dagon Manor)
-1. LA ABADÍA (The Abbey)
+1. La abadía (The Abbey)
 1. Una cronología de Justin Geoffrey, el Libro Negro, Kirowan y Conrad
 1. La sombra de la perdición (The Shadow of Doom)
 1. La víspera de Todos los Santos (All Hallows’ Eve)
@@ -220,7 +176,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Puño y colmillo (Fist and Fang)
 1. Todo para el ganador (Winner Take All)
 1. Puños de la zona costera (Waterfront Fists)
-1. Campeón de los Siete Mares(Champ of the Forecastle)
+1. Campeón de los Siete Mares (Champ of the Forecastle)
 1. El puñetazo TNT (The TNT Punch)
 1. Callejones peligrosos (Alleys of Peril)
 1. Puños de Texas (Texas Fists)
@@ -301,23 +257,6 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. El túmulo en el promontorio (The Cairn on the Headland)
 1. El pueblo de la oscuridad (People of the Dark)
 1. Los hijos de la noche (The Children of the Night)
-
-### Las extrañas aventuras de Solomon Kane
-
-![Las extrañas aventuras de Solomon Kane - portada libro]({{ site.baseurl }}/static/images/biblio/extranasAvanturasSK.jpg "Las extrañas aventuras de Solomon Kane - portada libro")
-
-**Contenido:**
-
-1. Cráneos en las estrellas (Skulls in the Stars)
-1. La mano derecha de la maldición (The Right Hand of Doom)
-1. Sombras rojas (Red Shadows)
-1. Resonar de huesos (Rattle of Bones)
-1. Luna de calaveras (The Moon of Skulls)
-1. Las colinas de los muertos (The Hills of the Dead)
-1. Alas en la noche (Wings in the Night)
-1. Los pasos en el interior (The Footfalls Within)
-1. La sombra del buitre (The Shadow of the Vulture)
-
 
 ### Los dioses de Bal-Sagoth
 
@@ -450,7 +389,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. El corazón púrpura de Erlik (The Purple Heart of Erlik a.k.a Nothing to Lose)
 1. El grog del asesino (Murderer’s Grog a.k.a Outlaw Working)
 1. Motín a bordo
-1. Los cañones de Kartum
+1. Los cañones de Kartum (Guns of Khartum)
 1. Espadas de la hermandad roja (Swords of the Red Brotherhood)
 1. La venganza de Vulmea el negro (Black Vulmea’s Vengeance)
 
@@ -686,25 +625,22 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Las islas misteriosas de Robert E. Howard
-1. La isla de los eones
+1. La isla de los eones (The Isle of the Eons)
 1. La isla de los eones (Version 2)
 1. La isla de los eones (Esbozo narrativo)
 1. Otras historias de sueños y mundos perdidos
 1. ¡Leven anclas!
 1. Fragmento sin título
 1. La sombra en el pozo (sinopsis)
-1. La tentadora de la torre de la tortura y el pecado
-1. El Hombre de Gondaria
+1. La tentadora de la torre de la tortura y el pecado (Temptress of the Tower of Torture and Sin a.k.a The Voice of El-Lil)
+1. El Hombre de Gondaria (The Gondarian Man)
 1. La Historia de Am-Ra
 1. La tierra del hachís
-1. Un sueño
-1. La puerta al mundo
-1. Un fragor de trompetas
-1. El arpa de Alfred (The Harp of Alfred) (Poema)
-1. El Jinete del Trueno
-1. Oro español en Devil Horse
-1. El odio del muerto (Dead Man's Hate) (Poema)
-1. Apéndice: Una guía a los mundos perdidos de Robert E. Howard
+1. Un sueño (A Dream)
+1. La puerta al mundo (The Door to the World a.k.a. The Door to the Garden)
+1. Un fragor de trompetas (A Thunder of Trumpets)
+1. El Jinete del Trueno (The Thunder-Rider)
+1. Oro español en Devil Horse (Spanish Gold on Devil Horse)
 
 
 ### Espadachinas
@@ -751,19 +687,19 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 **Contenido:**
 
 1. Prólogo
-1. Exilio de Atlantis
-1. El Reino de las Sombras
-1. El altar y el escorpión
-1. Abismo negro
-1. La gata de Delcardes
-1. El Espectro del Silencio
-1. Jinetes del sol naciente
-1. ¡Con esta hacha gobierno!
-1. El estruendo del gong
-1. Espadas del reino púrpura
-1. Hechicero y guerrero
-1. Los espejos de Tuzun Thune
-1. El Rey y el roble
+1. Exilio de Atlantis (Exile of Atlantis)
+1. El Reino de las Sombras (The Shadow Kingdom)
+1. El altar y el escorpión (The Altar and the Scorpion)
+1. Abismo negro (The Black Abyss a.k.a The Black City)
+1. La gata de Delcardes (Delcardes' Cat a.k.a The Cat and the Skull)
+1. El Espectro del Silencio (The Skull of Silence a.k.a. The Screaming Skull of Silence)
+1. Jinetes del sol naciente (Riders Beyond the Sunrise)
+1. ¡Con esta hacha gobierno! (By This Axe, I Rule)
+1. El estruendo del gong (The Striking of the Gong)
+1. Espadas del reino púrpura (Swords of the Purple Kingdom)
+1. Hechicero y guerrero (Wizard and Warrior)
+1. Los espejos de Tuzun Thune (The Mirrors of Tuzun Thune)
+1. El Rey y el roble (The King and the Oak)
 1. Epílogo
 
 
@@ -794,6 +730,24 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. La Sonia de Robert E. Howard
 1. Sonia la Roja en el cómic
 1. La Sombra del Buitre (The Shadow of the Vulture)
+
+## Valdemar - Gótica
+
+### Las extrañas aventuras de Solomon Kane
+
+![Las extrañas aventuras de Solomon Kane - portada libro]({{ site.baseurl }}/static/images/biblio/extranasAvanturasSK.jpg "Las extrañas aventuras de Solomon Kane - portada libro")
+
+**Contenido:**
+
+1. Cráneos en las estrellas (Skulls in the Stars)
+1. La mano derecha de la maldición (The Right Hand of Doom)
+1. Sombras rojas (Red Shadows)
+1. Resonar de huesos (Rattle of Bones)
+1. Luna de calaveras (The Moon of Skulls)
+1. Las colinas de los muertos (The Hills of the Dead)
+1. Alas en la noche (Wings in the Night)
+1. Los pasos en el interior (The Footfalls Within)
+1. La sombra del buitre (The Shadow of the Vulture)
 
 ### Los gusanos de la tierra y otros relatos de horror sobrenatural
 
@@ -848,3 +802,190 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. La cosa con pezuñas (The Hoofed Thing)
 1. La última canción de Casonetto (Casonetto’s Last Song)
 1. Los moradores bajo la tumba (The Dwellers Under the Tomb)
+
+## Conan Clásico
+
+### Conan el Cimmerio 1
+
+![Conan el Cimmerio 1 - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio1.jpg "Conan el Cimmerio 1 - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el Cimmerio 2
+
+![Conan el Cimmerio 2 - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio2.jpg "Conan el Cimmerio 2 - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el Cimmerio 3
+
+![Conan el Cimmerio 3 - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio3.jpg "Conan el Cimmerio 3 - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el Cimmerio 4
+
+![Conan el Cimmerio 4 - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio4.jpg "Conan el Cimmerio 4 - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el Cimmerio 5
+
+![Conan el Cimmerio 5 - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio5.jpg "Conan el Cimmerio 5 - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el Cimmerio 6
+
+![Conan el Cimmerio 6 - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio6.jpg "Conan el Cimmerio 6 - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+## Serie Conan
+
+### Conan
+
+![Conan - portada libro]({{ site.baseurl }}/static/images/biblio/conan.jpg "Conan - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el cimmerio
+
+![Conan el cimmerio - portada libro]({{ site.baseurl }}/static/images/biblio/cimerio.jpg "Conan el cimmerio - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el pirata
+
+![Conan el pirata - portada libro]({{ site.baseurl }}/static/images/biblio/pirata.jpg "Conan el pirata - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el vagabundo
+
+![Conan el vagabundo - portada libro]({{ site.baseurl }}/static/images/biblio/vagabundo.jpg "Conan el vagabundo - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el aventurero
+
+![Conan el aventurero - portada libro]({{ site.baseurl }}/static/images/biblio/aventurero.jpg "Conan el aventurero - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el guerrero
+
+![Conan el guerrero - portada libro]({{ site.baseurl }}/static/images/biblio/guerrero.jpg "Conan el guerrero - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el usurpador
+
+![Conan el usurpador - portada libro]({{ site.baseurl }}/static/images/biblio/usurpador.jpg "Conan el usurpador - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el conquistador
+
+![Conan el conquistador - portada libro]({{ site.baseurl }}/static/images/biblio/conquistador.jpg "Conan el conquistador - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### Conan el vengador
+
+![Conan el vengador - portada libro]({{ site.baseurl }}/static/images/biblio/vengador.jpg "Conan el vengador - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+## Las crónicas Nemedias
+
+### Nacerá una bruja
+
+![Nacerá una bruja - portada libro]({{ site.baseurl }}/static/images/biblio/naceraUnaBruja.jpg "Nacerá una bruja - portada libro")
+
+**Contenido:**
+
+1. Introducción (Bienvenido a la era hiboria)
+1. Las Crónicas Nemedias
+1. Cimeria (poema)
+1. La hija del gigante de hielo (The Frost Giant’s Daughter a.k.a. Gods of the North)
+1. El dios del cuenco (The God in the Bowl)
+1. Hatajo de rufianes (Rogues in the House)
+1. La Reina de la Costa Negra (Queen of the Black Coast)
+1. El valle de las mujeres perdidas (The Vale of Lost Women)
+1. La torre del elefante (The Tower of the Elephant)
+1. Natohk el velado (Black Colossus)
+1. Sombras a la luz de la luna (Iron Shadows in the Moon a.k.a. Shadows in the Moonlight)
+1. Nacerá una bruja (A Witch Shall be Born)
+1. Sombras sobre Zamboula (Shadows in Zamboula a.k.a The Man-Eaters of Zamboula)
+1. Xuthal del crepúsculo (Xuthal of the Dusk a.k.a The Slithering Shadow)
+1. El diablo de hierro (The Devil in Iron)
+1. El pueblo del círculo negro (The People of the Black Circle)
+1. El extranjero negro (The Black Stranger, a.k.a Swords of the Red Brotherhood a.k.a The Treasure of Tranicos)
+1. El estanque del negro (The Pool of the Black One)
+1. Clavos rojos (Red Nails)
+1. Las joyas de Gwahlur (Jewels of Gwahlur a.k.a The Servants of Bit-Yakin)
+1. Más allá del Río Negro (Beyond the Black River)
+1. El fénix en la espada (The Phoenix on the Sword)
+1. La ciudadela escarlata (The Scarlet Citadel)
+1. La hora del dragón (The Hour of the Dragon a.k.a Conan the Conqueror)
+
+## Conan
+
+### La torre del elefante
+
+![La torre del elefante - portada libro]({{ site.baseurl }}/static/images/biblio/torreDelElefante.jpg "La torre del elefante - portada libro")
+
+**Contenido:**
+
+1. Presentación
+1. Las crónicas nemedias
+1. La Torre del Elefante (The Tower of the Elephant)
+1. La era Hibórea (The Hyborian Age)
+1. Posible biografía de Conan
+
+### Conan el bárbaro
+
+![Conan el bárbaro - portada libro]({{ site.baseurl }}/static/images/biblio/barbaro.jpg "Conan el bárbaro - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
+
+### El tesoro de Tranicos
+
+![El tesoro de Tranicos - portada libro]({{ site.baseurl }}/static/images/biblio/tesoro.jpg "E - portada libro")
+
+**Contenido:**
+
+1. Bran Mak Morn: el último rey trágico
