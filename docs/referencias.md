@@ -16,7 +16,7 @@ last_modified_at: 2024-09-01
 
 Aquí hay una recopilación de fuentes que analizan la vida y obra de REH.
 La mayoria de estas referencias estan en Ingles.
-Si lo que buscas son las ediciones en Español de la obra de REH, busca en la [sección de bibliografía](/biblio).
+Si lo que buscas son las ediciones en Español de la obra de REH, busca en la [sección de bibliografía]({{ site.baseurl }}/biblio).
 
 <h3>Contenido</h3>
 

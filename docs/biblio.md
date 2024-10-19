@@ -16,7 +16,7 @@ last_modified_at: 2024-09-01
 
 Aquí hay información de la obras de REH.
 Especialmente sobre las ediciones publicadas en Español.
-Si quieres un listado de referencias acerca de la vida y obra de REH, busca en la [sección de referencias](/referencias).
+Si quieres un listado de referencias acerca de la vida y obra de REH, busca en la [sección de referencias]({{ site.baseurl }}/referencias).
 
 <h3>Contenido</h3>
 
