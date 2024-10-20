@@ -40,3 +40,12 @@ Conforme fui creciendo, mi afición se extendió al resto de los personajes de R
 Actualmente, he leído casi toda su obra tanto en inglés como en español y he disfrutado de varios trabajos acerca de la vida de REH. He leído la mayor parte de las historias de Conan de los llamados pastiches (las historias del personaje de Conan, escritas por otros autores). Ahora me gusta más la obra de REH en general, que el personaje de Conan. Particularmente, he estado disfrutando de las historias de western y de terror.
 
 Me decidí a hacer este sitio (y el canal que lo acompaña) para tener un espacio donde analizar la vida y obra de Robert E. Howard, con la esperanza de que sea una especie de homenaje personal a REH.
+
+## Misión
+
+El baúl de Howard, ha sido creado con el fin de poco a poco ir cumpliendo los siguientes objetivos:
+
+* Aspirar a ser el sitio más importante en sobre REH Español y tener un canal de youtube respetable para acompañarlo.
+* Contribuir a que la página de wikipedia en Español de REH sea de primera clase y esté al menos a la par con la versión en Inglés.
+* Hacer traducciones al Español de la obras de REH que nunca se ha traducido. Particularmente de sus ensayos y poemas.
+* Curar, editar y publicar en línea, un libro con lo mejor, lo más representativo, o esencial de REH en Español.

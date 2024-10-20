@@ -53,35 +53,6 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. La ruta de Azrael (The Road of Azrael)
 1. Rojas espadas de la negra Catay (Red Blades of Black Cathay)
 
-### Los gusanos de la tierra y otros relatos de horror sobrenatural
-
-![Los gusanos de la tierra - portada libro]({{ site.baseurl }}/static/images/biblio/gusanosDeLaTierra.jpg "Los gusanos de la tierra - portada libro")
-
-**Contenido:**
-
-1. In memoriam: Robert Ervin Howard (In Memoriam: Robert Ervin Howard)
-1. Arkham (Poema)
-1. En el bosque de Villefére (In The Forest of Villefére)
-1. La serpiente del sueño (The Dream Snake)
-1. La voz de El-Lil(The Voice of El-Lil)
-1. Los hijos de la noche (The Children of the Night)
-1. Los dioses de Bal-Sagoth (The Gods of Bal-Sagoth)
-1. La piedra negra(The Black Stone)
-1. El hombre oscuro (The Dark Man)
-1. La cosa del tejado (The Thing on the Roof)
-1. El pueblo de la oscuridad (People of the Dark)
-1. Los gusanos de la tierra (Worms of the Earth)
-1. El hombre del suelo (The Man of the Ground)
-1. El corazón del viejo Garfield (Old Garfield’s Heart)
-1. El valle del gusano (The Valley of the Worm)
-1. El jardín del miedo (The Garden of Fear)
-1. Los muertos recuerdan (The Dead Remember)
-1. El fuego de Asurbanipal (The Fire of Asshurbanipal)
-1. No me cavéis una tumba (Dig Me No Grave)
-1. Las palomas del infierno (Pigeons from Hell)
-1. La sombra de la bestia (The Shadow of the Beast)
-1. Una ventana abierta (An Open Window)
-
 
 ### El Reino de las Sombras
 
@@ -751,22 +722,22 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 ### Los gusanos de la tierra y otros relatos de horror sobrenatural
 
-![Los gusanos de la tierra y otros relatos de horror sobrenatural - portada libro]({{ site.baseurl }}/static/images/biblio/gusanos.jpg "Los gusanos de la tierra y otros relatos de horror sobrenatural - portada libro")
+![Los gusanos de la tierra - portada libro]({{ site.baseurl }}/static/images/biblio/gusanosDeLaTierra.jpg "Los gusanos de la tierra - portada libro")
 
 **Contenido:**
 
-1. In memoriam: Robert Ervin Howard
-1. Arkham
+1. In memoriam: Robert Ervin Howard (In Memoriam: Robert Ervin Howard)
+1. Arkham (Poema)
 1. En el bosque de Villefére (In The Forest of Villefére)
 1. La serpiente del sueño (The Dream Snake)
-1. La voz de El-Lil (The Voice of El-Lil)
+1. La voz de El-Lil(The Voice of El-Lil)
 1. Los hijos de la noche (The Children of the Night)
 1. Los dioses de Bal-Sagoth (The Gods of Bal-Sagoth)
-1. La piedra negra (The Black Stone)
+1. La piedra negra(The Black Stone)
 1. El hombre oscuro (The Dark Man)
 1. La cosa del tejado (The Thing on the Roof)
-1. El pueblo de la oscuridad (People of the dark)
-1. Los gusanos de la tierra (Worms of the earth)
+1. El pueblo de la oscuridad (People of the Dark)
+1. Los gusanos de la tierra (Worms of the Earth)
 1. El hombre del suelo (The Man of the Ground)
 1. El corazón del viejo Garfield (Old Garfield’s Heart)
 1. El valle del gusano (The Valley of the Worm)
@@ -774,9 +745,10 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 1. Los muertos recuerdan (The Dead Remember)
 1. El fuego de Asurbanipal (The Fire of Asshurbanipal)
 1. No me cavéis una tumba (Dig Me No Grave)
-1. Las palomas del infierno (Pigeons from hell)
+1. Las palomas del infierno (Pigeons from Hell)
 1. La sombra de la bestia (The Shadow of the Beast)
 1. Una ventana abierta (An Open Window)
+
 
 ### Canaan negro y otros relatos de horror sobrenatural
 
@@ -811,7 +783,25 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Prefacio
+1. Introducción
+1. Cimmeria
+1. El fénix en la espada (The Phoenix on the Sword)
+1. La hija del gigante helado (The Frost Giant’s Daughter a.k.a. Gods of the North)
+1. El dios del cuenco (The God in the Bowl)
+1. La Torre del Elefante (The Tower of the Elephant)
+1. La ciudadela escarlata (The Scarlet Citadel)
+1. La reina de la Costa Negra (Queen of the Black Coast)
+1. El coloso negro (Black Colossus)
+1. Miscelánea
+    1. El fénix en la espada
+    1. Notas sobre diversos pueblos de la Edad Hiboria
+    1. La Edad Hiboria
+    1. Sinopsis sin titulo
+    1. Sinopsis sin titulo
+    1. Sinopsis sin titulo
+    1. Nombres y países hiborios
+    1. Mapas de la Edad Hiboria
 
 ### Conan el Cimmerio 2
 
@@ -819,7 +809,21 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Sombras de hierro a la luz de la luna (Iron Shadows in the Moon a.k.a. Shadows in the Moonlight)
+1. Xuthal del crepúsculo (Xuthal of the Dusk a.k.a The Slithering Shadow)
+1. El estanque del negro (The Pool of the Black One)
+1. Villanos en la casa (Rogues in the House)
+1. El valle de las mujeres perdidas (The Vale of Lost Women)
+1. El diablo de hierro (The Devil in Iron)
+1. Miscelánea
+    1. Fragmento sin título
+    1. Sinopsis sin titulo
+    1. Borrador sin título
+    1. Nombres y países hiborios
+    1. Mapas de la Edad Hiboria
+    1. Apéndices
+    1. La génesis de Hiboria
+
 
 ### Conan el Cimmerio 3
 
@@ -827,7 +831,12 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. El pueblo del Círculo Negro (The People of the Black Circle)
+1. Nacerá una bruja (A Witch Shall be Born)
+1. Miscelánea
+    1. Sinopsis sin título
+    1. La historia hasta la fecha… (El pueblo del Círculo Negro)
+    1. Sinopsis sin título
 
 ### Conan el Cimmerio 4
 
@@ -835,7 +844,10 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. La hora del dragón (The Hour of the Dragon a.k.a Conan the Conqueror)
+1. Miscelánea
+    1. Sinopsis sin título
+    1. Notas sobre La hora del dragón
 
 ### Conan el Cimmerio 5
 
@@ -843,7 +855,13 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Los antropófagos de Zamboula (Shadows in Zamboula a.k.a The Man-Eaters of Zamboula)
+1. Los sirvientes de Bit-Yakin (Jewels of Gwahlur a.k.a The Servants of Bit-Yakin))
+1. El negro desconocido (The Black Stranger, a.k.a Swords of the Red Brotherhood a.k.a The Treasure of Tranicos)
+1. Miscelánea
+    1. Lobos de allende la frontera (Wolves Beyond the Border)
+    1. Lobos de allende la frontera (borrador)
+    1. El negro desconocido (sinopsis)
 
 ### Conan el Cimmerio 6
 
@@ -851,7 +869,11 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Clavos rojos (Red Nails)
+1. Más allá del río Negro (Beyond the Black River)
+1. Miscelánea
+    1. Clavos rojos (borrador)
+    1. La génesis de Hiboria
 
 ## Serie Conan
 
@@ -935,29 +957,51 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Introducción (Bienvenido a la era hiboria)
-1. Las Crónicas Nemedias
 1. Cimeria (poema)
 1. La hija del gigante de hielo (The Frost Giant’s Daughter a.k.a. Gods of the North)
+1. La torre del elefante (The Tower of the Elephant)
 1. El dios del cuenco (The God in the Bowl)
 1. Hatajo de rufianes (Rogues in the House)
 1. La Reina de la Costa Negra (Queen of the Black Coast)
 1. El valle de las mujeres perdidas (The Vale of Lost Women)
-1. La torre del elefante (The Tower of the Elephant)
-1. Natohk el velado (Black Colossus)
-1. Sombras a la luz de la luna (Iron Shadows in the Moon a.k.a. Shadows in the Moonlight)
+1. Coloso negro (Black Colossus)
+1. Sombras en el claro de luna (Iron Shadows in the Moon a.k.a. Shadows in the Moonlight)
 1. Nacerá una bruja (A Witch Shall be Born)
-1. Sombras sobre Zamboula (Shadows in Zamboula a.k.a The Man-Eaters of Zamboula)
+
+
+### El diablo de hierro
+
+![El diablo de hierro - portada libro]({{ site.baseurl }}/static/images/biblio/diablo.jpg "El diablo de hierro - portada libro")
+
+**Contenido:**
+
+1. Los caníbales de Zamboula (Shadows in Zamboula a.k.a The Man-Eaters of Zamboula)
 1. Xuthal del crepúsculo (Xuthal of the Dusk a.k.a The Slithering Shadow)
 1. El diablo de hierro (The Devil in Iron)
 1. El pueblo del círculo negro (The People of the Black Circle)
 1. El extranjero negro (The Black Stranger, a.k.a Swords of the Red Brotherhood a.k.a The Treasure of Tranicos)
+
+
+### El fénix en la espada
+
+![El fénix en la espada - portada libro]({{ site.baseurl }}/static/images/biblio/fenix.jpg "El fénix en la espada - portada libro")
+
+**Contenido:**
+
 1. El estanque del negro (The Pool of the Black One)
 1. Clavos rojos (Red Nails)
 1. Las joyas de Gwahlur (Jewels of Gwahlur a.k.a The Servants of Bit-Yakin)
 1. Más allá del Río Negro (Beyond the Black River)
 1. El fénix en la espada (The Phoenix on the Sword)
 1. La ciudadela escarlata (The Scarlet Citadel)
+
+
+### La hora del dragón
+
+![La hora del dragón - portada libro]({{ site.baseurl }}/static/images/biblio/horaDragon.jpg "La hora del dragón  - portada libro")
+
+**Contenido:**
+
 1. La hora del dragón (The Hour of the Dragon a.k.a Conan the Conqueror)
 
 ## Conan
@@ -988,4 +1032,7 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción
+1. El tesoro de Tranicos (The Black Stranger, a.k.a Swords of the Red Brotherhood a.k.a The Treasure of Tranicos)
+1. El Rastro de Tranicos
+1. Un skald  en los robledales
