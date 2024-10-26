@@ -37,6 +37,30 @@ En [lectulandia](https://ww3.lectulandia.com){:target="_blank" rel="noreferrer n
 
 La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} y la de su bibliografia en [prosa](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography){:target="_blank" rel="noreferrer noopener"} y [verso](https://en.wikipedia.org/wiki/Robert_E._Howard_bibliography_(poems_A%E2%80%93H)){:target="_blank" rel="noreferrer noopener"}, son usualmente las primeras fuentes a consultar cuando estoy por empezar a leer una historia de REH o escribir un análisis.
 
+### Tercera fundación
+
+En este [sitio](https://tercerafundacion.net/biblioteca/ver/coleccion/1625){:target="_blank" rel="noreferrer noopener"}
+
+### Pulp Covers
+
+En este [sitio](https://pulpcovers.com/?s=conan){:target="_blank" rel="noreferrer noopener"}
+
+### Comics.org
+
+En este [sitio](https://www.comics.org/series/29958/){:target="_blank" rel="noreferrer noopener"}
+
+### Editorial de la Fundación de Robert E. Howard
+
+ Tienen una [editorial](https://rehfpress.com/){:target="_blank" rel="noreferrer noopener"} que publica las obras mas desconocidas de REH asi como varias biografías y ensayos acerca de REH.
+
+### El mundo de Robert E. Howard
+
+El sitio de [El mundo de Robert E. Howard](https://reh.world/){:target="_blank" rel="noreferrer noopener"} es lo mas cercano a un sitio oficial sobre REH.
+
+
+### Foro semi oficial de Rober E. Howard
+En este [foro](https://swordsofreh.proboards.com/) se reunen y opinan varios expertos sobre REH y el público en general.
+
 ## Ediciones en Español de la obra de REH
 
 
@@ -883,7 +907,18 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción
+1. Carta de R. E. Howard a P. S. Miller
+1. La Edad Hiboria - Parte I (The Hyborian Age, Part 1)
+1. La cosa de la cripta (The Thing in the Crypt)  L. Sprague de Camp / Lin Carter
+1. La torre del elefante (The Tower of the Elephant)
+1. El aposento de los muertos (The Hall of the Dead) L. Sprague de Camp / Robert E. Howard
+1. El dios del cuenco (The God in the Bowl)
+1. Villanos en la casa (Rogues in the House)
+1. La mano de Nergal (The Hand of Nergal) Lin Carter / Robert E. Howard
+1. La ciudad de las calaveras (The City of Skulls) L. Sprague de Camp / Lin Carter
+1. Nota acerca del autor
+
 
 ### Conan el cimmerio
 
@@ -891,7 +926,18 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción
+1. La maldición del monolito (The Curse of the Monolith) L. Sprague de Camp /Lin Carter
+1. El dios manchado de sangre (The Blood-Stained God) L. Sprague de Camp / Robert E. Howard
+1. La hija del gigante helado (The Frost-Giant’s Daughter)
+1. La guarida del gusano de hielo (The Lair of the Ice Worm) L. Sprague de Camp / Lin Carter
+1. La reina de la Costa Negra (Queen of the Black Coast)
+1. El valle de las mujeres perdidas (The Vale of Lost Women)
+1. El castillo del horror (The Castle of Terror) L. Sprague de Camp / Lin Carter
+1. Un hocico en la oscuridad (The Snout in the Dark) L. Sprague de Camp / Lin Carter / Robert E. Howard
+1. Borrador sin título (The Snout in the Dark)
+1. Nota acerca del autor
+
 
 ### Conan el pirata
 
@@ -899,7 +945,13 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction Conan the Freebooter) L. Sprague de Camp
+1. Halcones sobre Shem (Hawks Over Shem) L. Sprague de Camp Robert E. Howard
+1. El coloso negro (Black Colossus)
+1. Sombras a la luz de la luna (Shadows in the Moonlight)
+1. El camino de las águilas (The Road of the Eagles) L. Sprague de Camp / Robert E. Howard
+1. Nacerá una bruja (A Witch Shall Be Born)
+1. Nota acerca del autor
 
 ### Conan el vagabundo
 
@@ -907,7 +959,13 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction Conan the Wanderer)
+1. Lágrimas negras (Black Tears) L. Sprague de Camp / Lin Carter
+1. Sombras en Zamboula (Shadows in Zamboula)
+1. El diablo de hierro (The Devil in Iron)
+1. La daga llameante (The Flame Knife) L. Sprague de Camp (Robert E. Howard)
+1. Nota acerca del autor
+
 
 ### Conan el aventurero
 
@@ -915,7 +973,39 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction Conan the Adventurer)
+1. El pueblo del Círculo Negro (The People of the Black Circle)
+1. La sombra deslizante (The Slithering Shadow)
+1. Los tambores de Tombalku (Drums of Tombalku) L. Sprague de Camp / Robert E. Howard
+1. Fragemento sin titulo (The Drums of Tombalku)
+1. El estanque del negro The Pool of the Black One
+1. Nota acerca del autor
+
+### Conan el bucanero
+
+![Conan el bucanero  - portada libro]({{ site.baseurl }}/static/images/biblio/bucanero.jpg "Conan el bucanero  - portada libro")
+
+**Contenido:**
+
+1. Introducción: bucaneros y magia negra (Buccaneers and Black Magicians)
+1. Conan el bucanero (Conan the Buccaneer) L. Sprague de Camp / Lin Carter
+1. Nota acerca del autor
+
+### Conan el invencible
+
+![Conan el invencible  - portada libro]({{ site.baseurl }}/static/images/biblio/invencible.jpg "Conan el invencible  - portada libro")
+
+**Contenido:**
+
+1. Conan el invencible (Conan the Invincible) Robert Jordan
+
+### Conan el defensor
+
+![Conan el defensor  - portada libro]({{ site.baseurl }}/static/images/biblio/defensor.jpg "Conan el defensor - portada libro")
+
+**Contenido:**
+
+1. Conan el defensor (Conan the Defender) Robert Jordan
 
 ### Conan el guerrero
 
@@ -923,7 +1013,19 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction: Conan the Warrior)
+1. Clavos rojos (Red Nails)
+1. Las joyas de Gwahlur (Jewels of Gwahlur
+1. Más allá del río Negro (Beyond the Black River)
+1. Nota acerca del autor
+
+### Conan el invicto
+
+![Conan el invicto - portada libro]({{ site.baseurl }}/static/images/biblio/invicto.jpg "Conan el invicto - portada libro")
+
+**Contenido:**
+
+1. Conan el invicto (Conan the Unconquered) Robert Jordan
 
 ### Conan el usurpador
 
@@ -931,7 +1033,12 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction: Conan the Usurper)
+1. El tesoro de Tranicos (The Treasure of Tranicos) L. Sprague de Camp / Robert E. Howard
+1. Lobos más allá de la frontera (Wolves Beyond the Border) L. Sprague de Camp / Robert E. Howard
+1. El fénix en la espada (The Phoenix on the Sword)
+1. La ciudadela escarlata (The Scarlet Citadel)
+1. Nota acerca del autor
 
 ### Conan el conquistador
 
@@ -939,7 +1046,10 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction Conan the Conqueror)
+1. Conan el conquistador (Conan the Conqueror a.k.a. The Hour of the Dragon) L. Sprague de Camp / Robert E. Howard
+1. Nota acerca del autor
+
 
 ### Conan el vengador
 
@@ -947,7 +1057,108 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 **Contenido:**
 
-1. Bran Mak Morn: el último rey trágico
+1. Introducción (Introduction: Conan the Avenger)
+1. El regreso de Conan (The Return of Conan) Björn Nyberg / L. Sprague de Camp
+1. La Edad Hiboria - Parte II (The Hyborian Age, Part 2)
+1. Nota acerca del autor
+
+### Conan y el camino de los reyes
+
+![Conan y el camino de los reyes - portada libro]({{ site.baseurl }}/static/images/biblio/caminoReyes.jpg "Conan y el camino de los reyes - portada libro")
+
+**Contenido:**
+
+1. Conan y el camino de los reyes (Conan: the Road of Kings) Karl Edward Wagner
+
+### Conan de Aquilonia
+
+![Conan de Aquilonia - portada libro]({{ site.baseurl }}/static/images/biblio/aquilonia.jpg "Conan de Aquilonia - portada libro")
+
+**Contenido:**
+
+1. Introducción (Introduction: Conan of Aquilonia)
+1. La bruja de las brumas (The Witch of the Mists) L. Sprague de Camp / Lin Carter
+1. La esfinge negra de Nebthu (Black Sphinx of Nebthu) L. Sprague de Camp / Lin Carter
+1. La luna roja de Zembawei (Red Moon of Zembawei) L. Sprague de Camp / Lin Carter
+1. Sombras en la calavera (Shadows in the Skull) L. Sprague de Camp / Lin Carter
+1. Nota acerca del autor
+
+
+### Conan. La espada de Skelos
+
+![La espada de Skelos - portada libro]({{ site.baseurl }}/static/images/biblio/espadaSkelos.jpg "La espada de Skelos - portada libro")
+
+**Contenido:**
+
+1. Conan. La espada de Skelos (Conan: The Sword of Skelos) Andrew Offutt
+
+### Conan de las islas
+
+![Conan de las islas - portada libro]({{ site.baseurl }}/static/images/biblio/deLasIslas.jpg "Conan de las islas - portada libro")
+
+**Contenido:**
+
+1. Introducción (Introduction: Conan of the Isles)
+1. Conan de las islas (Conan of the Isles) L. Sprague de Camp / Lin Carter
+1. Nota acerca del autor
+
+### Conan el libertador
+
+![Conan el libertador - portada libro]({{ site.baseurl }}/static/images/biblio/libertador.jpg "Conan el libertador - portada libro")
+
+**Contenido:**
+
+1. Introducción (Introduction: Conan the Liberator)
+1. Conan el Libertador (Conan the Liberator) L. Sprague de Camp
+
+### Conan el rebelde
+
+![Conan el rebelde - portada libro]({{ site.baseurl }}/static/images/biblio/conanRebelde.jpg "Conan el rebelde - portada libro")
+
+**Contenido:**
+
+1. Conan el rebelde (Conan the Rebel) Poul Anderson
+
+### Conan y el dios araña
+
+![Conan y el dios araña - portada libro]({{ site.baseurl }}/static/images/biblio/diosArana.jpg "Conan y el dios araña - portada libro")
+
+**Contenido:**
+
+1. Introducción (Introduction: Conan and the Spider God)
+1. Conan y el dios araña (Conan and the Spider God) L. Sprague de Camp
+
+### Conan el triunfador
+
+![Conan el triunfador - portada libro]({{ site.baseurl }}/static/images/biblio/triunfador.jpg "Conan el triunfador - portada libro")
+
+**Contenido:**
+
+1. Conan el Triunfador (Conan the Triumphant) Robert Jordan
+
+### Conan el destructor
+
+![Conan el destructor - portada libro]({{ site.baseurl }}/static/images/biblio/destructor.jpg "Conan el destructor - portada libro")
+
+**Contenido:**
+
+Conan el Destructor (Conan the Destroyer) Robert Jordan
+
+### Conan el intrépido
+
+![Conan el intrépido - portada libro]({{ site.baseurl }}/static/images/biblio/intrepido.jpg "Conan el intrépido - portada libro")
+
+**Contenido:**
+
+Conan el Intrépido (Conan the Fearless) Steve Perry
+
+### Conan el victorioso
+
+![Conan el victorioso - portada libro]({{ site.baseurl }}/static/images/biblio/victorioso.jpg "Conan el victorioso - portada libro")
+
+**Contenido:**
+
+1. Conan el Victorioso (Conan the Victorious) Robert Jordan
 
 ## Las crónicas Nemedias
 
