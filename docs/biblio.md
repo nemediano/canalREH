@@ -39,30 +39,21 @@ La página wikipedia de [REH](https://en.wikipedia.org/wiki/Robert_E._Howard){:t
 
 ### Tercera fundación
 
-En este [sitio](https://tercerafundacion.net/biblioteca/ver/coleccion/1625){:target="_blank" rel="noreferrer noopener"}
+En este [sitio](https://tercerafundacion.net){:target="_blank" rel="noreferrer noopener"} hay muchos _checklist_ de obras de ciencia ficción y fantasía en Español.
+Originalmente era un club de amigos que compartían lecturas de estos géneros.
+Desde luego tienen una [lista de las obras de Conan](https://tercerafundacion.net/biblioteca/ver/coleccion/1625){:target="_blank" rel="noreferrer noopener"} que incluye tanto las obras de REH como los pastiches.
 
 ### Pulp Covers
 
-En este [sitio](https://pulpcovers.com/?s=conan){:target="_blank" rel="noreferrer noopener"}
+En este [blog](https://pulpcovers.com/?s=conan){:target="_blank" rel="noreferrer noopener"} tienen una de las mejores colecciones de portadas de libros de fantasía y ciencia ficción que he visto.
+Muy recomendado.
 
 ### Comics.org
 
-En este [sitio](https://www.comics.org/series/29958/){:target="_blank" rel="noreferrer noopener"}
-
-### Editorial de la Fundación de Robert E. Howard
-
- Tienen una [editorial](https://rehfpress.com/){:target="_blank" rel="noreferrer noopener"} que publica las obras mas desconocidas de REH asi como varias biografías y ensayos acerca de REH.
-
-### El mundo de Robert E. Howard
-
-El sitio de [El mundo de Robert E. Howard](https://reh.world/){:target="_blank" rel="noreferrer noopener"} es lo mas cercano a un sitio oficial sobre REH.
-
-
-### Foro semi oficial de Rober E. Howard
-En este [foro](https://swordsofreh.proboards.com/) se reunen y opinan varios expertos sobre REH y el público en general.
+En este [sitio](https://www.comics.org){:target="_blank" rel="noreferrer noopener"} hay varias listas de series de comics.
+En particular tienen una [lista del comic](https://www.comics.org/series/29958/){:target="_blank" rel="noreferrer noopener"} _"La espada Salvaje de Conan el Bárbaro"_ que fue publicado en México por novedades editores.
 
 ## Ediciones en Español de la obra de REH
-
 
 ### El Señor de Samarcanda y otros relatos históricos
 

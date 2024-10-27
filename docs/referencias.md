@@ -43,8 +43,21 @@ Este [sitio](https://readcomiconline.li/){:target="_blank" rel="noreferrer noope
 Este [sitio](https://getcomics.org){:target="_blank" rel="noreferrer noopener"} tambien contiene un archivo de muchisimos comics que se pueden descargar en [formato cbr](https://docs.fileformat.com/ebook/cbr/){:target="_blank" rel="noreferrer noopener"}. Si tecleas en su buscador Conan, la lista de resultados también es muy grande. Desde luego tambien tienen las series de ["Savage Sword of Conan"](https://getcomics.org/marvel/savage-sword-of-conan-1974-1995-saga-collection-1987-1995-talos-digital-remaster-2021/){:target="_blank" rel="noreferrer noopener"}, ["Conan the barbarian"](https://getcomics.org/marvel/conan-the-barbarian-vol-1-1-13-1970-1972/){:target="_blank" rel="noreferrer noopener"} y las distintas series de Dark Horse sobre [Conan](https://getcomics.org/other-comics/conan-dark-horse-collection-2003-2018/){:target="_blank" rel="noreferrer noopener"}.
 
 
-## Libros
+### El mundo de Robert E. Howard
 
+El sitio de [El mundo de Robert E. Howard](https://reh.world/){:target="_blank" rel="noreferrer noopener"} es lo mas cercano a un sitio oficial sobre REH.
+Es mantenido por la Fundación de Robert E. Howard.
+
+### Editorial de la Fundación de Robert E. Howard
+
+La ya antes mencionada fundación, también tiene una [editorial](https://rehfpress.com/){:target="_blank" rel="noreferrer noopener"} que publica las obras menos conocidas de REH.
+Así como varias biografías y ensayos acerca de REH.
+
+### Foro semi oficial de Rober E. Howard
+En este [foro](https://swordsofreh.proboards.com/) se reúnen y opinan varios expertos sobre REH y el público en general.
+Es divertido por que algunos de los autores de los libros abajo mencionados y de los comics son miembros de esta comunidad.
+
+## Libros
 
 ### El último celta
 
