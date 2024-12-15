@@ -11,7 +11,7 @@ seo_title: Lista de libros en Español de Robert E. Howard, el creador de Conan.
 
 seo_description: Bibliografía en Español de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-last_modified_at: 2024-09-01
+last_modified_at: 2024-12-15
 ---
 
 Aquí hay información de la obras de REH.
@@ -334,13 +334,13 @@ En particular tienen una [lista del comic](https://www.comics.org/series/29958/)
 1. El cantante en la bruma (The Singer in the Mist)
 1. Voces de la noche (Voices of the Night)
 1. Las voces evocadoras de recuerdos (The Voices Waken Memoty a.k.a. A Drum Begins to Throb)
-1. Luna obscena (Moon Shame» a.k.a. The Moon Woman)
+1. Luna obscena (Moon Shame a.k.a. The Moon Woman)
 1. Babel (Babel)
 1. La risa en los abismos (Laughter in the Gulfs a.k.a. An Echo of Laughter in the Gulfs)
 1. Una corona para un rey (A Crown for a King)
 1. Carta a Harold Preece
 1. Carta a August Derleth
-1. Carta aClark Ashton Smith
+1. Carta a Clark Ashton Smith
 
 ### Brachan el celta y otros recuerdos raciales
 
@@ -371,7 +371,7 @@ En particular tienen una [lista del comic](https://www.comics.org/series/29958/)
 1. Introducción: Sables y pistolas por tierra y mar
 1. La diablesa (She Devil a.k.a. The Girl On The Hell Ship)
 1. Sangre en el desierto (Desert Blood a.k.a Revenge by Proxy)
-1. El dragón de kao tsu (The Dragon of Kao Tsu)
+1. El dragón de Kao Tsu (The Dragon of Kao Tsu)
 1. El corazón púrpura de Erlik (The Purple Heart of Erlik a.k.a Nothing to Lose)
 1. El grog del asesino (Murderer’s Grog a.k.a Outlaw Working)
 1. Motín a bordo
@@ -412,7 +412,7 @@ En particular tienen una [lista del comic](https://www.comics.org/series/29958/)
 1. Los que siembran el trueno (The Sowers of Thunder)
 1. El señor de Samarcanda (The Lord of Samarkand)
 1. El león de Tiberias (The Lion of Tiberias)
-1. Espadas rojas de la negra Cathay (he Red Blades of Black Cathay)
+1. Espadas rojas de la negra Cathay (The Red Blades of Black Cathay)
 1. Miscelanea
     1. Fragmento sin título (He knows De Bracy)
     1. Fragmento sin título (All the persians had fled)
@@ -421,7 +421,7 @@ En particular tienen una [lista del comic](https://www.comics.org/series/29958/)
 1. Poesia
     1. Timur-Lang (Timur-Lang)
     1. El signo de la guadaña (The Sign of the Sickle)
-    1. La partida de Sigurd a Jerusalén (he Outgoing of Sigurd the Jerusalem-Farer)
+    1. La partida de Sigurd a Jerusalén (The Outgoing of Sigurd the Jerusalem-Farer)
 
 
 ### Los hijos del odio y otras historias de detectives
@@ -748,7 +748,7 @@ En particular tienen una [lista del comic](https://www.comics.org/series/29958/)
 1. La voz de El-Lil(The Voice of El-Lil)
 1. Los hijos de la noche (The Children of the Night)
 1. Los dioses de Bal-Sagoth (The Gods of Bal-Sagoth)
-1. La piedra negra(The Black Stone)
+1. La piedra negra (The Black Stone)
 1. El hombre oscuro (The Dark Man)
 1. La cosa del tejado (The Thing on the Roof)
 1. El pueblo de la oscuridad (People of the Dark)
@@ -1133,7 +1133,7 @@ En particular tienen una [lista del comic](https://www.comics.org/series/29958/)
 
 **Contenido:**
 
-Conan el Destructor (Conan the Destroyer) Robert Jordan
+1. Conan el Destructor (Conan the Destroyer) Robert Jordan
 
 ### Conan el intrépido
 
@@ -1141,7 +1141,7 @@ Conan el Destructor (Conan the Destroyer) Robert Jordan
 
 **Contenido:**
 
-Conan el Intrépido (Conan the Fearless) Steve Perry
+1. Conan el Intrépido (Conan the Fearless) Steve Perry
 
 ### Conan el victorioso
 
@@ -1230,7 +1230,7 @@ Conan el Intrépido (Conan the Fearless) Steve Perry
 
 ### El tesoro de Tranicos
 
-![El tesoro de Tranicos - portada libro]({{ site.baseurl }}/static/images/biblio/tesoro.jpg "E - portada libro")
+![El tesoro de Tranicos - portada libro]({{ site.baseurl }}/static/images/biblio/tesoro.jpg "El tesoro de Tranicos - portada libro")
 
 **Contenido:**
 

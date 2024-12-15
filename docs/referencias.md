@@ -11,7 +11,7 @@ seo_title: Referencias sobre vida y obra de Robert E. Howard el creador de Conan
 
 seo_description: Referencias sobre la vida obra y analisis de Robert E. Howard el creador de Conan. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-last_modified_at: 2024-09-01
+last_modified_at: 2024-12-15
 ---
 
 Aquí hay una recopilación de fuentes que analizan la vida y obra de REH.
