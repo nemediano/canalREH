@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2024-07-04
+last_modified_at: 2024-12-15
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -85,13 +85,209 @@ Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologí
 
 ### Conan se une a los piratas
 
+La acción empieza en un muelle en el puerto de Shem.
+Donde Tito, se prepara para zarpar en su barco El Argos, cuando se percata de un alboroto en los muelles.
+Un bárbaro viene huyendo de la guardia a caballo.
+El bárbaro enfila su caballo hacia el Argos, y en el último pedazo del muelle salta desde la silla de su montura hasta la cubierta del barco.
+
+Tito demanda saber quien es y que pretende, a lo que al bárbaro lo amenaza diciendo que zarpe inmediatamente (para poder eludir a sus perseguidores) o se atenderá a su furia.
+Tito, sabe que el bárbaro habla en serio por lo que da la orden y el Argos se lanza al océano.
+Ya una vez pasado el peligro inmediato y mar adentro Tito y el bárbaro se presentan.
+Tito es capitán del Argos un barco mercante que se dirige a comerciar a las costas de Kush.
+
+El bárbaro dice llamarse Conan y ser Cimerio.
+Le cuenta a Tito, que era llegó a buscar trabajo de soldado y se encontraba bebiendo en una taberna cuando presenció un riña entre un soldado y un capitán de la guardia.
+Conan explica que el capitán estaba molestando a la enamorada del soldado y que este último lo mató en respuesta. Algo que parece ser perfectamente normal en el código de Conan.
+El soldado y la mujer huyeron y poco después llegó la guardia y aprendió a Conan para que fuera interrogado.
+En el juzgado, el juez le pidió a Conan que les diga hacia dónde huyó el soldado.
+A lo que Conan le responde: que dado que el soldado era su amigo, su código le prohíbe traicionarlo.
+El juez se enfurece con Conan y ordena que lo encarcelen por falta de respeto.
+En ese momento Conan, saca su espada, mata al juez y después de robar un caballo se abre camino hacia los muelles, con la guardia a sus espaldas.
+Tito, le dice que no tiene nada que temer en el Argos, que son comerciantes pacíficos y que las autoridades le han perjudicado varias veces, por lo que no tienen ninguna intención de entregar a Conan.
+Conan le responde que promete pagarle sirviendo de protección a él y su tripulación.
+
+Las semanas pasan en la travesía a bordo del Argos, y después de pasar por Shem y por Estigia, llegan a las costas de Kush (es decir a la costa negra).
+En una costa ven una aldea destruida y Tito maldice diciendo que solía comerciar con esos aldeanos y que desde que Belit y sus piratas aparecieron todo parece echarse a perder.
+Conan le pregunta quién es esa tal Belit, a lo que Tito le cuenta que es una mujer Shemita, que lidera una banda de piratas a bordo de su barco La Tigresa.
+
+Mientras se alejan del puerto destruido, el vigía del Argos avista un barco que se acerca hacia ellos.
+Tito lo reconoce de inmediato como el Tigresa y dice que hay que huir hacia el puerto y que quizás puedan burlar a los piratas por tierra.
+Mientras los remeros del Argos se esfuerzan a todo lo que dan, Tito junta las pocas armas que hay a bordo y las pone a disposición de la tripulación. Conan toma un arco y con él decide contraatacar a los piratas a distancia.
+Las fechas se cruzan entre los dos navíos, y Conan alcanza a ver por primera vez a Belit y se da cuenta de que la tiene a tiro. Por un sentimiento desconocido, Conan no dispara a Belit, si no mata a uno de los piratas que estaba parado junto a ella.
+
+La persecución continúa y aunque Conan ha matado a más de una docena de piratas, las flechas de estos últimos también han mellado la tripulación del Argos.
+Tito está al timón, pero de pronto él también cae con una flecha en el corazón.
+El caos invade el Agros, y Conan decide tomar el mando.
+Le ordena al resto de la tripulación que abandonen los remos y tomen las armas, aun cuando él mismo sabe que es una causa perdida. La proa del Tigresa embiste al Argos por la mitad y los piratas negros, see lanzan al abordaje.
+La batalla en la cubierta del Argos es breve y sangrienta los piratas matan a toda la tripulación.
+
+Por el otro lado Conan, al sentir el choque salta desde la cubierta del Argos a la del Tigresa en una especie de contra abordaje.
+Este segundo frente de batalla, es diferente Conan espada en mano ha logrado matar a varios piratas y contiene el frente a tal punto que nadie se atreve a acercarse.
+Sin embargo, sabe que falta poco para que los piratas usen usu lanzas a distancia y acaben con el.
+
+Cuando todo parece perdido, Belit da la orden de alto y se acerca a Conan sin demostrar ningún miedo.
+Le pregunta quién es y de dónde viene.
+Conan es desconfiado, pero tampoco demuestra miedo, acaba por confesarle que es un Cimerio. Belit, se da cuenta de la atracción mutua entre ellos y le propone a Conan unirse a ella y que aterrorizen los mares juntos.
+Conan al ver, la tripulación del Argos muerta, y la belleza de Belit, así como la promesa de una vida de saqueo, batallas, aventuras y pasión acepta la oferta.
+Belit pide al viejo Nyaga que cure las heridas de Conan y lo nombra segundo al mando.
+Luego procede a desnudarse mediante una danza.
+Conan primero se sorprende al entender que la tripulación de piratas considera a Belit, no como su capitana si no como una diosa y ninguno osa oponerse a sus deseos.
+Al terminar la danza los dos se entregan a la pasión.
+
 ### El loto negro
+
+Han pasado varios años desde los sucesos del capítulo anterior.
+Se nos da a conocer que la leyenda de Belit, llamada la reina de la costa negra ha crecido y se ha convertido en el terror de las rutas mercantes de la costa negra.
+Además, las leyendas cuentan, de su segundo al mando, un guerrero nordico que no tiene igual en batalla.
+
+La Tigresa se encuentra navegando al norte de las costa negra, y está justo donde desemboca un río. Belit le dice a Conan que ese es el río Zagreba, –que significa muerte–, y que hasta las aguas son venenosas.
+También, le dice que ha escuchado leyendas acerca de una ciudad río adentro llena de riquezas.
+Finalmente, le dice que quiere que naveguen río adentro en busca de la ciudad para saquear sus riquezas.
+Conan accede –pues nunca cuestiona a la voluntad de Belit–.
+
+En ese momento ambos están acostados y Belit pregunta a Conan si creen los dioses.
+La pregunta provoca una reflexión mutua acerca de los diferentes dioses y culturas, así como el significado de la vida y cual es el destino final de las almas de la personas cuando mueren.
+Conan, deja claro que cree en los dioses pero no confía en ellos.
+Que él está contento con una vida de riesgos, acción y placer.
+Belit le dice a Conan que ella lo ama, y que si algún día ella muere y Conan se encontrará en un peligro mortal, ella regresaría de la muerte para ayudarlo, pues su amor es más fuerte que la barrera de la muerte.
+
+Las reflexiones son interrumpidas por un grito en la cubierta.
+Conan salta del lecho y corre hacia donde se escuchó el grito y encuentra a un centinela en cubierta que está siendo devorado por una serpiente gigante.
+Conan ataca a la serpiente, y aunque casi logra partirla en dos, es muy tarde y la serpiente y su víctima se hunden en las aguas del río.
+Conan decide hacer guardia él mismo el resto de la noche.
+
+Al amanecer divisan las ruinas de una ciudad. Los edificios en ruinas y la selva poco a poco ha empezado a invadir la otrora imponente ciudad.
+En la punta de uno de los edificios en forma de pirámide hay lo que en un principio parece ser una estatua.
+Pero que al moverse se dan cuenta que es un animal o bestia, parece ser una especie de simio con alas de murciélago.
+La criatura emprende el vuelo y escapa de la vista de la tripulación. Nyaga, advierte que la ciudad está embrujada y que deberían alejarse de ahí.
+Belit, se burla de la superstición del viejo y ella misma es la primera en desembarcar, seguida de Conan.
+
+La Tigresa es asegurada en un muelle en ruinas y la tripulación se dispone a explorar la ciudad.
+Después de caminar por una calzada Belit, divisa un edificio con un altar que ella asume debe ser el templo y por lo tanto el lugar donde estarían ocultas las riquezas.
+
+Al llegar, al templo ven una altar de piedra. Belit de inmediato identifica que los antiguos solían esconder riquezas debajo de usu altares y pide que entre cuatro de sus hombre intenten levantarlo, para ver que hay debajo.
+Se dan cuenta además que hay orificio para levantar la piedra, pero que parece no estar hecho para manos humanas. Conan junto con otros tres piratas se preparan para cumplir la orden.
+Sin embargo, Belit lanza un grito de miedo, que provoca que Conan abandone su tarea y se apresura a su lado, ella le dice que vio una serpiente y mientras Conan busca la susodicha serpiente para matarla otro pirata toma su lugar en el altar he intentan levantar la piedra.
+Se escucha un ruido de mecanismos y el altar se derrumba encima de los cuatro piratas matándolos al instante.
+Belit, le confiesa a Conan, que no había tal serpiente, que ella presintió que podría haber una trampa y que no quiso arriesgarlo.
+Belit ordena que retiren los escombros del altar y los cuerpos de los piratas y sigan escarbando.
+Descubren un compartimento lleno de joyas.
+Están ante la riqueza más impresionante que hayan visto jamás.
+
+Belit se sumerge en el tesoro y encuentra una joya en forma de collar de rubíes.
+Luego ordena que empiezen a sacar el tesoro para transportarlo al tigresa.
+Conan se da cuenta que hay un especie de mancha se aleja volando a lo lejos del Tigresa, y corre hacia la embarcación.
+
+La criatura que vieron antes, ha estado en su barco. Conan va a revisar al barco y al regresar al sitio del tesoro, le cuenta a Belit que la criatura destruyó los barriles de agua.
+Como no pueden beber el agua del río, está preocupado y le pide a Belit que le permita llevarse veinte hombres tierra adentro en una expedición para buscar agua potable.
+Belit, apenas le presta atención, pues sigue embelesada por el tesoro, pero accede, le dice que mientras tanto ella se quedará con el resto de los hombres a transportar el tesoro al barco.
+
+Conan, se adentra a la selva con los veinte hombres.
+Después de avanzar un tiempo se percata de que algo los viene siguiendo.
+Conan le indica a M'Gora, uno de los hombres que va con él y su hombre de confianza, que avancen y que él se esconderá a sorprender a cualquier cosa que los venga siguiendo.
+
+Sin embargo, cuando Conan se queda solo en la selva, le llega un olor curioso.
+Es la flor del loto negro en la vegetacion que rodea.
+La flor –que parece tener voluntad propia– produce un sueño sobrenatural en Conan que cae desmayado.
 
 ### Horror en la selva
 
+Mientras está inconsciente Conan sueña con una civilización pre cataclísmica, son de una raza de seres alados ligeramente parecida al hombre, pero en muchos aspectos son mucho más avanzados que los humanos.
+La raza antigua construyó la ciudad y prosperó por mucho tiempo.
+Luego un conjunto de desastres naturales, hicieron que su civilización se viniera abajo.
+Terremotos y explosiones volcánicas causaron que las aguas del río otrora cristalinas se volvieran venenosas.
+Los pocos habitantes de la raza alada, que sobreviven los desastres, se ven obligados a beber del agua envenenada que los provoca caer en una especie de involución, lo que poco a poco los vuelve bestias salvajes.
+
+El decaimiento de la civilización continúa por años.
+Los últimos habitantes se enfrascan en luchas continuas que llegan hasta el canibalismo.
+La antes floreciente civilización, se ha casi exterminado a sí misma hasta que solo queda un sobreviviente.
+El último sobreviviente ha sufrido una transformación que lo deja horriblemente deformado.
+Es el simio con alas de murciélago que ahora vive en las ruinas de la ciudad.
+
+Cuando el hombre por fin aparece en las eras del tiempo, los primeros en aventurarse en las ruinas son unos Estigios que probablemente vienen huyendo de algún conflicto.
+Los guerreros llegan cerca de las ruinas de la ciudad y caen presa del sueño del loto negro y mientras estan inconsientes, la bestia alada pronuncia una serie de conjuros sobre ellos.
+Al otro día los guerreros se han transformado en hienas salvajes.
+
+Finalmente, Conan ve en el sueño, como el Tigresa se acerca a la ciudad en ruinas.
+Aqui es donde él cae en cuenta que el sueño que esta teniendo, -inducido por el loto negro-, es en relidad una vision del pasado, y que ha visto la historia de lo acontecido en la ciudad.
+En la parte final del sueño, ve como sus hombres, que lo estaban esperando adelante son atacados por las hienas.
+
+En ese momento Conan, hace acopio de toda su voluntad interior y logra vecer el efecto del loto negro y despierta del sueño.
+Se da cuenta que ha permanecido dormido varias horas, pues está casi a punto de anochecer.
+
+Conan se dirige a donde vio a sus hombres ser atacados.
+Para su sorpresa, encuentra una solitaria figura, que parece estar enloquecida.
+Al acercarse se da cuenta que se trata de M’Gora, que lo ataca inmediatamente.
+Pese a que Conan trata de gritar su nombre M’Gora, parece haber perdido la razón y continúa atacando hasta que Conan lo atraviesa con su espada.
+
+Conan explora el claro y se da cuenta que hay un precipicio, al asomarse ve al resto de los guerreros muertos.
+En ese momento, Conan reacciona y decide regresar a toda prisa hacia la Tigresa.
+
+Al llegar, encuentra los cadáveres de los demás hombres alrededor del barco.
+Hay rastros del ataque de las hienas y de que los piratas murieron tratando de huir.
+Con toda la angustia del momento, Conan finalmente aborda el barco y se da cuenta de que el cadáver de Belit pende del mástil colgado por el collar de rubíes.
+
 ### Ataque desde el aire
 
+Conan, se encuentra en lo alto de la pirámide que domina la ciudad.
+Mientras espera recargado en su espada, le da tiempo de reflexionar algunas cosas.
+
+Mediante un recuerdo, nos enteramos que construyó una pira en la tigresa donde colocó el cadáver de Belit, la rodeo de todas las riquezas producto de sus muchos años de saqueo.
+Sin embargo, el tesoro de la ciudad, lo considera maldito y por esa razón lo lanzó al fondo del río.
+Como toque final cubre el cuerpo de Belit con su capa.
+
+Se da cuenta que los piratas no ofrecieron resistencia y que probablemente murieron tratando de salvar sus vidas presas de un terror incontrolable.
+También sabe que el simio alado posee una inteligencia maligna.
+Todo lo indica así: el destruir los barriles de agua, la emboscada a los piratas frente al precipicio y finalmente el colgar a Belit con el propio collar que ella tomó del tesoro de la ciudad.
+
+Sin embargo, no encuentra una razón de por qué a él, lo dejó con vida.
+La unica explicacion es que el horror lo haya planeado todo y le este aplicando una tortura psicologica para matarlo al final.
+
+Al pensar en eso sonríe de manera irónica para sus adentros.
+El  miedo y la angustia, no le provocan ninguna reacción ya.
+Solo se prepara estoico para la última batalla que sabe está a punto de afrontar.
+
+Desde lo alto de la pirámide, siente que las hienas se van acercando.
+Ha preparado su arco y todas las flechas que pudo reunir.
+Cuando la primera hiena trata de acercarse a la pirámide la atraviesa con una flecha.
+Las demás hienas empiezan el ataque.
+Su precisión con el arco, hace que solo la mitad de las hienas alcancen las escaleras de la pirámide.
+Y continúa haciendo estragos entre ellas hasta su última flecha.
+Después espera con su espada a las restantes en lo alto. Logra matar a una de ellas, pero la espada es inutil a tan corta distancia de las demás.
+Termina de matar a los últimos enemigos con sus manos.
+
+Apenas, ha muerto la última de la hienas siente como algo lo ataca desde el aire.
+El simio murciélago, es demasiado astuto para hacerle frente de inmediato.
+Decide tumbar las columnas que se encuentran en la pirámide que comienza a derrumbarse.
+
+Conan, se lanza escalera abaja tratando de escapar del derrumbe.
+Y apenas logra salir con vida, sin embargo un pedazo de columna ha caído sobre sus piernas inmovilizandolo.
+
+Se da cuenta de que su enemigo se acerca a rematarlo, trata con toda su fuerza y desesperación mover la columna que lo aplasta para liberarse. Sabe que no lo logrará a tiempo.
+
+Sin embargo, justo cuando su enemigo está casi sobre él, un destello blaco aparecer en medio de ambos.
+De pronto Conan ve a Belit, parada entre él y su enemigo.
+La reina de la costa negra ataca al simio y provoca que este huya asustado.
+Al menos el tiempo suficiente para que Conan pueda liberarse y hacerse con su espada.
+
+Al volver a mirar Conan se da cuenta de que Belit ha desaparecido.
+Es en ese momento cuando comprende que el cadáver de Belit, sigue en la pira que le construyó en la Tigresa.
+Y que ella ha cumplido la promesa que hizo antes.
+Ha vuelto de la muerte a ayudarlo.
+
+Esto renueva el coraje de Conan, que se prepara para recibir el nuevo ataque del simio murciélago.
+Esta vez espada en mano, el bárbaro logra matarlo al cortarlo en dos con su espada.
+El último miembro de la raza más antigua del planeta ha muerto.
+
 ### La pira funeraria
+
+Conan contempla desde la costa a la Tigresa alejándose mar adentro.
+No hay nadie tripulando y avanza a la deriva impulsada por el viento.
+La pira funeraria ha sido encendida y las llamas empiezan a devorar el barco.
+Belit es el mar y al él regresa en su muerte.
+Así ha desaparecido la reina de la costa negra.
+
+A Conan el mar ahora le parece un destino aún peor que la selva a su espalda, y siempre recargado en su espada observa el barco en llamas perderse en el rojo cielo del océano.
 
 ## Análisis
 
@@ -154,7 +350,7 @@ Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologí
 * Antes fueron hombres
   * transformadon en bestias por la hechizeria
 
-#### N'Gora
+#### M'Gora
 
 * Miembro de la tripulacion de *"La Tigresa"*
 * Segundo al comando (tercero cuando se une Conan)
@@ -167,6 +363,12 @@ Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologí
 * Chaman y curandero
 * Consejero de Belit
 * Es el primero que advierte el peligro mortal
+
+#### La Tigresa
+
+* El barco pirata que comanda Belit
+* Parece estar ligado al destino de su capitana
+* Representa el mar, la libertad de la vida de saqueo
 
 
 ### Citas interesantes
@@ -421,8 +623,15 @@ Son escenas icónicas
 
 ## Opinion personal
 
-Este es uno de los mejores relatos del ciclo de Conan y de REH en general.
+Este relato es importantísimo por que es la primera y única aparición de Belit, que después sería trascendental en el lore de Conan.
 
+El segundo capítulo es uno de los mejores interludios de reflexión de REH. Prácticamente toda la plática de Conan y Belit es importantísima para entender el tipo de hombre que es Conan en esta etapa de su vida. Y además nos deja claro el pensamiento de REH sobre otros temas como la religión y la vida después de la muerte.
+
+De nuevo de manera magistral nos deja ver el código del salvaje, cuando Conan narra por qué huye de los guardias al principio del relato.
+
+También es uno de los relatos de REH donde cada capítulo tiene un título y un epígrafe. Y por si fuera poco los epígrafes son un ejemplo de la poesía de REH.
+
+Sin lugar a dudas, éste es uno de los mejores relatos del ciclo de Conan y de REH en general.
 
 ## Referencias
 
