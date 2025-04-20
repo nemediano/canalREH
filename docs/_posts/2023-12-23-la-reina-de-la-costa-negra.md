@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2024-12-15
+last_modified_at: 2025-04-19
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -61,7 +61,33 @@ Si solo se cuentan historias publicadas en la vida de REH, son 18 (o 17 dependie
 
 Si se añaden la historias que fueron rechazadas por los editores durante la vida de REH, y luego publicadas después de su muerte; así como fragmentos que el autor dejó inconclusos y que fueron --muchos años después-- terminados y publicados por otros autores, ahí la cuenta sube a 25.
 
-![Orden de publicacion]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/OrdenPublicacion.png "Orden de publicación")
+| Orden | Titulo | Fecha |
+| --: | :-- | --: |
+| 1 | El Fénix en la espada | Diciembre 1932 |
+| 2 | La ciudadela escarlata | Enero 1933 |
+| 3 | La torre del elefante | Marzo 1933 |
+| 4 | Coloso negro | Junio 1933 |
+| 5 | Xuthal del crepusculo | Septiembre 1933 |
+| 6 | El estanque del negro | Octobre 1933 |
+| 7 | Villanos en la casa | Enero 1934 |
+| 8 | La hija del gigante helado | Marzo 1934 |
+| 9 | Sombras de hierro a la luz de la luna | Abril 1934 |
+| 10 | Reina de la costa negra | Mayo 1934 |
+| 11 | El diablo de hierro | Agosto 1934 |
+| 12 | La gente del círculo negro | Noviembre 1934 |
+| 13 | Nacerá una bruja | Diciembre 1934 |
+| 14 | Los sirvientes de Bit-Yakin | Marzo 1935 |
+| 15 | Más allá del río negro | Junio 1935 |
+| 16 | Los antropófagos de Zamboula | Noviembre 1935 |
+| 17 | La hora del dragón  | Abril 1936 |
+| 18 | Clavos rojos | October 1936 |
+| 19 | El dios en el cuenco | September 1952 |
+| 20 | El negro desconocido | Febrero 1953 |
+| 21 | Tambores de Tombalku | 1966 |
+| 22 | La sala de los muertos | Febrero 1967 |
+| 23 | El valle de la mujeres perdidas | Marzo 1967 |
+| 24 | La mano de Nergal | Enero 1967 |
+| 25 | El hocico en al obscuridad | Enero 1969 |
 
 Aunque los biógrafos dicen que esta fue la sexta historia del ciclo en ser escrita. Fué la décima historia de Conan en ser publicada.
 
@@ -77,7 +103,9 @@ Por esta situacion, en las cronologías de los pastiches (las aventuras de Conan
 
 Aunque en el relato la edad de Conan no se menciona, de acuerdo a las cronologías Conan deberia haber tenido cerca de 24 años cuando el relato empieza.
 
-![Orden en la cronología]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/Cronologias.png "Orden en la cronología")
+| | Orden de escritura | Dale Rippke | Joe Marek | L. Sprague de Camp | Robert Jordan | William Galeb Gray |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| La reina de la costa negra | 6 | 9 | 10 | 26 | 31 | 39 |
 
 ## Resumen
 
