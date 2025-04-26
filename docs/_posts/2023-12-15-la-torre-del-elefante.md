@@ -18,7 +18,7 @@ seo_description: La torre del elefante es una historia de Conan el bárbaro escr
 
 date: 2023-12-14
 
-last_modified_at: 2025-04-19
+last_modified_at: 2025-04-26
 
 image:
   path: /static/images/conan/torreElefante/Intro.png
@@ -63,7 +63,7 @@ Si se añaden la historias que fueron rechazadas por los editores durante la vid
 | --: | :-- | --: |
 | 1 | El Fénix en la espada | Diciembre 1932 |
 | 2 | La ciudadela escarlata | Enero 1933 |
-| 3 | La torre del elefante | Marzo 1933 |
+| **3** | **La torre del elefante** | **Marzo 1933** |
 | 4 | Coloso negro | Junio 1933 |
 | 5 | Xuthal del crepusculo | Septiembre 1933 |
 | 6 | El estanque del negro | Octobre 1933 |

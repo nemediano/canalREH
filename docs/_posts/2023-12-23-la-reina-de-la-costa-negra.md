@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "La reina de la costa negra"
+title: "La reina de la Costa Negra"
 
 categories: conan
 
@@ -10,13 +10,13 @@ author:
 
 excerpt: La reina de la costa negra es una historia de Conan el bárbaro escrita por Robert E. Howard (REH). Este es un analisis literario en español de ésta obra. Cabe mencionar que La reina de la costa negra es considerada un relato clásico de Conan y una de la pocas historias de romance que escribió REH. Es particularmente importante por ser la primera y única aparición de Belit.
 
-seo_title: La reina de la costa negra - Conan - Robert E. Howard - Análisis literario
+seo_title: La reina de la Costa Negra - Conan - Robert E. Howard - Análisis literario
 
 seo_description: La reina de la costa negra es una historia de Conan el bárbaro escrita por Robert E. Howard (REH). Este es un analisis literario en español de ésta obra. Cabe mencionar que La reina de la costa negra es considerada un relato clásico de Conan y una de la pocas historias de romance que escribió REH. Es particularmente importante por ser la primera y única aparición de Belit.
 
 date: 2023-12-23
 
-last_modified_at: 2025-04-19
+last_modified_at: 2025-04-26
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -72,7 +72,7 @@ Si se añaden la historias que fueron rechazadas por los editores durante la vid
 | 7 | Villanos en la casa | Enero 1934 |
 | 8 | La hija del gigante helado | Marzo 1934 |
 | 9 | Sombras de hierro a la luz de la luna | Abril 1934 |
-| 10 | Reina de la costa negra | Mayo 1934 |
+| **10** | **La reina de la Costa Negra** | **Mayo 1934** |
 | 11 | El diablo de hierro | Agosto 1934 |
 | 12 | La gente del círculo negro | Noviembre 1934 |
 | 13 | Nacerá una bruja | Diciembre 1934 |
