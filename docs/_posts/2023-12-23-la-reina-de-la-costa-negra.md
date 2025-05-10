@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2025-04-26
+last_modified_at: 2025-05-10
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -72,7 +72,7 @@ Si se añaden la historias que fueron rechazadas por los editores durante la vid
 | 7 | Villanos en la casa | Enero 1934 |
 | 8 | La hija del gigante helado | Marzo 1934 |
 | 9 | Sombras de hierro a la luz de la luna | Abril 1934 |
-| **10** | **La reina de la Costa Negra** | **Mayo 1934** |
+| **_10_** | **_La reina de la Costa Negra_** | **_Mayo 1934_** |
 | 11 | El diablo de hierro | Agosto 1934 |
 | 12 | La gente del círculo negro | Noviembre 1934 |
 | 13 | Nacerá una bruja | Diciembre 1934 |

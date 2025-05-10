@@ -14,11 +14,9 @@ seo_title: La torre del elefante - Conan - Robert E. Howard - Análisis literari
 
 seo_description: La torre del elefante es una historia de Conan el bárbaro escrita por Robert E. Howard (REH). Este es un analisis literario en español de ésta obra. Cabe mencionar que La torre del elefante es considerada un relato clásico de Conan y una de los mejores cuentos tanto de este ciclo como de la obra de REH en general.
 
-#permalink: la-torre-del-elefante
-
 date: 2023-12-14
 
-last_modified_at: 2025-04-26
+last_modified_at: 2025-05-10
 
 image:
   path: /static/images/conan/torreElefante/Intro.png
@@ -63,7 +61,7 @@ Si se añaden la historias que fueron rechazadas por los editores durante la vid
 | --: | :-- | --: |
 | 1 | El Fénix en la espada | Diciembre 1932 |
 | 2 | La ciudadela escarlata | Enero 1933 |
-| **3** | **La torre del elefante** | **Marzo 1933** |
+| **_3_** | **_La torre del elefante_** | **_Marzo 1933_** |
 | 4 | Coloso negro | Junio 1933 |
 | 5 | Xuthal del crepusculo | Septiembre 1933 |
 | 6 | El estanque del negro | Octobre 1933 |
@@ -97,7 +95,7 @@ Ha habido varios intentos de establecer una [cronología de la vida ficticia de 
 Aunque hay por los menos otros cuatro intentos importantes, que ya incluyen los trabajos de los otros autores escritos muchos años después de la muerte de REH.
 
 Casi todas las cronologías coinciden en que este debería ser el segundo *relato* de Conan, (de los escritos por REH), en el orden de la vida del personaje.
-Es decir, donce nos encontramos con un Conan muy joven. Aunque en el relato su edad no se menciona, de acuerdo a las cronologías Conan deberia haber tenido cerca de 17 años.
+Es decir, donde nos encontramos con un Conan muy joven. Aunque en el relato su edad no se menciona, de acuerdo a las cronologías Conan deberia haber tenido cerca de 17 años.
 
 De las otras obras originales de REH anteriores en la cronología dos no son cuentos.
 El ensayo *La era Hiboria* y el poema *Cimeria*.
@@ -135,9 +133,9 @@ Cuando alcanzan la azotea de la torre, se dan cuenta de que hay una puerta al in
 Tauros es el primero en entrar e instantes después sale por la misma puerta mortalmente herido y segundos después esta muerto.
 
 Conan decide terminar la aventura él solo, y al entrar por la puerta se ve obligado a confrontar al asesino de Tauros: una araña gigante.
-Después de un intenso combate, Conan logra aplastar a la araña lnazandole un cofre y decide continuar su descenso por la torre.
+Después de un intenso combate, Conan logra aplastar a la araña lanzandole un cofre y decide continuar su descenso por la torre.
 
-Conan llega a una cámara, en la que encuentra lo que primero cree es un ídolo con cuerpo de hombre pero cabeza de elefante, pero después se da cuenta que es un ser viviente.
+Conan llega a una cámara, en la que encuentra -lo que primero cree es- un ídolo con cuerpo de hombre pero cabeza de elefante, pero después se da cuenta que es un ser viviente.
 
 Al examinar más de cerca, se da cuenta de que el ser es un prisionero que ha sido torturado.
 Cuando la presencia de Conan despierta al ser, éste le dice que su nombre es **Yag-Khosa**, y decide contarle su historia.
@@ -150,8 +148,8 @@ Los seres van muriendo poco a poco hasta que Yag-Khosa, es el único sobrevivien
 
 En ese momento es cuando conoce a **Yara** un hombre que desea aprender de él los conocimientos místicos.
 Yag-Khosa pasa años enseñando a Yara acerca de su magia.
-Pero Yara, lleno de ambición, y por medio de la traición logra capturar y esclavizar a Yag-Khosa.
-Yag-Khosa describe como en los siglos que ha pasado en esclavitud, Yara lo ha obligado, a comoter actos terribles por medio de tortura.
+Pero Yara, lleno de ambición; logra capturar y esclavizar a Yag-Khosa por medio de la traición.
+Yag-Khosa describe como en los siglos que ha pasado en esclavitud, Yara lo ha obligado a cometer actos terribles por medio de tortura.
 
 Después de terminar su narración, Yag-Khosa le pide a Conan que se apiade de él, lo mate y que siga unas instrucciones precisas que provocarán su venganza en contra  de Yara.
 Yag-Khosa, le promete a Conan que si sigue sus instrucciones, él le dará a Conan una forma de salir a salvo de la torre.
@@ -176,9 +174,9 @@ Sin ninguna otra posesión más que su taparrabo, sus sandalias y su espada.
 
 #### Conan
 * Un joven bárbaro del norte
-* Intrepido, impulsivo, desconfiado.
+* Intrépido, impulsivo y desconfiado
 * Poco acostumbrado a la civilización
-* Primitivo, fuerte, rebelde
+* Primitivo, fuerte y rebelde
 
 #### Taurus de Nemedia
 * Un ladrón de renombre
@@ -197,7 +195,7 @@ Sin ninguna otra posesión más que su taparrabo, sus sandalias y su espada.
 #### Yara
 * Hechicero poderoso y malvado
 * Cruel, traicionero y ambicioso
-* Arrogante, no teme perder su poder
+* Arrogante: no teme perder su poder
 
 #### Kothio anonimo
 * Un criminal de poca monta
@@ -232,13 +230,13 @@ Había estado muchas horas en cuclillas en los patios de los filósofos, escucha
 
 > “Civilized men are more discourteous than savages because they know they can be impolite without having their skulls split, as a general thing.”
 
-Los hombres civilizados son menos amables que los salvajes porque saben que pueden ser más descorteses sin correr el riesgo de que les partan la cabeza.
+Los hombres civilizados son menos amables que los salvajes porque saben que pueden ser descorteses sin correr el riesgo de que les partan la cabeza; por regla general.
 
 #### La culpabilidad de una raza sobre sus hombros
 
 > “And suddenly all fear and repulsion went from him, to be replaced by a great pity. What this monster was, Conan could not know, but the evidences of its sufferings were so terrible and pathetic that a strange aching sadness came over the Cimmerian, he knew not why. He only felt that he was looking upon a cosmic tragedy, and he shrank with shame, as if the guilt of a whole race were laid upon him.”
 
-Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasión. Conan no sabía quién era ese monstruo, pero era tan evidente su terrible y patético sufrimiento que, sin saber por qué, le embargó una abrumadora tristeza. Sintió que estaba presenciando una tragedia cósmica y sintió vergüenza, como si la culpa de toda una raza hubiera caído sobre él.
+Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasión. Conan no sabía quién era ese monstruo, pero era tan evidente su terrible y patético sufrimiento, que sin saber por qué, le embargó una abrumadora tristeza. Sintió que estaba presenciando una tragedia cósmica y sintió vergüenza, como si la culpa de toda una raza hubiera caído sobre él.
 
 ### Tropes literarios incluidos
 
@@ -251,26 +249,26 @@ Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasió
 #### Conan el ladrón, el antihéroe
 * Busca su beneficio personal
 * Es el instrumento de la justicia, solo por que lo arrojan las circunstancias
-* Se adhiere a su propio código de ética: simple y bárbaro
+* Se adhiere a su propio código de ética: simple y primitivo
 
 #### Instintos superan la razón
 * Al escapar del leon
 * Y luego de la araña
 * No se vuelve loco al ver a Yag-kosha
-* Conan crítica los sabios y triunfa por sus instintos
+* Conan crítica los eruditos y triunfa por sus instintos
 
 #### Conan odia y teme lo sobrenatural
 Se asusta con:
-* La magia en genral
+* La magia en general
 * La historia que se cuenta de Yara
 * El polvo que mata a lo leones
-* La araña
+* La araña gigante
 * Al ver a Yag-kosha
 
 #### Los cimerios escalando
-Los cimerianos son magnificos alpinistas:
+Los cimerios son magníficos alpinistas:
 * Conan puede:
-  * Escalar los muros exteriores del jardin
+  * Escalar los muros exteriores del jardín
   * Y luego escalar la torre
 
 #### Araña gigante
@@ -281,7 +279,7 @@ Los cimerianos son magnificos alpinistas:
 #### Astronautas ancestrales
 * Sabios y poderosos
 * Fundan lo cimientos de la civilización
-* Los humanos ambiciosos buscan su conocimiento
+* Los humanos ambiciosos, buscan su conocimiento
 
 #### Mitos de Chtullu
 * Criaturas cósmicas llegan a la tierra e interfieren con los humanos
@@ -297,7 +295,6 @@ Los cimerianos son magnificos alpinistas:
 
 #### Hechicero malvado
 * Yara solo tiene poder debido a la magia
-* El poder lo corrompió
 * Busca solo su beneficio personal
 * Ganó su poder mediante traición
 
@@ -364,13 +361,13 @@ Más allá de los cómics ya mencionados, innumerables artistas, han dibujado es
 Este es uno de los mejores relatos del ciclo de Conan y de REH en general.
 Podría entrar en la discusión del mejor relato de Conan por REH.
 A mi me encanta, por el dinamismo y la originalidad.
-Cumple en ir marcando varios puntos de la listita, aunque no todos.
+Es el relato mas representativo del genero espada y hechizeria que yo conozco.
 
-Es un relato corto, gran parte del relato se centra en la introducción, y la acción va poco a poco en aumento. Llegamos tarde al clímax y al desenlace.
-Aún asi, REH nos regala varios párrafos de su mejor escritura.
+Es un relato corto, gran parte del relato se centra en la introducción, y la acción va poco a poco en aumento. Llegamos tarde al clímax, y el desenlace es minimo.
+REH nos regala varios párrafos de su mejor escritura.
 
 Es una historia clásica de Conan, en mi opinión pertenece a las cinco historias de Conan que todo fan de la fantasía debe de leer.
-De hecho, si estás interesado en Conan, nunca lo has leído y tampoco conoces a REH, esta es la historia por la que yo te recomendaria empezar.
+De hecho, si estás interesado en Conan, pero nunca has leído las historias originales y tampoco conoces a REH, esta es la historia por la que yo te recomendaria empezar.
 
 ## Referencias
 
