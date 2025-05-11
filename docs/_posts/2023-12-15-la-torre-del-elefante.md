@@ -16,7 +16,7 @@ seo_description: La torre del elefante es una historia de Conan el bárbaro escr
 
 date: 2023-12-14
 
-last_modified_at: 2025-05-10
+last_modified_at: 2025-05-11
 
 image:
   path: /static/images/conan/torreElefante/Intro.png
@@ -113,7 +113,7 @@ La taberna está repleta de forajidos, ladrones, mercenarios, prostitutas y aven
 
 Uno de ellos, está contando sus planes acerca de un crimen que planea cometer.
 Mientras está narrando menciona la joya conocida como *“el corazón del elefante”* que está en posesión del temido hechicero Yara, en su torre.
-Otro de los asistentes es **Conan** un bárbaro del norte; que en ese momento es muy joven –apenas ha dejado de ser un adolecente–.
+Otro de los asistentes es **Conan** un bárbaro del norte; que en ese momento es muy joven --apenas ha dejado de ser un adolecente--.
 
 El bárbaro decide interrumpir la narración para preguntar con curiosidad acerca de la joya. Debido a la interrupción, empieza una discusión que termina en una pelea.
 En medio de la confusión y después de matar a su oponente Conan escapa y decide encaminarse a *“la torre del elefante”* para tratar de robar la joya.
@@ -135,7 +135,7 @@ Tauros es el primero en entrar e instantes después sale por la misma puerta mor
 Conan decide terminar la aventura él solo, y al entrar por la puerta se ve obligado a confrontar al asesino de Tauros: una araña gigante.
 Después de un intenso combate, Conan logra aplastar a la araña lanzandole un cofre y decide continuar su descenso por la torre.
 
-Conan llega a una cámara, en la que encuentra -lo que primero cree es- un ídolo con cuerpo de hombre pero cabeza de elefante, pero después se da cuenta que es un ser viviente.
+Conan llega a una cámara, en la que encuentra --lo que primero cree es-- un ídolo con cuerpo de hombre pero cabeza de elefante, pero después se da cuenta que es un ser viviente.
 
 Al examinar más de cerca, se da cuenta de que el ser es un prisionero que ha sido torturado.
 Cuando la presencia de Conan despierta al ser, éste le dice que su nombre es **Yag-Khosa**, y decide contarle su historia.
@@ -164,9 +164,8 @@ Dentro de la joya el ser diminuto que ahora es Yara, es perseguido por una versi
 Despues de que  la venganza ha sido ejecutada, la torre empieza a derrumbarse y Conan logra salir sin encontrar ninguna resistencia.
 Al parecer el resto de los guardianes han sido inhabilitados por la promesa de Yag-Khosa.
 
-Finalmente, Conan logra salir de la torre y al mirar hacia atrás observa como esta se derrumba.
-Conan, reflexiona acerca de todo lo que ha pasado esta noche y como al final está justo como empezó la aventura.
-Sin ninguna otra posesión más que su taparrabo, sus sandalias y su espada.
+Finalmente, Conan logra salir de la torre y se pregunta si todo lo que paso ha sido un sueño. Pero al mirar hacia atrás observa el edificio, e instantes después éste se derrumba ante sus ojos.
+
 
 ## Análisis
 
