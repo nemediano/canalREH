@@ -16,7 +16,7 @@ seo_description: La torre del elefante es una historia de Conan el bárbaro escr
 
 date: 2023-12-14
 
-last_modified_at: 2025-05-11
+last_modified_at: 2025-05-14
 
 image:
   path: /static/images/conan/torreElefante/Intro.png
@@ -48,6 +48,10 @@ El tiempo estimado de lectura es de entre media hora y cuarenta minutos dependie
 Esta historia apareció por primera vez en Weird tales en el número de marzo de 1933.
 
 ![Weird Tales 1933 - #3 cover]({{ site.baseurl }}/static/images/conan/torreElefante/WeirdTales-1933-03.jpg "Weird Tales 1933 - #3")
+
+En ese número, hay una ilustración de la historia (lo que la convierte en la primera ilustración de la torre del elefante) hecha por Jayem Wilcox.
+
+![Tower of the elephant - Jayem Wilcox]({{ site.baseurl }}/static/images/conan/torreElefante/JayemWilcoxTowerOfTheElephant.jpg "Tower of the elephant - Jayem Wilcox")
 
 ### Orden de Publicacion
 
@@ -342,6 +346,29 @@ Creditos:
 * **Portada:** [José Ladrönn](https://en.wikipedia.org/wiki/Jos%C3%A9_Ladr%C3%B6nn){:target="_blank" rel="noreferrer noopener"}
 * **Colorista:** [Dave Steward](https://en.wikipedia.org/wiki/Dave_Stewart_(artist)){:target="_blank" rel="noreferrer noopener"}
 * **Letrista:** [Richard Starkings](https://en.wikipedia.org/wiki/Richard_Starkings){:target="_blank" rel="noreferrer noopener"}
+
+### Acción comics: La torre del elefante
+
+![Acción comics: La torre del elefante portada]({{ site.baseurl }}/static/images/conan/torreElefante/AlcatenaTorre.png "Acción comics: La torre del elefante portada")
+
+**A la venta:** Marzo 2025
+
+Creditos:
+
+* **Artista:** [Enrique Alcatena](https://en.wikipedia.org/wiki/Enrique_Alcatena){:target="_blank" rel="noreferrer noopener"}
+* **Escritor:** [Claudio Álvarez](https://www.amazon.com/stores/Claudio-Alvarez/author/B09ZBCQ59D){:target="_blank" rel="noreferrer noopener"}
+
+### Conan illustré: La Tour de l’Eléphant
+
+Esta no es una adaptación, es más bien una edición ilustrada. Pero las ilustraciones son tan bellas que no puedo dejar de listarla.
+
+![La Tour de l’Eléphant portada]({{ site.baseurl }}/static/images/conan/torreElefante/SecherTorre.jpg "La Tour de l’Eléphant portada")
+
+**A la venta:** Octubre  2022 (Edición original en francés)
+
+Creditos:
+
+* **Artista:** [Valentin Sécher](http://www.valentinsecher.com/){:target="_blank" rel="noreferrer noopener"}
 
 ## Influencias
 
