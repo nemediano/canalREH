@@ -56,12 +56,6 @@
 %    \unam
 }
 \date{}
-%\date[Noviembre 2023] % (optional)
-%{Congreso Nacional de Software Libre, Abril 2021}
-%\titlegraphic{\includegraphics[width=1.7cm]{img/escudo-a}}
-
-% Para que el logo parezca en todas las diapositivas
-%\logo{\includegraphics[height=1cm]{img/escudo-a}}
 
 \usetheme{AnnArbor}
 \useinnertheme{circles}
@@ -76,6 +70,17 @@
 
 \setbeamertemplate{caption}{\insertcaption}
 \beamertemplatenavigationsymbolsempty
+
+\AtBeginSection[]{
+	\begin{frame}
+		\vfill
+		\centering
+		\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+			\usebeamerfont{title}\insertsectionhead\par%
+		\end{beamercolorbox}
+		\vfill
+	\end{frame}
+}
 
 \begin{document}
 
