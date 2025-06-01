@@ -16,7 +16,7 @@ seo_description: La torre del elefante es una historia de Conan el bárbaro escr
 
 date: 2023-12-14
 
-last_modified_at: 2025-05-14
+last_modified_at: 2025-06-01
 
 image:
   path: /static/images/conan/torreElefante/Intro.png
@@ -45,7 +45,7 @@ La torre del elefante es una historia corta, poco menos de 9800 palabras en Ingl
 En las traducciones al español se hacen 10600 palabras.
 El tiempo estimado de lectura es de entre media hora y cuarenta minutos dependiendo del lector.
 
-Esta historia apareció por primera vez en Weird tales en el número de marzo de 1933.
+Esta historia apareció por primera vez en Weird tales en el número de [marzo de 1933](https://reh.world/howardworks/weirdpulps/weird-tales-1933-03/){:target="_blank" rel="noreferrer noopener"}.
 
 ![Weird Tales 1933 - #3 cover]({{ site.baseurl }}/static/images/conan/torreElefante/WeirdTales-1933-03.jpg "Weird Tales 1933 - #3")
 
@@ -243,7 +243,7 @@ Y súbitamente todo el miedo y el asco se convirtieron en una profunda compasió
 
 ### Tropes literarios incluidos
 
-#### Espada y hechizeria
+#### Espada y hechizería (Espada y brujería)
 * Temporalidad: una sola noche
 * Aventura circunstancial
 * No genero un cambio
@@ -300,6 +300,11 @@ Los cimerios son magníficos alpinistas:
 * Yara solo tiene poder debido a la magia
 * Busca solo su beneficio personal
 * Ganó su poder mediante traición
+
+#### La taberna
+* En la taberna del pueblo se congregan todos los maleantes
+* Altas probabilidades de una pelea
+* Los agentes de la ley no intervienen, o llegaran tarde
 
 ## Adaptaciones
 
