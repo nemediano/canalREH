@@ -64,6 +64,21 @@
 \setbeamercolor{block title alerted}{fg=white,bg=red}
 \setbeamercolor{alerted text}{fg=red}
 
+% Definición de colores especiales
+\definecolor{amarilloCanal}{RGB}{253, 246, 227}
+\definecolor{grisFuentes}{RGB}{101, 123, 131}
+\definecolor{azulLinks}{RGB}{38, 139, 210}
+
+\setbeamercolor{frametitle}{fg=azulLinks,bg=amarilloCanal}
+\setbeamercolor{title}{fg=azulLinks,bg=amarilloCanal}
+\setbeamercolor{title in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{subsection in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{section in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{author in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+%\setbeamercolor{institute in head/foot}{fg=azulLinks,bg=amarilloCanal}
+%\setbeamercolor{page number in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{date in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+
 % Pongo linkcolor vacío para que los links internos no tengan color
 % Solo los links externos tienen color
 \hypersetup{colorlinks,linkcolor=,urlcolor=blue}
@@ -71,16 +86,33 @@
 \setbeamertemplate{caption}{\insertcaption}
 \beamertemplatenavigationsymbolsempty
 
-\AtBeginSection[]{
+\usepackage{pgfpages} % Lo requiere el generador de notas
+
+% Para generar un pdf con presentacion y notas que puedes presentar usando SW especializado (pymPress)
+\setbeameroption{show notes on second screen=right} %Para generar un pdf imprimible con notas
+\setbeamertemplate{note page}[plain]
+\setbeamerfont{note page}{size=\footnotesize}
+
+%\AtBeginSection[]{
+%	\begin{frame}
+%		\vfill
+%		\centering
+%		\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+%			\usebeamerfont{title}\insertsectionhead\par%
+%		\end{beamercolorbox}
+%		\vfill
+%	\end{frame}
+%}
+
+\AtBeginSection[]
+{
 	\begin{frame}
 		\vfill
 		\centering
-		\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
-			\usebeamerfont{title}\insertsectionhead\par%
-		\end{beamercolorbox}
-		\vfill
+		\tableofcontents[currentsection]
 	\end{frame}
 }
+
 
 \begin{document}
 
