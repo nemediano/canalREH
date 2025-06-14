@@ -16,7 +16,7 @@ seo_description: La torre del elefante es una historia de Conan el bárbaro escr
 
 date: 2023-12-14
 
-last_modified_at: 2025-06-01
+last_modified_at: 2025-06-14
 
 image:
   path: /static/images/conan/torreElefante/Intro.png
@@ -111,7 +111,7 @@ Finalmente a la única historia que la antecede: *La hija del gigante helado* a 
 
 ## Resumen
 
-Todo el relato ocurre en una noche en la ciudad de Arenjunn, en la provincia de Zamora.
+Todo el relato ocurre en una noche.
 La historia comienza en una taberna del barrio del Maul.
 La taberna está repleta de forajidos, ladrones, mercenarios, prostitutas y aventureros.
 
@@ -165,10 +165,11 @@ Cuando Conan entra a la habitación, Yara despierta y Conan --siguiendo las inst
 Una especie de hechizo entra en efecto y Yara, se ve atraído hacia la joya mientras poco a poco va encogiéndose hasta que es un ser de unos cuantos centímetros que es absorbido por la joya.
 Dentro de la joya el ser diminuto que ahora es Yara, es perseguido por una versión de Yag-Khosa que entendemos esta cumpliendo su venganza.
 
-Despues de que  la venganza ha sido ejecutada, la torre empieza a derrumbarse y Conan logra salir sin encontrar ninguna resistencia.
+Despues de que  la venganza ha sido ejecutada, Conan logra salir de la torre sin encontrar ninguna resistencia.
 Al parecer el resto de los guardianes han sido inhabilitados por la promesa de Yag-Khosa.
 
-Finalmente, Conan logra salir de la torre y se pregunta si todo lo que paso ha sido un sueño. Pero al mirar hacia atrás observa el edificio, e instantes después éste se derrumba ante sus ojos.
+Finalmente, Conan esta fuera de la torre y se pregunta si todo lo que paso ha sido un sueño.
+Pero al mirar hacia atrás observa el edificio, e instantes después éste se derrumba ante sus ojos.
 
 
 ## Análisis
