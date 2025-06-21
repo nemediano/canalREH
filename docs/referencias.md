@@ -25,6 +25,8 @@ Si lo que buscas son las ediciones en Español de la obra de REH, busca en la [s
 
 ## Sitios en internet
 
+En primer lugar, este sitio tiene un [canal de youtube](https://www.youtube.com/@baulHoward) que lo complementa.
+
 ### Youtube
 
 {% include youtube.html id='kqdjA88cibk' %}

@@ -11,7 +11,7 @@ seo_title: Acerca de Robert E. Howard y Nemediano.
 
 seo_description: Acerca de Robert E. Howard y Nemediano. El baúl de Howard trata de hacer análisis en español de la vida y obra de Robert E. Howard.
 
-last_modified_at: 2023-12-22
+last_modified_at: 2025-06-21
 ---
 
 ## Robert E. Howard
@@ -45,7 +45,7 @@ Me decidí a hacer este sitio (y el canal que lo acompaña) para tener un espaci
 
 El baúl de Howard, ha sido creado con el fin de poco a poco ir cumpliendo los siguientes objetivos:
 
-* Aspirar a ser el sitio más importante en sobre REH Español y tener un canal de youtube respetable para acompañarlo.
-* Contribuir a que la página de wikipedia en Español de REH sea de primera clase y esté al menos a la par con la versión en Inglés.
+* Aspirar a ser el sitio más importante en sobre REH Español y tener un [canal de youtube](https://www.youtube.com/@baulHoward) respetable para acompañarlo.
+* Contribuir a que la [página de wikipedia en Español de REH](https://es.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"} sea de primera clase y esté al menos a la par con la [versión en Inglés](https://en.wikipedia.org/wiki/Robert_E._Howard){:target="_blank" rel="noreferrer noopener"}.
 * Hacer traducciones al Español de la obras de REH que nunca se ha traducido. Particularmente de sus ensayos y poemas.
 * Curar, editar y publicar en línea, un libro con lo mejor, lo más representativo, o esencial de REH en Español.
