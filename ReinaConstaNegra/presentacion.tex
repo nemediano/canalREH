@@ -1,0 +1,122 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+% Aspect ratio:
+% 610 => 16:10
+% 169 => 16:9 (Mas común actualmente)
+% 149 => 14:9
+%  54 => 5:4
+%  43 => 4:3 (Default)
+%  32 => 3:2
+
+% Tamaño de la fuente
+% 8pt, 9pt, 10pt, 11pt (default), 12pt, 14pt, 17pt, 20pt
+
+% Opciones de lenguaje usando polyglossia (defino dos para este documento)
+\usepackage{polyglossia}
+\setmainlanguage{spanish}
+\setotherlanguage[variant=american]{english}
+
+\usepackage{anyfontsize}
+
+% Los símbolos el los conjuntos numéricos
+\usepackage{amssymb}
+
+% Incluir imágenes
+\usepackage{graphicx}
+% Poder usar subfiguras
+\usepackage{subcaption}
+% Para presentaciones usualmente no necesitamos la primer parte del caption
+\captionsetup[figure]{labelformat=empty}
+\captionsetup[subfigure]{labelformat=empty}
+%\captionsetup[table]{labelformat=empty}
+
+% Tablas con estilo profesional
+\usepackage{booktabs}
+
+% Para usar varias columnas
+\usepackage{multicol}
+
+% Para usar las comillas en español
+\usepackage{dirtytalk}
+
+% Crear un comando para el email
+\newcommand{\email}[1]{
+	\texttt{
+		\href{mailto:#1}{#1}
+	}
+}
+
+% Construyendo la diapositiva de titulo
+\title[La torre del elefante]{La reina de la Costa Negra}
+\subtitle{de Robert E. Howard}
+\author[Nemediano]{Análisis literario}
+\institute[El baúl de Howard]{
+	%     email for contact
+	\normalsize{\email{https://nemediano.github.io/canalREH/conan/la-reina-de-la-costa-negra}}
+	%    university name
+	%    \unam
+}
+\date{}
+
+\usetheme{AnnArbor}
+\useinnertheme{circles}
+\usecolortheme{orchid}
+% El tema Annharbor no usa comando de alerta. Los redefinimos
+\setbeamercolor{block title alerted}{fg=white,bg=red}
+\setbeamercolor{alerted text}{fg=red}
+
+% Definición de colores especiales
+\definecolor{amarilloCanal}{RGB}{253, 246, 227}
+\definecolor{grisFuentes}{RGB}{101, 123, 131}
+\definecolor{azulLinks}{RGB}{38, 139, 210}
+
+\setbeamercolor{frametitle}{fg=azulLinks,bg=amarilloCanal}
+\setbeamercolor{title}{fg=azulLinks,bg=amarilloCanal}
+\setbeamercolor{title in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{subsection in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{section in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{author in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+%\setbeamercolor{institute in head/foot}{fg=azulLinks,bg=amarilloCanal}
+%\setbeamercolor{page number in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+\setbeamercolor{date in head/foot}{fg=grisFuentes,bg=amarilloCanal}
+
+% Pongo linkcolor vacío para que los links internos no tengan color
+% Solo los links externos tienen color
+\hypersetup{colorlinks,linkcolor=,urlcolor=blue}
+
+\setbeamertemplate{caption}{\insertcaption}
+\beamertemplatenavigationsymbolsempty
+
+\usepackage{pgfpages} % Lo requiere el generador de notas
+
+% Para generar un pdf con presentacion y notas que puedes presentar usando SW especializado (pymPress)
+\setbeameroption{show notes on second screen=right} %Para generar un pdf imprimible con notas
+\setbeamertemplate{note page}[plain]
+\setbeamerfont{note page}{size=\footnotesize}
+
+%\AtBeginSection[]{
+%	\begin{frame}
+%		\vfill
+%		\centering
+%		\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+%			\usebeamerfont{title}\insertsectionhead\par%
+%		\end{beamercolorbox}
+%		\vfill
+%	\end{frame}
+%}
+
+\AtBeginSection[]
+{
+	\begin{frame}
+		\vfill
+		\centering
+		\tableofcontents[currentsection]
+	\end{frame}
+}
+
+
+\begin{document}
+
+	% El contenido de la presentación esta en este otro archivo
+	\input{contenido}
+
+\end{document}

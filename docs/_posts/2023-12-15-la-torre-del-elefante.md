@@ -403,7 +403,7 @@ De hecho, si estás interesado en Conan, pero nunca has leído las historias ori
 
 ## Referencias
 
-### Appendices
+### Apéndices
 
 * Desde el artículo de [La torre del elefante](https://en.wikipedia.org/wiki/The_Tower_of_the_Elephant){:target="_blank" rel="noreferrer noopener"} en Wikipedia, puedes emepzar a buscar más información.
 * El audiolibro tanto en [ingles](https://www.youtube.com/watch?v=fmd1kGz5gLg){:target="_blank" rel="noreferrer noopener"} como en [español](https://www.youtube.com/watch?v=fco7Q2Ra398){:target="_blank" rel="noreferrer noopener"} se puede escuchar desde youtube. Sin embargo, recomiendo mas leerlo.

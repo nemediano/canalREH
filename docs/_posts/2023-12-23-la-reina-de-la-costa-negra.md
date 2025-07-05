@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2025-05-10
+last_modified_at: 2025-07-05
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -46,7 +46,7 @@ La reina de la costa negra es una historia corta, poco mas de 11300 palabras en 
 En las traducciones al español se hacen 13200 palabras.
 El tiempo estimado de lectura es de entre treinta y cinco y cincuenta minutos dependiendo del lector.
 
-Esta historia apareció por primera vez en Weird tales en el número de mayo de 1934.
+Esta historia apareció por primera vez en Weird tales en el número de [mayo de 1934](https://reh.world/howardworks/weirdpulps/weird-tales-1934-05/){:target="_blank" rel="noreferrer noopener"}.
 
 Le pagaron $115.00 USD a REH  por ella
 
@@ -325,7 +325,7 @@ A Conan el mar ahora le parece un destino aún peor que la selva a su espalda, y
 
 * Un bárbaro del norte,
   * hombre de acción,
-  * guerrrero por excelencia
+  * guerrero por excelencia
 * Inocente para su entorno: La civilización le parece extraña y sin sentido
   * Con los ideales de su pueblo arraigados
 * Tiene tendencia a la reflexión e introspección
@@ -333,10 +333,10 @@ A Conan el mar ahora le parece un destino aún peor que la selva a su espalda, y
 
 #### Belit
 
-* Lider de los piratas
+* Líder de los piratas
   * que la veneran como diosa
   * y nunca cuestionan sus ordenes
-* De mentalidad prática
+* De mentalidad práctica
 * La autodenominada ***"Reina de la costa negra"***
 * De sentimientos profundos y salvajes
   * Estratega y guerrera
@@ -348,11 +348,11 @@ A Conan el mar ahora le parece un destino aún peor que la selva a su espalda, y
   * y de la civilización y su entorno
 * Un comerciante pacífico
 
-#### El guardian de las ruinas
+#### El guardián de las ruinas
 
 * Miembro de una raza primordial y antigua
   * que se ha sumido en la decadencia por siglos
-* Posedor de fuerza sobrehumana y salvaje
+* Poseedor de fuerza sobrehumana y salvaje
   * pero malvado y astuto
   * con conocimientos de magia
 
@@ -367,23 +367,23 @@ A Conan el mar ahora le parece un destino aún peor que la selva a su espalda, y
 #### El loto negro
 
 * Planta cuyo aroma induce
-  * la paralisis y el sueño
-  * halucinaciones y pesadillas
+  * la parálisis y el sueño
+  * alucinaciones y pesadillas
 * Parecen moverse sin que sople el viento
 
 #### Las hienas
 
-* Sirvientes del guardian de las ruinas
+* Sirvientes del guardián de las ruinas
 * Con tamaño y fuerza sobrenatural
 * Antes fueron hombres
-  * transformadon en bestias por la hechizeria
+  * transformados en bestias por la hechicería
 
 #### M'Gora
 
-* Miembro de la tripulacion de *"La Tigresa"*
+* Miembro de la tripulación de *"La Tigresa"*
 * Segundo al comando (tercero cuando se une Conan)
 * Guerrero fiel y amigo de Conan
-  * que pierde la razón y muere
+  * que pierde la razón y muere a manos de Conan
 
 #### N'Yaga
 
@@ -515,7 +515,7 @@ a la mujer que me habéis entregado.
 
 * Aventura que no genero un cambio
 * La espada: la justicia; la hechicería: el mal
-* Mito de Circe: hechizero convirtió a guerreros en animales/esclavos
+* Mito de Circe: hechicero convirtió a guerreros en animales/esclavos
 
 #### Sueños reveladores
 
@@ -527,7 +527,7 @@ a la mujer que me habéis entregado.
 #### Civilizaciones en declive
 
 * Una civilización avanzada y evolucionada
-  * fué victima de un evento/desastre natural
+  * fue victima de un evento/desastre natural
 * Como resultado
   * involucionó y decayó
   * en un estado primitivo y salvaje
@@ -560,15 +560,15 @@ a la mujer que me habéis entregado.
 
 * Belit promete regresar de la muerte para ayudar a Conan
 * Cumple su promesa, en el momento preciso
-* Conan es consiente de que fué el fantasma de Belit
+* Conan es consiente de que fue el fantasma de Belit
 
 
 #### La filosofía de Conan
 
 * Conan teme y respeta a los dioses
-  * pero no se fia de ellos
+  * pero no se fía de ellos
 * Trata de no meditar y disfrutar la vida
-* No espera nada despues de la muerte
+* No espera nada después de la muerte
   * prefiere vivir en el momento
 
 ## Adaptaciones
@@ -637,7 +637,7 @@ Creditos:
 La reina de la costa negra es un relato muy importante dentro del ciclo de Conan.
 
 * Cuentos de abuelito
-* [Everett F. Bleiler](https://en.wikipedia.org/wiki/E._F._Bleiler){:target="_blank" rel="noreferrer noopener"}, opina que es la mejor historia de conan, por que tiene un motor diferente a la lujuria, ala varicia o el odio.
+* [Everett F. Bleiler](https://en.wikipedia.org/wiki/E._F._Bleiler){:target="_blank" rel="noreferrer noopener"}, opina que es la mejor historia de Conan, por que tiene un motor diferente a la lujuria, la avaricia o el odio.
 * Es la historia de Conan por excelencia para que los cómics llenen lo espacios
   * Durante (los años que pasan juntos como piratas)
   * Despues (¿Cómo se recupero Conan de la perdida de Belit?)
@@ -663,7 +663,7 @@ Sin lugar a dudas, éste es uno de los mejores relatos del ciclo de Conan y de R
 
 ## Referencias
 
-### Appendices
+### Apéndices
 
 * Desde el artículo de [La reina de la costa negra](https://en.wikipedia.org/wiki/Queen_of_the_Black_Coast){:target="_blank" rel="noreferrer noopener"} en Wikipedia, puedes emepzar a buscar más información.
 * El audiolibro tanto en [ingles](https://www.youtube.com/watch?v=Q7mUzrHAf8k){:target="_blank" rel="noreferrer noopener"} como en [español](https://www.youtube.com/watch?v=ut8O04M8eIo){:target="_blank" rel="noreferrer noopener"} se puede escuchar desde youtube. Sin embargo, recomiendo mas leerlo.
