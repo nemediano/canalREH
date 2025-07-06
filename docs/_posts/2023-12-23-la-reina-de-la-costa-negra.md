@@ -16,7 +16,7 @@ seo_description: La reina de la costa negra es una historia de Conan el bárbaro
 
 date: 2023-12-23
 
-last_modified_at: 2025-07-05
+last_modified_at: 2025-07-06
 
 image:
   path: /static/images/conan/reinaCostaNegra/black-coast.jpg
@@ -572,6 +572,22 @@ a la mujer que me habéis entregado.
   * prefiere vivir en el momento
 
 ## Adaptaciones
+
+### Cuentos de Abuelito
+
+![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelito00.jpg "Cuentos de Abuelito")
+![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelito01.jpg "Cuentos de Abuelito")
+![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelito03.jpg "Cuentos de Abuelito")
+![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelitoReprint.jpg "Cuentos de Abuelito portada")
+**Fecha de publicación:** Desde 1952
+* Publicados en 1952 por CEMSA
+* La primer adaptación de Conan al comic
+* Conan era un personaje secundario
+  * Lo dibujaban con cabello rubio
+* Reeditado al menos dos veces
+* Varios artistas:  Hector Gutierrez (Hecky), Francisco G. Alemán (Ale G.), Sal Lavalle.
+* Varios escritores: Victor Rodriguez, Rodolfo Loa, Riol de Man, Carlos del Prado.
+* No tenían licencia ni derechos de publicación de Conan
 
 ### Conan The barbarian
 
