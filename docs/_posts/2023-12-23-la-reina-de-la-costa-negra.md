@@ -579,7 +579,9 @@ a la mujer que me habéis entregado.
 ![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelito01.jpg "Cuentos de Abuelito")
 ![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelito03.jpg "Cuentos de Abuelito")
 ![Cuentos de Abuelito]({{ site.baseurl }}/static/images/conan/reinaCostaNegra/abuelitoReprint.jpg "Cuentos de Abuelito portada")
+
 **Fecha de publicación:** Desde 1952
+
 * Publicados en 1952 por CEMSA
 * La primer adaptación de Conan al comic
 * Conan era un personaje secundario
